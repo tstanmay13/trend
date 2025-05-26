@@ -4,31 +4,31 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97144,
+      "stars": 97146,
       "description": null
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 89472,
+      "stars": 89473,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 61517,
+      "stars": 61519,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 57947,
+      "stars": 57948,
       "description": "Python tool for converting files and office documents to Markdown."
     },
     {
       "title": "All-Hands-AI/OpenHands",
       "url": "https://github.com/All-Hands-AI/OpenHands",
-      "stars": 56189,
+      "stars": 56190,
       "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
     }
   ],
@@ -36,27 +36,27 @@
     {
       "title": "Engineers discover new class of materials that passively harvest water from air",
       "url": "https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/",
-      "score": 136
+      "score": 147
     },
     {
       "title": "Particle Life simulation in browser using WebGPU",
       "url": "https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html",
-      "score": 94
-    },
-    {
-      "title": "Cloudflare CEO: Football Piracy Blocks Will Claim Lives; \"I Pray No One Dies\"",
-      "url": "https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/",
-      "score": 68
-    },
-    {
-      "title": "TIL: timeout in Bash scripts",
-      "url": "https://heitorpb.github.io/bla/timeout/",
-      "score": 78
+      "score": 100
     },
     {
       "title": "German court sends VW execs to prison over Dieselgate scandal",
       "url": "https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/",
-      "score": 74
+      "score": 129
+    },
+    {
+      "title": "TIL: timeout in Bash scripts",
+      "url": "https://heitorpb.github.io/bla/timeout/",
+      "score": 88
+    },
+    {
+      "title": "Launch HN: Nomi (YC X25) \u2013 Cursor for Sales",
+      "url": "https://news.ycombinator.com/item?id=44098706",
+      "score": 3
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "KinshukBasicCalculator added to PyPI",
-      "url": "https://pypi.org/project/kinshukbasiccalculator/"
+      "name": "PyContracts311 added to PyPI",
+      "url": "https://pypi.org/project/pycontracts311/"
     },
     {
-      "name": "invoiceoban added to PyPI",
-      "url": "https://pypi.org/project/invoiceoban/"
+      "name": "spruce-compiler added to PyPI",
+      "url": "https://pypi.org/project/spruce-compiler/"
     },
     {
-      "name": "pylibswathi added to PyPI",
-      "url": "https://pypi.org/project/pylibswathi/"
+      "name": "musy added to PyPI",
+      "url": "https://pypi.org/project/musy/"
     },
     {
-      "name": "llama-index-llms-servam added to PyPI",
-      "url": "https://pypi.org/project/llama-index-llms-servam/"
+      "name": "hfsynpy added to PyPI",
+      "url": "https://pypi.org/project/hfsynpy/"
     },
     {
-      "name": "mondip-ml-tutorials2 added to PyPI",
-      "url": "https://pypi.org/project/mondip-ml-tutorials2/"
+      "name": "ros-map-editor added to PyPI",
+      "url": "https://pypi.org/project/ros-map-editor/"
     }
   ]
 }
