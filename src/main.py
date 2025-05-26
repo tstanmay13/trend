@@ -32,15 +32,24 @@ def fetch_hackernews_top():
 
 def fetch_reddit_top():
     """Fetch top 5 posts from r/programming"""
-    headers = {'User-Agent': 'TrendingTechBot/1.0'}
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (compatible; TrendingTechBot/1.0; +http://github.com/your-username/trend)',
+        'Accept': 'application/json'
+    }
     url = "https://www.reddit.com/r/programming/top.json?t=day&limit=5"
-    response = requests.get(url, headers=headers)
-    posts = response.json()['data']['children']
-    return [{
-        'title': post['data']['title'],
-        'url': f"https://reddit.com{post['data']['permalink']}",
-        'score': post['data']['score']
-    } for post in posts]
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()  # Raise an error for bad status codes
+        data = response.json()
+        posts = data['data']['children']
+        return [{
+            'title': post['data']['title'],
+            'url': f"https://reddit.com{post['data']['permalink']}",
+            'score': post['data']['score']
+        } for post in posts]
+    except Exception as e:
+        print(f"Error fetching Reddit data: {str(e)}")
+        return []  # Return empty list on error
 
 def fetch_npm_trending():
     """Fetch top 5 NPM packages by downloads"""
@@ -69,25 +78,30 @@ def format_markdown(github, hackernews, reddit, npm, pypi):
     
     md = f"# Tech Trends Summary - {today}\n\n"
     
-    md += "## GitHub Trending\n"
-    for repo in github:
-        md += f"- [{repo['title']}]({repo['url']}) - ⭐ {repo['stars']}\n  {repo['description']}\n"
+    if github:
+        md += "## GitHub Trending\n"
+        for repo in github:
+            md += f"- [{repo['title']}]({repo['url']}) - ⭐ {repo['stars']}\n  {repo['description']}\n"
     
-    md += "\n## Hacker News Top Stories\n"
-    for story in hackernews:
-        md += f"- [{story['title']}]({story['url']}) - 👍 {story['score']}\n"
+    if hackernews:
+        md += "\n## Hacker News Top Stories\n"
+        for story in hackernews:
+            md += f"- [{story['title']}]({story['url']}) - 👍 {story['score']}\n"
     
-    md += "\n## Reddit r/programming\n"
-    for post in reddit:
-        md += f"- [{post['title']}]({post['url']}) - 👍 {post['score']}\n"
+    if reddit:
+        md += "\n## Reddit r/programming\n"
+        for post in reddit:
+            md += f"- [{post['title']}]({post['url']}) - 👍 {post['score']}\n"
     
-    md += "\n## NPM Trending\n"
-    for pkg in npm:
-        md += f"- {pkg['name']} - 📦 {pkg['downloads']} downloads\n"
+    if npm:
+        md += "\n## NPM Trending\n"
+        for pkg in npm:
+            md += f"- {pkg['name']} - 📦 {pkg['downloads']} downloads\n"
     
-    md += "\n## PyPI Trending\n"
-    for pkg in pypi:
-        md += f"- [{pkg['name']}]({pkg['url']})\n"
+    if pypi:
+        md += "\n## PyPI Trending\n"
+        for pkg in pypi:
+            md += f"- [{pkg['name']}]({pkg['url']})\n"
     
     return md
 
