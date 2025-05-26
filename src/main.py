@@ -33,13 +33,13 @@ def fetch_hackernews_top():
 def fetch_reddit_top():
     """Fetch top 5 posts from r/programming"""
     headers = {
-        'User-Agent': 'Mozilla/5.0 (compatible; TrendingTechBot/1.0; +http://github.com/your-username/trend)',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
         'Accept': 'application/json'
     }
     url = "https://www.reddit.com/r/programming/top.json?t=day&limit=5"
     try:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()  # Raise an error for bad status codes
+        response = requests.get(url, headers=headers, allow_redirects=True)
+        response.raise_for_status()
         data = response.json()
         posts = data['data']['children']
         return [{
@@ -49,17 +49,24 @@ def fetch_reddit_top():
         } for post in posts]
     except Exception as e:
         print(f"Error fetching Reddit data: {str(e)}")
-        return []  # Return empty list on error
+        return []
 
 def fetch_npm_trending():
     """Fetch top 5 NPM packages by downloads"""
-    url = "https://api.npmjs.org/downloads/point/last-day"
-    response = requests.get(url)
-    packages = sorted(response.json().items(), key=lambda x: x[1], reverse=True)[:5]
-    return [{
-        'name': pkg[0],
-        'downloads': pkg[1]
-    } for pkg in packages]
+    try:
+        # Get top packages from npmjs.com/browse/depended
+        url = "https://registry.npmjs.org/-/v1/search?text=popularity:>10000&size=5"
+        response = requests.get(url)
+        response.raise_for_status()
+        data = response.json()
+        
+        return [{
+            'name': pkg['package']['name'],
+            'downloads': pkg['package']['downloads'] if 'downloads' in pkg['package'] else 'N/A'
+        } for pkg in data['objects']]
+    except Exception as e:
+        print(f"Error fetching NPM data: {str(e)}")
+        return []
 
 def fetch_pypi_trending():
     """Fetch top 5 trending PyPI packages"""
@@ -96,7 +103,8 @@ def format_markdown(github, hackernews, reddit, npm, pypi):
     if npm:
         md += "\n## NPM Trending\n"
         for pkg in npm:
-            md += f"- {pkg['name']} - 📦 {pkg['downloads']} downloads\n"
+            downloads = pkg['downloads'] if isinstance(pkg['downloads'], int) else 'N/A'
+            md += f"- {pkg['name']} - 📦 {downloads}\n"
     
     if pypi:
         md += "\n## PyPI Trending\n"
