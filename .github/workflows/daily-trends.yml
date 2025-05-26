@@ -5,6 +5,9 @@ on:
     - cron: '0 4 * * *'  # Runs at 4am UTC daily
   workflow_dispatch:  # Allows manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   update-trends:
     runs-on: ubuntu-latest
@@ -34,4 +37,5 @@ jobs:
         git config --local user.name "tstanmay13"
         git add data/
         git diff --quiet && git diff --staged --quiet || git commit -m "Update trends data for $(date +'%Y-%m-%d')"
-        git push 
+        git pull --rebase
+        git push
