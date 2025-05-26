@@ -11,6 +11,8 @@ jobs:
     
     steps:
     - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
     
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -27,8 +29,8 @@ jobs:
         
     - name: Commit and push if changes
       run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
+        git config --local user.email "tstanmay13@gmail.com"
+        git config --local user.name "tstanmay13"
         git add data/
         git diff --quiet && git diff --staged --quiet || git commit -m "Update trends data for $(date +'%Y-%m-%d')"
         git push 
