@@ -1,0 +1,107 @@
+{
+  "date": "2025-05-27",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97159,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 89477,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 61575,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 57973,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 56255,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "FromSoft's singular mech game Chromehounds is back online",
+      "url": "https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/",
+      "score": 90
+    },
+    {
+      "title": "CSS Minecraft",
+      "url": "https://benjaminaster.com/css-minecraft/",
+      "score": 489
+    },
+    {
+      "title": "Accessing private GitHub repositories via MCP",
+      "url": "https://invariantlabs.ai/blog/mcp-github-vulnerability",
+      "score": 93
+    },
+    {
+      "title": "Yes-rs: A fast, memory-safe rewrite of the classic Unix yes command",
+      "url": "https://github.com/jedisct1/yes-rs",
+      "score": 41
+    },
+    {
+      "title": "Lossless video compression using Bloom filters",
+      "url": "https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md",
+      "score": 209
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "maxpdffiles added to PyPI",
+      "url": "https://pypi.org/project/maxpdffiles/"
+    },
+    {
+      "name": "code-puppy added to PyPI",
+      "url": "https://pypi.org/project/code-puppy/"
+    },
+    {
+      "name": "torchcriterion added to PyPI",
+      "url": "https://pypi.org/project/torchcriterion/"
+    },
+    {
+      "name": "AutoPI added to PyPI",
+      "url": "https://pypi.org/project/autopi/"
+    },
+    {
+      "name": "travelagent1 added to PyPI",
+      "url": "https://pypi.org/project/travelagent1/"
+    }
+  ]
+}
