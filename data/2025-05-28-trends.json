@@ -1,0 +1,107 @@
+{
+  "date": "2025-05-28",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97189,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 89495,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 61687,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 58024,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 56407,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Show HN: AutoThink \u2013 Boosts local LLM performance by 43% with adaptive reasoning",
+      "url": "https://news.ycombinator.com/item?id=44112326",
+      "score": 69
+    },
+    {
+      "title": "Show HN: My LLM CLI tool can run tools now, from Python code or plugins",
+      "url": "https://simonwillison.net/2025/May/27/llm-tools/",
+      "score": 255
+    },
+    {
+      "title": "A UEFI app that sends LLDP-MED pkt at boot to negotiate PoE+ power before the OS",
+      "url": "https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution",
+      "score": 83
+    },
+    {
+      "title": "Look ma, no bubbles designing a low-latency megakernel for Llama-1B",
+      "url": "https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles",
+      "score": 88
+    },
+    {
+      "title": "Square Theory",
+      "url": "https://aaronson.org/blog/square-theory",
+      "score": 483
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "utk-curio added to PyPI",
+      "url": "https://pypi.org/project/utk-curio/"
+    },
+    {
+      "name": "purgo-ingest added to PyPI",
+      "url": "https://pypi.org/project/purgo-ingest/"
+    },
+    {
+      "name": "doctomarkdown added to PyPI",
+      "url": "https://pypi.org/project/doctomarkdown/"
+    },
+    {
+      "name": "sk-algorithm added to PyPI",
+      "url": "https://pypi.org/project/sk-algorithm/"
+    },
+    {
+      "name": "netmind-mcpserver-mcp added to PyPI",
+      "url": "https://pypi.org/project/netmind-mcpserver-mcp/"
+    }
+  ]
+}
