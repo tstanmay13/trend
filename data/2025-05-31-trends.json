@@ -1,0 +1,107 @@
+{
+  "date": "2025-05-31",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97285,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 89724,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 61988,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 58146,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 56784,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Photos taken inside musical instruments",
+      "url": "https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments",
+      "score": 397
+    },
+    {
+      "title": "Valkey Turns One: Community fork of Redis",
+      "url": "https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/",
+      "score": 88
+    },
+    {
+      "title": "Surprisingly fast AI-generated kernels we didn't mean to publish yet",
+      "url": "https://crfm.stanford.edu/2025/05/28/fast-kernels.html",
+      "score": 222
+    },
+    {
+      "title": "Mary Meeker's first Trends report since 2019, focused on AI",
+      "url": "https://www.bondcap.com/reports/tai",
+      "score": 106
+    },
+    {
+      "title": "Reverse engineering of Linear's sync engine",
+      "url": "https://github.com/wzhudev/reverse-linear-sync-engine",
+      "score": 49
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "balipkg-textpreprocessor added to PyPI",
+      "url": "https://pypi.org/project/balipkg-textpreprocessor/"
+    },
+    {
+      "name": "anylist added to PyPI",
+      "url": "https://pypi.org/project/anylist/"
+    },
+    {
+      "name": "btdtrigger added to PyPI",
+      "url": "https://pypi.org/project/btdtrigger/"
+    },
+    {
+      "name": "makcu added to PyPI",
+      "url": "https://pypi.org/project/makcu/"
+    },
+    {
+      "name": "tugo added to PyPI",
+      "url": "https://pypi.org/project/tugo/"
+    }
+  ]
+}
