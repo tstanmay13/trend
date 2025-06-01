@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-01",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97318,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 89765,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 62043,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 58168,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 57004,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "RenderFormer: Neural Rendering of Triangle Meshes with Global Illumination",
+      "url": "https://microsoft.github.io/renderformer/",
+      "score": 29
+    },
+    {
+      "title": "Precision Clock Mk IV",
+      "url": "https://mitxela.com/projects/precision_clock_mk_iv",
+      "score": 429
+    },
+    {
+      "title": "New Adaptive Optics Shows Details of Our Star's Atmosphere",
+      "url": "https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/",
+      "score": 58
+    },
+    {
+      "title": "Progressive JSON",
+      "url": "https://overreacted.io/progressive-json/",
+      "score": 118
+    },
+    {
+      "title": "Ovld \u2013 Efficient and featureful multiple dispatch for Python",
+      "url": "https://github.com/breuleux/ovld",
+      "score": 7
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "cliven added to PyPI",
+      "url": "https://pypi.org/project/cliven/"
+    },
+    {
+      "name": "weather-cli-liuxq added to PyPI",
+      "url": "https://pypi.org/project/weather-cli-liuxq/"
+    },
+    {
+      "name": "python-markdown added to PyPI",
+      "url": "https://pypi.org/project/python-markdown/"
+    },
+    {
+      "name": "automl-ai added to PyPI",
+      "url": "https://pypi.org/project/automl-ai/"
+    },
+    {
+      "name": "bruker-reader added to PyPI",
+      "url": "https://pypi.org/project/bruker-reader/"
+    }
+  ]
+}
