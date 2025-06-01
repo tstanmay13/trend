@@ -1,0 +1,107 @@
+{
+  "date": "2025-05-30",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97274,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 89663,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 61897,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 58109,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 56848,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Practical SDR: Getting started with software-defined radio",
+      "url": "https://nostarch.com/practical-sdr",
+      "score": 66
+    },
+    {
+      "title": "Player Piano Rolls",
+      "url": "https://omeka-s.library.illinois.edu/s/MPAL/page/player-piano-rolls-landing",
+      "score": 19
+    },
+    {
+      "title": "WeatherStar 4000+: Weather Channel Simulator",
+      "url": "https://weatherstar.netbymatt.com/",
+      "score": 550
+    },
+    {
+      "title": "Dr John C. Clark, a scientist who disarmed atomic bombs twice",
+      "url": "https://daxe.substack.com/p/disarming-an-atomic-bomb-is-the-worst",
+      "score": 54
+    },
+    {
+      "title": "FLUX.1 Kontext",
+      "url": "https://bfl.ai/models/flux-kontext",
+      "score": 296
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "tinymsg added to PyPI",
+      "url": "https://pypi.org/project/tinymsg/"
+    },
+    {
+      "name": "nonebot-plugin-hacker-news added to PyPI",
+      "url": "https://pypi.org/project/nonebot-plugin-hacker-news/"
+    },
+    {
+      "name": "posix-or-nt added to PyPI",
+      "url": "https://pypi.org/project/posix-or-nt/"
+    },
+    {
+      "name": "katalyst added to PyPI",
+      "url": "https://pypi.org/project/katalyst/"
+    },
+    {
+      "name": "apexnova added to PyPI",
+      "url": "https://pypi.org/project/apexnova/"
+    }
+  ]
+}
