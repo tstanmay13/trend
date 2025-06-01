@@ -4,59 +4,59 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97318,
+      "stars": 97326,
       "description": null
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 89765,
+      "stars": 89782,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 62043,
+      "stars": 62089,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 58168,
+      "stars": 58215,
       "description": "Python tool for converting files and office documents to Markdown."
     },
     {
-      "title": "All-Hands-AI/OpenHands",
-      "url": "https://github.com/All-Hands-AI/OpenHands",
-      "stars": 57004,
-      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 57164,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     }
   ],
   "hackernews_top": [
     {
-      "title": "RenderFormer: Neural Rendering of Triangle Meshes with Global Illumination",
-      "url": "https://microsoft.github.io/renderformer/",
-      "score": 29
+      "title": "How I got a Root Shell on a Credit Card Terminal",
+      "url": "https://stefan-gloor.ch/yomani-hack",
+      "score": 258
     },
     {
-      "title": "Precision Clock Mk IV",
-      "url": "https://mitxela.com/projects/precision_clock_mk_iv",
-      "score": 429
+      "title": "FOSS 3-2-1 Backup from SD-Card to Cloud",
+      "url": "https://github.com/chrfrenning/zentransfer-desktop",
+      "score": 10
     },
     {
-      "title": "New Adaptive Optics Shows Details of Our Star's Atmosphere",
-      "url": "https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/",
-      "score": 58
+      "title": "Cinematography of \"Andor\"",
+      "url": "https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html",
+      "score": 207
     },
     {
-      "title": "Progressive JSON",
-      "url": "https://overreacted.io/progressive-json/",
-      "score": 118
+      "title": "Estimating Logarithms",
+      "url": "https://obrhubr.org/logarithm-estimation",
+      "score": 17
     },
     {
-      "title": "Ovld \u2013 Efficient and featureful multiple dispatch for Python",
-      "url": "https://github.com/breuleux/ovld",
-      "score": 7
+      "title": "Atari Means Business with the Mega ST",
+      "url": "https://www.goto10retro.com/p/atari-means-business-with-the-mega",
+      "score": 115
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "cliven added to PyPI",
-      "url": "https://pypi.org/project/cliven/"
+      "name": "batdetect2-view added to PyPI",
+      "url": "https://pypi.org/project/batdetect2-view/"
     },
     {
-      "name": "weather-cli-liuxq added to PyPI",
-      "url": "https://pypi.org/project/weather-cli-liuxq/"
+      "name": "streamlit-carbon-button added to PyPI",
+      "url": "https://pypi.org/project/streamlit-carbon-button/"
     },
     {
-      "name": "python-markdown added to PyPI",
-      "url": "https://pypi.org/project/python-markdown/"
+      "name": "stepfun-realtime-api added to PyPI",
+      "url": "https://pypi.org/project/stepfun-realtime-api/"
     },
     {
-      "name": "automl-ai added to PyPI",
-      "url": "https://pypi.org/project/automl-ai/"
+      "name": "e3response added to PyPI",
+      "url": "https://pypi.org/project/e3response/"
     },
     {
-      "name": "bruker-reader added to PyPI",
-      "url": "https://pypi.org/project/bruker-reader/"
+      "name": "spdx-license-matcher added to PyPI",
+      "url": "https://pypi.org/project/spdx-license-matcher/"
     }
   ]
 }
