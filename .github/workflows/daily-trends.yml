@@ -1,27 +1,44 @@
-name: Daily Tech Trends
+name: Daily Tech Trends Update
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # Runs at 4am UTC daily
+    - cron: '0 * * * *'  # Run every hour
   workflow_dispatch:  # Allows manual trigger
 
 permissions:
   contents: write
 
 jobs:
+  should-run:
+    runs-on: ubuntu-latest
+    outputs:
+      should_execute: ${{ steps.check.outputs.should_execute }}
+    steps:
+      - name: Check if we should run
+        id: check
+        run: |
+          # Generate random number between 1 and 10
+          # We want ~10% probability of running
+          if [ $((RANDOM % 10)) -eq 0 ]; then
+            echo "should_execute=true" >> $GITHUB_OUTPUT
+          else
+            echo "should_execute=false" >> $GITHUB_OUTPUT
+          fi
+
   update-trends:
+    needs: should-run
+    if: needs.should-run.outputs.should_execute == 'true'
     runs-on: ubuntu-latest
     
     steps:
     - uses: actions/checkout@v4
       with:
         fetch-depth: 0
-        token: ${{ secrets.GH_TOKEN }}
     
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: '3.x'
+        python-version: '3.10'
         
     - name: Install dependencies
       run: |
@@ -36,6 +53,10 @@ jobs:
         git config --local user.email "tstanmay13@gmail.com"
         git config --local user.name "tstanmay13"
         git add data/
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update trends data for $(date +'%Y-%m-%d')"
+        
+        # Get current time in UTC
+        UTC_TIME=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+        
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update tech trends at $UTC_TIME"
         git pull --rebase
         git push
