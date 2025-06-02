@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-02",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97329,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 89786,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 62106,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 58232,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 57180,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "The Visual World of 'Samurai Jack'",
+      "url": "https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack",
+      "score": 140
+    },
+    {
+      "title": "Root shell on a credit card terminal",
+      "url": "https://stefan-gloor.ch/yomani-hack",
+      "score": 536
+    },
+    {
+      "title": "LibriVox",
+      "url": "https://librivox.org/",
+      "score": 70
+    },
+    {
+      "title": "Cinematography of \u201cAndor\u201d",
+      "url": "https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html",
+      "score": 313
+    },
+    {
+      "title": "How Generative Engine Optimization (GEO) rewrites the rules of search",
+      "url": "https://a16z.com/geo-over-seo/",
+      "score": 19
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "jv12 added to PyPI",
+      "url": "https://pypi.org/project/jv12/"
+    },
+    {
+      "name": "jv123 added to PyPI",
+      "url": "https://pypi.org/project/jv123/"
+    },
+    {
+      "name": "pyopenjtalk-mod added to PyPI",
+      "url": "https://pypi.org/project/pyopenjtalk-mod/"
+    },
+    {
+      "name": "pyguiEZ added to PyPI",
+      "url": "https://pypi.org/project/pyguiez/"
+    },
+    {
+      "name": "TaskLauncher added to PyPI",
+      "url": "https://pypi.org/project/tasklauncher/"
+    }
+  ]
+}
