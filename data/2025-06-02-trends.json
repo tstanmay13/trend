@@ -4,59 +4,59 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97329,
+      "stars": 97333,
       "description": null
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 89786,
+      "stars": 89790,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 62106,
+      "stars": 62117,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 58232,
+      "stars": 58248,
       "description": "Python tool for converting files and office documents to Markdown."
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 57180,
+      "stars": 57212,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     }
   ],
   "hackernews_top": [
     {
+      "title": "The Princeton INTERCAL Compiler's source code",
+      "url": "https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code",
+      "score": 36
+    },
+    {
       "title": "The Visual World of 'Samurai Jack'",
       "url": "https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack",
-      "score": 140
+      "score": 218
+    },
+    {
+      "title": "Show HN: MBCompass - Android Compass App",
+      "url": "https://github.com/MubarakNative/MBCompass",
+      "score": 5
     },
     {
       "title": "Root shell on a credit card terminal",
       "url": "https://stefan-gloor.ch/yomani-hack",
-      "score": 536
+      "score": 594
     },
     {
-      "title": "LibriVox",
-      "url": "https://librivox.org/",
-      "score": 70
-    },
-    {
-      "title": "Cinematography of \u201cAndor\u201d",
-      "url": "https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html",
-      "score": 313
-    },
-    {
-      "title": "How Generative Engine Optimization (GEO) rewrites the rules of search",
-      "url": "https://a16z.com/geo-over-seo/",
-      "score": 19
+      "title": "I Made a Chair",
+      "url": "https://milofultz.com/2025-05-27-i-made-a-chair.html",
+      "score": 60
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "jv12 added to PyPI",
-      "url": "https://pypi.org/project/jv12/"
+      "name": "licelfile added to PyPI",
+      "url": "https://pypi.org/project/licelfile/"
     },
     {
-      "name": "jv123 added to PyPI",
-      "url": "https://pypi.org/project/jv123/"
+      "name": "llama-index-asimov added to PyPI",
+      "url": "https://pypi.org/project/llama-index-asimov/"
     },
     {
-      "name": "pyopenjtalk-mod added to PyPI",
-      "url": "https://pypi.org/project/pyopenjtalk-mod/"
+      "name": "sdypy-view added to PyPI",
+      "url": "https://pypi.org/project/sdypy-view/"
     },
     {
-      "name": "pyguiEZ added to PyPI",
-      "url": "https://pypi.org/project/pyguiez/"
+      "name": "github-issue-creator added to PyPI",
+      "url": "https://pypi.org/project/github-issue-creator/"
     },
     {
-      "name": "TaskLauncher added to PyPI",
-      "url": "https://pypi.org/project/tasklauncher/"
+      "name": "AkvoFormPrint added to PyPI",
+      "url": "https://pypi.org/project/akvoformprint/"
     }
   ]
 }
