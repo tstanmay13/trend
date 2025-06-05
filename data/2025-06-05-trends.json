@@ -4,25 +4,25 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97441,
+      "stars": 97442,
       "description": null
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 89892,
+      "stars": 89895,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 62446,
+      "stars": 62448,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 58603,
+      "stars": 58607,
       "description": "Python tool for converting files and office documents to Markdown."
     },
     {
@@ -34,29 +34,29 @@
   ],
   "hackernews_top": [
     {
-      "title": "Google Restricts Android Sideloading\u2013What It Means for User Autonomy and Freedom",
-      "url": "https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/",
-      "score": 38
-    },
-    {
       "title": "The impossible predicament of the death newts",
       "url": "https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/",
-      "score": 186
+      "score": 297
     },
     {
-      "title": "Understanding the PURL Specification (Package URL)",
-      "url": "https://fossa.com/blog/understanding-purl-specification-package-url/",
-      "score": 17
+      "title": "Neuromorphic computing",
+      "url": "https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing",
+      "score": 32
+    },
+    {
+      "title": "Google restricts Android sideloading",
+      "url": "https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/",
+      "score": 288
     },
     {
       "title": "Seven Days at the Bin Store",
       "url": "https://defector.com/seven-days-at-the-bin-store",
-      "score": 4
+      "score": 77
     },
     {
-      "title": "Gemini-2.5-pro-preview-06-05",
-      "url": "https://deepmind.google/models/gemini/pro/",
-      "score": 64
+      "title": "Show HN: iOS Screen Time from a REST API",
+      "url": "https://www.thescreentimenetwork.com/api/",
+      "score": 40
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "kapipy added to PyPI",
-      "url": "https://pypi.org/project/kapipy/"
+      "name": "replink added to PyPI",
+      "url": "https://pypi.org/project/replink/"
     },
     {
-      "name": "antonshagin added to PyPI",
-      "url": "https://pypi.org/project/antonshagin/"
+      "name": "paddle.py added to PyPI",
+      "url": "https://pypi.org/project/paddle-py/"
     },
     {
-      "name": "envxtract added to PyPI",
-      "url": "https://pypi.org/project/envxtract/"
+      "name": "deseq2-wrapper added to PyPI",
+      "url": "https://pypi.org/project/deseq2-wrapper/"
     },
     {
-      "name": "pullapprove added to PyPI",
-      "url": "https://pypi.org/project/pullapprove/"
+      "name": "mlpush added to PyPI",
+      "url": "https://pypi.org/project/mlpush/"
     },
     {
-      "name": "nvtriton added to PyPI",
-      "url": "https://pypi.org/project/nvtriton/"
+      "name": "youtube-trimmer-mcp added to PyPI",
+      "url": "https://pypi.org/project/youtube-trimmer-mcp/"
     }
   ]
 }
