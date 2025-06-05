@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-05",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97433,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 89887,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 62416,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 58577,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 57917,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Air Lab \u2013 A portable and open air quality measuring device",
+      "url": "https://networkedartifacts.com/airlab/simulator",
+      "score": 104
+    },
+    {
+      "title": "FFmpeg merges WebRTC support",
+      "url": "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00",
+      "score": 746
+    },
+    {
+      "title": "Cursor 1.0",
+      "url": "https://www.cursor.com/en/changelog/1-0",
+      "score": 386
+    },
+    {
+      "title": "A proposal to restrict sites from accessing a users\u2019 local network",
+      "url": "https://github.com/explainers-by-googlers/local-network-access",
+      "score": 394
+    },
+    {
+      "title": "Why I wrote the BEAM book",
+      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+      "score": 505
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "emojis.py added to PyPI",
+      "url": "https://pypi.org/project/emojis-py/"
+    },
+    {
+      "name": "oraczenhq-authzen-fastapi-middleware added to PyPI",
+      "url": "https://pypi.org/project/oraczenhq-authzen-fastapi-middleware/"
+    },
+    {
+      "name": "bangla-normalizer added to PyPI",
+      "url": "https://pypi.org/project/bangla-normalizer/"
+    },
+    {
+      "name": "SimpleEnvs-Python added to PyPI",
+      "url": "https://pypi.org/project/simpleenvs-python/"
+    },
+    {
+      "name": "oraczenhq-zenbroker added to PyPI",
+      "url": "https://pypi.org/project/oraczenhq-zenbroker/"
+    }
+  ]
+}
