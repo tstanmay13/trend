@@ -4,59 +4,59 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97433,
+      "stars": 97441,
       "description": null
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 89887,
+      "stars": 89892,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 62416,
+      "stars": 62446,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 58577,
+      "stars": 58603,
       "description": "Python tool for converting files and office documents to Markdown."
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 57917,
+      "stars": 57983,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     }
   ],
   "hackernews_top": [
     {
-      "title": "Air Lab \u2013 A portable and open air quality measuring device",
-      "url": "https://networkedartifacts.com/airlab/simulator",
-      "score": 104
+      "title": "Google Restricts Android Sideloading\u2013What It Means for User Autonomy and Freedom",
+      "url": "https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/",
+      "score": 38
     },
     {
-      "title": "FFmpeg merges WebRTC support",
-      "url": "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00",
-      "score": 746
+      "title": "The impossible predicament of the death newts",
+      "url": "https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/",
+      "score": 186
     },
     {
-      "title": "Cursor 1.0",
-      "url": "https://www.cursor.com/en/changelog/1-0",
-      "score": 386
+      "title": "Understanding the PURL Specification (Package URL)",
+      "url": "https://fossa.com/blog/understanding-purl-specification-package-url/",
+      "score": 17
     },
     {
-      "title": "A proposal to restrict sites from accessing a users\u2019 local network",
-      "url": "https://github.com/explainers-by-googlers/local-network-access",
-      "score": 394
+      "title": "Seven Days at the Bin Store",
+      "url": "https://defector.com/seven-days-at-the-bin-store",
+      "score": 4
     },
     {
-      "title": "Why I wrote the BEAM book",
-      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
-      "score": 505
+      "title": "Gemini-2.5-pro-preview-06-05",
+      "url": "https://deepmind.google/models/gemini/pro/",
+      "score": 64
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "emojis.py added to PyPI",
-      "url": "https://pypi.org/project/emojis-py/"
+      "name": "kapipy added to PyPI",
+      "url": "https://pypi.org/project/kapipy/"
     },
     {
-      "name": "oraczenhq-authzen-fastapi-middleware added to PyPI",
-      "url": "https://pypi.org/project/oraczenhq-authzen-fastapi-middleware/"
+      "name": "antonshagin added to PyPI",
+      "url": "https://pypi.org/project/antonshagin/"
     },
     {
-      "name": "bangla-normalizer added to PyPI",
-      "url": "https://pypi.org/project/bangla-normalizer/"
+      "name": "envxtract added to PyPI",
+      "url": "https://pypi.org/project/envxtract/"
     },
     {
-      "name": "SimpleEnvs-Python added to PyPI",
-      "url": "https://pypi.org/project/simpleenvs-python/"
+      "name": "pullapprove added to PyPI",
+      "url": "https://pypi.org/project/pullapprove/"
     },
     {
-      "name": "oraczenhq-zenbroker added to PyPI",
-      "url": "https://pypi.org/project/oraczenhq-zenbroker/"
+      "name": "nvtriton added to PyPI",
+      "url": "https://pypi.org/project/nvtriton/"
     }
   ]
 }
