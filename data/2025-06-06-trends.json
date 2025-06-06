@@ -2,61 +2,61 @@
   "date": "2025-06-06",
   "github_trending": [
     {
-      "title": "deepseek-ai/DeepSeek-V3",
-      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97459,
-      "description": null
-    },
-    {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 89914,
+      "stars": 89919,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 62504,
+      "stars": 62523,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 58658,
+      "stars": 58665,
       "description": "Python tool for converting files and office documents to Markdown."
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 58102,
+      "stars": 58140,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 57504,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
     }
   ],
   "hackernews_top": [
     {
-      "title": "Infomaniak backs mass surveillance, aims to end online anonymity in Switzerland",
-      "url": "https://discuss.privacyguides.net/t/psa-infomaniak-supports-mass-surveillance-calling-for-legal-change-to-end-online-anonymity-mandatory-metadata-retention/28065",
-      "score": 61
+      "title": "Odyc.js \u2013 A tiny JavaScript library for narrative games",
+      "url": "https://odyc.dev",
+      "score": 52
     },
     {
-      "title": "Self-hosting your own media considered harmful according to YouTube",
-      "url": "https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful",
-      "score": 766
+      "title": "A masochist's guide to web development",
+      "url": "https://sebastiano.tronto.net/blog/2025-06-06-webdev/",
+      "score": 41
     },
     {
-      "title": "The impossible predicament of the death newts",
-      "url": "https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/",
-      "score": 483
+      "title": "An Interactive Guide to Rate Limiting",
+      "url": "https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting",
+      "score": 7
     },
     {
-      "title": "Test Postgres in Python Like SQLite",
-      "url": "https://github.com/wey-gu/py-pglite",
-      "score": 108
+      "title": "Swift and Cute 2D Game Framework: Setting Up a Project with CMake",
+      "url": "https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake",
+      "score": 54
     },
     {
-      "title": "Tokasaurus: An LLM inference engine for high-throughput workloads",
-      "url": "https://scalingintelligence.stanford.edu/blogs/tokasaurus/",
-      "score": 175
+      "title": "Weaponizing Dependabot: Pwn Request at its finest",
+      "url": "https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest",
+      "score": 38
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "sit4onnxw added to PyPI",
-      "url": "https://pypi.org/project/sit4onnxw/"
+      "name": "smugify added to PyPI",
+      "url": "https://pypi.org/project/smugify/"
     },
     {
-      "name": "simulate-damage added to PyPI",
-      "url": "https://pypi.org/project/simulate-damage/"
+      "name": "dlr-sc-quark added to PyPI",
+      "url": "https://pypi.org/project/dlr-sc-quark/"
     },
     {
-      "name": "beginning-package005 added to PyPI",
-      "url": "https://pypi.org/project/beginning-package005/"
+      "name": "odoo-addon-stock-move-reset-quantity added to PyPI",
+      "url": "https://pypi.org/project/odoo-addon-stock-move-reset-quantity/"
     },
     {
-      "name": "risk-atlas-nexus added to PyPI",
-      "url": "https://pypi.org/project/risk-atlas-nexus/"
+      "name": "lzhfreshrssapi added to PyPI",
+      "url": "https://pypi.org/project/lzhfreshrssapi/"
     },
     {
-      "name": "maptor added to PyPI",
-      "url": "https://pypi.org/project/maptor/"
+      "name": "asimov-jq-module added to PyPI",
+      "url": "https://pypi.org/project/asimov-jq-module/"
     }
   ]
 }
