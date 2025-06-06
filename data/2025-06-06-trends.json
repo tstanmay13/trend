@@ -4,59 +4,59 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97446,
+      "stars": 97459,
       "description": null
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 89899,
+      "stars": 89914,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 62474,
+      "stars": 62504,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 58626,
+      "stars": 58658,
       "description": "Python tool for converting files and office documents to Markdown."
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 58012,
+      "stars": 58102,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     }
   ],
   "hackernews_top": [
     {
-      "title": "How we\u2019re responding to The NYT\u2019s data demands in order to protect user privacy",
-      "url": "https://openai.com/index/response-to-nyt-data-demands/",
-      "score": 60
-    },
-    {
-      "title": "Tokasaurus: An LLM Inference Engine for High-Throughput Workloads",
-      "url": "https://scalingintelligence.stanford.edu/blogs/tokasaurus/",
-      "score": 115
-    },
-    {
-      "title": "Show HN: Claude Composer",
-      "url": "https://github.com/possibilities/claude-composer",
+      "title": "Infomaniak backs mass surveillance, aims to end online anonymity in Switzerland",
+      "url": "https://discuss.privacyguides.net/t/psa-infomaniak-supports-mass-surveillance-calling-for-legal-change-to-end-online-anonymity-mandatory-metadata-retention/28065",
       "score": 61
+    },
+    {
+      "title": "Self-hosting your own media considered harmful according to YouTube",
+      "url": "https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful",
+      "score": 766
     },
     {
       "title": "The impossible predicament of the death newts",
       "url": "https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/",
-      "score": 404
+      "score": 483
     },
     {
-      "title": "APL Interpreter \u2013 An implementation of APL, written in Haskell (2024)",
-      "url": "https://scharenbroch.dev/projects/apl-interpreter/",
-      "score": 67
+      "title": "Test Postgres in Python Like SQLite",
+      "url": "https://github.com/wey-gu/py-pglite",
+      "score": 108
+    },
+    {
+      "title": "Tokasaurus: An LLM inference engine for high-throughput workloads",
+      "url": "https://scalingintelligence.stanford.edu/blogs/tokasaurus/",
+      "score": 175
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "tatools01 added to PyPI",
-      "url": "https://pypi.org/project/tatools01/"
+      "name": "sit4onnxw added to PyPI",
+      "url": "https://pypi.org/project/sit4onnxw/"
     },
     {
-      "name": "czh-bailian-mcp-server added to PyPI",
-      "url": "https://pypi.org/project/czh-bailian-mcp-server/"
+      "name": "simulate-damage added to PyPI",
+      "url": "https://pypi.org/project/simulate-damage/"
     },
     {
-      "name": "formidable added to PyPI",
-      "url": "https://pypi.org/project/formidable/"
+      "name": "beginning-package005 added to PyPI",
+      "url": "https://pypi.org/project/beginning-package005/"
     },
     {
-      "name": "bohr-agent-sdk added to PyPI",
-      "url": "https://pypi.org/project/bohr-agent-sdk/"
+      "name": "risk-atlas-nexus added to PyPI",
+      "url": "https://pypi.org/project/risk-atlas-nexus/"
     },
     {
-      "name": "mesm added to PyPI",
-      "url": "https://pypi.org/project/mesm/"
+      "name": "maptor added to PyPI",
+      "url": "https://pypi.org/project/maptor/"
     }
   ]
 }
