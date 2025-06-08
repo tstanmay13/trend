@@ -85,27 +85,19 @@ jobs:
         base: master
         delete-branch: true
 
-  auto-approve:
+  auto-merge:
     needs: update-trends
     if: needs.update-trends.outputs.pr_number != ''
     runs-on: ubuntu-latest
     steps:
-      - name: Auto approve PR
+      - name: Merge PR
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.PAT_TOKEN }}
           script: |
             const prNumber = ${{ needs.update-trends.outputs.pr_number }};
-            console.log(`Approving PR #${prNumber}`);
-            
-            await github.rest.pulls.createReview({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: prNumber,
-              event: 'APPROVE'
-            });
-            
             console.log(`Merging PR #${prNumber}`);
+            
             await github.rest.pulls.merge({
               owner: context.repo.owner,
               repo: context.repo.repo,
@@ -114,7 +106,7 @@ jobs:
             });
 
   cleanup:
-    needs: [update-trends, auto-approve]
+    needs: [update-trends, auto-merge]
     if: always()
     runs-on: ubuntu-latest
     steps:
