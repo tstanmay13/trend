@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-08",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97482,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 89965,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 62627,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 58782,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 58524,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Binfmtc \u2013 binfmt_misc C scripting interface",
+      "url": "https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en",
+      "score": 42
+    },
+    {
+      "title": "Gaussian Integration Is Cool",
+      "url": "https://rohangautam.github.io/blog/chebyshev_gauss/",
+      "score": 78
+    },
+    {
+      "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
+      "url": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
+      "score": 458
+    },
+    {
+      "title": "Joining Apple Computer (2018)",
+      "url": "https://www.folklore.org/Joining_Apple_Computer.html",
+      "score": 343
+    },
+    {
+      "title": "<Blink> and <Marquee> (2020)",
+      "url": "https://danq.me/2020/11/11/blink-and-marquee/",
+      "score": 152
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "kliamka added to PyPI",
+      "url": "https://pypi.org/project/kliamka/"
+    },
+    {
+      "name": "win-shortcut added to PyPI",
+      "url": "https://pypi.org/project/win-shortcut/"
+    },
+    {
+      "name": "tosca-utils added to PyPI",
+      "url": "https://pypi.org/project/tosca-utils/"
+    },
+    {
+      "name": "otel-pyautoinstrumentor added to PyPI",
+      "url": "https://pypi.org/project/otel-pyautoinstrumentor/"
+    },
+    {
+      "name": "toolflow added to PyPI",
+      "url": "https://pypi.org/project/toolflow/"
+    }
+  ]
+}
