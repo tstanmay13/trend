@@ -25,6 +25,8 @@ jobs:
     needs: should-run
     if: needs.should-run.outputs.should_execute == 'true'
     runs-on: ubuntu-latest
+    outputs:
+      pr_number: ${{ steps.create-pr.outputs.pull-request-number }}
     
     steps:
     - uses: actions/checkout@v4
@@ -70,6 +72,7 @@ jobs:
         git status
         
     - name: Create Pull Request
+      id: create-pr
       uses: peter-evans/create-pull-request@v5
       with:
         token: ${{ secrets.PAT_TOKEN }}
@@ -84,7 +87,7 @@ jobs:
 
   auto-approve:
     needs: update-trends
-    if: needs.update-trends.outputs.pull-request-number != ''
+    if: needs.update-trends.outputs.pr_number != ''
     runs-on: ubuntu-latest
     steps:
       - name: Auto approve PR
@@ -92,15 +95,47 @@ jobs:
         with:
           github-token: ${{ secrets.PAT_TOKEN }}
           script: |
-            github.rest.pulls.createReview({
+            const prNumber = ${{ needs.update-trends.outputs.pr_number }};
+            console.log(`Approving PR #${prNumber}`);
+            
+            await github.rest.pulls.createReview({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              pull_number: ${{ needs.update-trends.outputs.pull-request-number }},
+              pull_number: prNumber,
               event: 'APPROVE'
-            })
-            github.rest.pulls.merge({
+            });
+            
+            console.log(`Merging PR #${prNumber}`);
+            await github.rest.pulls.merge({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              pull_number: ${{ needs.update-trends.outputs.pull-request-number }},
+              pull_number: prNumber,
               merge_method: 'squash'
-            })
+            });
+
+  cleanup:
+    needs: [update-trends, auto-approve]
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.PAT_TOKEN }}
+          
+      - name: Cleanup branches
+        run: |
+          # Delete the update-tech-trends branch if it still exists
+          git fetch origin
+          if git show-ref --verify --quiet refs/remotes/origin/update-tech-trends; then
+            echo "Deleting update-tech-trends branch..."
+            git push origin --delete update-tech-trends
+          fi
+          
+          # Clean up any local branches
+          git fetch --prune
+          git branch -D update-tech-trends || true
+          
+          # Reset to clean state
+          git reset --hard
+          git clean -fd
