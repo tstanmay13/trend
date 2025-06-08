@@ -1,62 +1,62 @@
 {
-  "date": "2025-06-01",
+  "date": "2025-06-03",
   "github_trending": [
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97326,
+      "stars": 97380,
       "description": null
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 89782,
+      "stars": 89842,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 62089,
+      "stars": 62271,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 58215,
+      "stars": 58429,
       "description": "Python tool for converting files and office documents to Markdown."
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 57164,
+      "stars": 57601,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     }
   ],
   "hackernews_top": [
     {
-      "title": "How I got a Root Shell on a Credit Card Terminal",
-      "url": "https://stefan-gloor.ch/yomani-hack",
-      "score": 258
+      "title": "Deep learning gets the glory, deep fact checking gets ignored",
+      "url": "https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html",
+      "score": 150
     },
     {
-      "title": "FOSS 3-2-1 Backup from SD-Card to Cloud",
-      "url": "https://github.com/chrfrenning/zentransfer-desktop",
-      "score": 10
+      "title": "Destination: Jupiter",
+      "url": "https://clarkesworldmagazine.com/liptak_06_25/",
+      "score": 56
     },
     {
-      "title": "Cinematography of \"Andor\"",
-      "url": "https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html",
-      "score": 207
+      "title": "A deep dive into self-improving AI and the Darwin-G\u00f6del Machine",
+      "url": "https://richardcsuwandi.github.io/blog/2025/dgm/",
+      "score": 22
     },
     {
-      "title": "Estimating Logarithms",
-      "url": "https://obrhubr.org/logarithm-estimation",
-      "score": 17
+      "title": "Show HN: Ephe \u2013 A Minimalist Open-Source Markdown Paper for Today",
+      "url": "https://github.com/unvalley/ephe",
+      "score": 12
     },
     {
-      "title": "Atari Means Business with the Mega ST",
-      "url": "https://www.goto10retro.com/p/atari-means-business-with-the-mega",
-      "score": 115
+      "title": "Quarkdown: A modern Markdown-based typesetting system",
+      "url": "https://github.com/iamgio/quarkdown",
+      "score": 565
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "batdetect2-view added to PyPI",
-      "url": "https://pypi.org/project/batdetect2-view/"
+      "name": "datarobot-moderations added to PyPI",
+      "url": "https://pypi.org/project/datarobot-moderations/"
     },
     {
-      "name": "streamlit-carbon-button added to PyPI",
-      "url": "https://pypi.org/project/streamlit-carbon-button/"
+      "name": "steppyngstounes added to PyPI",
+      "url": "https://pypi.org/project/steppyngstounes/"
     },
     {
-      "name": "stepfun-realtime-api added to PyPI",
-      "url": "https://pypi.org/project/stepfun-realtime-api/"
+      "name": "riemannian-stats added to PyPI",
+      "url": "https://pypi.org/project/riemannian-stats/"
     },
     {
-      "name": "e3response added to PyPI",
-      "url": "https://pypi.org/project/e3response/"
+      "name": "sfirat-haomer added to PyPI",
+      "url": "https://pypi.org/project/sfirat-haomer/"
     },
     {
-      "name": "spdx-license-matcher added to PyPI",
-      "url": "https://pypi.org/project/spdx-license-matcher/"
+      "name": "django-dynforms added to PyPI",
+      "url": "https://pypi.org/project/django-dynforms/"
     }
   ]
 }

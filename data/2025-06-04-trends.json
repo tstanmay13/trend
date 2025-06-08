@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-04",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 89862,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 62350,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 58494,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 57811,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 57340,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "FFmpeg merges WebRTC support",
+      "url": "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00",
+      "score": 374
+    },
+    {
+      "title": "Autonomous drone defeats human champions in racing first",
+      "url": "https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first",
+      "score": 44
+    },
+    {
+      "title": "A proposal to restrict sites from accessing a users\u2019 local network",
+      "url": "https://github.com/explainers-by-googlers/local-network-access",
+      "score": 115
+    },
+    {
+      "title": "The iPhone 15 Pro\u2019s Depth Maps",
+      "url": "https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html",
+      "score": 142
+    },
+    {
+      "title": "Why I wrote the BEAM book",
+      "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+      "score": 358
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "compress-and-upload-to-do-spaces added to PyPI",
+      "url": "https://pypi.org/project/compress-and-upload-to-do-spaces/"
+    },
+    {
+      "name": "charmed-service-mesh-helpers added to PyPI",
+      "url": "https://pypi.org/project/charmed-service-mesh-helpers/"
+    },
+    {
+      "name": "dmtri added to PyPI",
+      "url": "https://pypi.org/project/dmtri/"
+    },
+    {
+      "name": "semilattice added to PyPI",
+      "url": "https://pypi.org/project/semilattice/"
+    },
+    {
+      "name": "flask-realip added to PyPI",
+      "url": "https://pypi.org/project/flask-realip/"
+    }
+  ]
+}

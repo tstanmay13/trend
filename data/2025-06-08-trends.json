@@ -1,62 +1,62 @@
 {
-  "date": "2025-06-01",
+  "date": "2025-06-08",
   "github_trending": [
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97326,
+      "stars": 97482,
       "description": null
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 89782,
+      "stars": 89965,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 62089,
+      "stars": 62627,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 58215,
+      "stars": 58782,
       "description": "Python tool for converting files and office documents to Markdown."
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 57164,
+      "stars": 58524,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     }
   ],
   "hackernews_top": [
     {
-      "title": "How I got a Root Shell on a Credit Card Terminal",
-      "url": "https://stefan-gloor.ch/yomani-hack",
-      "score": 258
+      "title": "Binfmtc \u2013 binfmt_misc C scripting interface",
+      "url": "https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en",
+      "score": 42
     },
     {
-      "title": "FOSS 3-2-1 Backup from SD-Card to Cloud",
-      "url": "https://github.com/chrfrenning/zentransfer-desktop",
-      "score": 10
+      "title": "Gaussian Integration Is Cool",
+      "url": "https://rohangautam.github.io/blog/chebyshev_gauss/",
+      "score": 78
     },
     {
-      "title": "Cinematography of \"Andor\"",
-      "url": "https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html",
-      "score": 207
+      "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
+      "url": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
+      "score": 458
     },
     {
-      "title": "Estimating Logarithms",
-      "url": "https://obrhubr.org/logarithm-estimation",
-      "score": 17
+      "title": "Joining Apple Computer (2018)",
+      "url": "https://www.folklore.org/Joining_Apple_Computer.html",
+      "score": 343
     },
     {
-      "title": "Atari Means Business with the Mega ST",
-      "url": "https://www.goto10retro.com/p/atari-means-business-with-the-mega",
-      "score": 115
+      "title": "<Blink> and <Marquee> (2020)",
+      "url": "https://danq.me/2020/11/11/blink-and-marquee/",
+      "score": 152
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "batdetect2-view added to PyPI",
-      "url": "https://pypi.org/project/batdetect2-view/"
+      "name": "kliamka added to PyPI",
+      "url": "https://pypi.org/project/kliamka/"
     },
     {
-      "name": "streamlit-carbon-button added to PyPI",
-      "url": "https://pypi.org/project/streamlit-carbon-button/"
+      "name": "win-shortcut added to PyPI",
+      "url": "https://pypi.org/project/win-shortcut/"
     },
     {
-      "name": "stepfun-realtime-api added to PyPI",
-      "url": "https://pypi.org/project/stepfun-realtime-api/"
+      "name": "tosca-utils added to PyPI",
+      "url": "https://pypi.org/project/tosca-utils/"
     },
     {
-      "name": "e3response added to PyPI",
-      "url": "https://pypi.org/project/e3response/"
+      "name": "otel-pyautoinstrumentor added to PyPI",
+      "url": "https://pypi.org/project/otel-pyautoinstrumentor/"
     },
     {
-      "name": "spdx-license-matcher added to PyPI",
-      "url": "https://pypi.org/project/spdx-license-matcher/"
+      "name": "toolflow added to PyPI",
+      "url": "https://pypi.org/project/toolflow/"
     }
   ]
 }

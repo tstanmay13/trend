@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-07",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97471,
+      "description": null
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 58680,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 58234,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 57526,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 55597,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Researchers develop \u2018transparent paper\u2019 as alternative to plastics",
+      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/",
+      "score": 200
+    },
+    {
+      "title": "The time bomb in the tax code that's fueling mass tech layoffs",
+      "url": "https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502",
+      "score": 668
+    },
+    {
+      "title": "A year of funded FreeBSD development",
+      "url": "https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html",
+      "score": 211
+    },
+    {
+      "title": "Falsehoods programmers believe about aviation",
+      "url": "https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/",
+      "score": 105
+    },
+    {
+      "title": "How we decreased GitLab repo backup times from 48 hours to 41 minutes",
+      "url": "https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/",
+      "score": 375
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "memory-hub-mcp added to PyPI",
+      "url": "https://pypi.org/project/memory-hub-mcp/"
+    },
+    {
+      "name": "hack4uLib added to PyPI",
+      "url": "https://pypi.org/project/hack4ulib/"
+    },
+    {
+      "name": "atlasctf-21-prod-11 added to PyPI",
+      "url": "https://pypi.org/project/atlasctf-21-prod-11/"
+    },
+    {
+      "name": "bomiot-token added to PyPI",
+      "url": "https://pypi.org/project/bomiot-token/"
+    },
+    {
+      "name": "gemini-deepsearch-mcp added to PyPI",
+      "url": "https://pypi.org/project/gemini-deepsearch-mcp/"
+    }
+  ]
+}

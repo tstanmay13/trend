@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-02",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97350,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 89810,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 62189,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 58325,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 57385,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "My AI skeptic friends are all nuts",
+      "url": "https://fly.io/blog/youre-all-nuts/",
+      "score": 434
+    },
+    {
+      "title": "Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs",
+      "url": "https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs",
+      "score": 20
+    },
+    {
+      "title": "Snowflake to buy Crunchy Data for $250M",
+      "url": "https://www.wsj.com/articles/snowflake-to-buy-crunchy-data-for-250-million-233543ab",
+      "score": 70
+    },
+    {
+      "title": "Ask HN: Who is hiring? (June 2025)",
+      "url": "https://news.ycombinator.com/item?id=44159528",
+      "score": 228
+    },
+    {
+      "title": "Teaching Program Verification in Dafny at Amazon (2023)",
+      "url": "https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/",
+      "score": 5
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "docs-cli-toolkit added to PyPI",
+      "url": "https://pypi.org/project/docs-cli-toolkit/"
+    },
+    {
+      "name": "graphqlstore added to PyPI",
+      "url": "https://pypi.org/project/graphqlstore/"
+    },
+    {
+      "name": "aia-protocol added to PyPI",
+      "url": "https://pypi.org/project/aia-protocol/"
+    },
+    {
+      "name": "resemu added to PyPI",
+      "url": "https://pypi.org/project/resemu/"
+    },
+    {
+      "name": "image-model-augmentation-library added to PyPI",
+      "url": "https://pypi.org/project/image-model-augmentation-library/"
+    }
+  ]
+}
