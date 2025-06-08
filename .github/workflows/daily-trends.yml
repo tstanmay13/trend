@@ -18,8 +18,13 @@ jobs:
       - name: Check if we should run
         id: check
         run: |
-          # Temporarily set to 100% probability for debugging
-          echo "should_execute=true" >> $GITHUB_OUTPUT
+          # Generate random number between 1 and 10
+          # We want ~10% probability of running
+          if [ $((RANDOM % 10)) -eq 0 ]; then
+            echo "should_execute=true" >> $GITHUB_OUTPUT
+          else
+            echo "should_execute=false" >> $GITHUB_OUTPUT
+          fi
 
   update-trends:
     needs: should-run
