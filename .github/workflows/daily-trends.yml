@@ -79,7 +79,7 @@ jobs:
           Automated update of tech trends data.
           This PR was created automatically by the daily trends workflow.
         branch: update-tech-trends
-        base: main
+        base: master
         delete-branch: true
 
   auto-approve:
