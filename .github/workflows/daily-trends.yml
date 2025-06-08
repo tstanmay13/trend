@@ -45,20 +45,24 @@ jobs:
     - name: Run trends script
       run: python src/main.py
 
-    - name: Debug Git Configuration
+    - name: Setup Git
       run: |
-        git config --global --list
-        echo "Current directory: $(pwd)"
-        echo "Git status:"
-        git status
-        echo "Git remote:"
-        git remote -v
-
-    - name: Configure Git
-      run: |
+        # Create git config directory if it doesn't exist
+        mkdir -p ~/.config/git
+        touch ~/.gitconfig
+        
+        # Configure git
         git config --global user.email "tstanmay13@gmail.com"
         git config --global user.name "tstanmay13"
         git config --global --add safe.directory /github/workspace
+        
+        # Debug information
+        echo "Git config directory:"
+        ls -la ~/.config/git
+        echo "Git config file:"
+        ls -la ~/.gitconfig
+        echo "Git configuration:"
+        git config --global --list
         
     - name: Stage Changes
       run: |
