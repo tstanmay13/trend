@@ -34,6 +34,11 @@
   ],
   "hackernews_top": [
     {
+      "title": "Administering immunotherapy in the morning seems to matter. Why?",
+      "url": "https://www.owlposting.com/p/the-time-of-day-that-immunotherapy",
+      "score": 12
+    },
+    {
       "title": "Binfmtc \u2013 binfmt_misc C scripting interface",
       "url": "https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en",
       "score": 48
@@ -41,22 +46,17 @@
     {
       "title": "Gaussian Integration Is Cool",
       "url": "https://rohangautam.github.io/blog/chebyshev_gauss/",
-      "score": 86
-    },
-    {
-      "title": "Administering immunotherapy in the morning seems to matter. Why?",
-      "url": "https://www.owlposting.com/p/the-time-of-day-that-immunotherapy",
-      "score": 4
+      "score": 88
     },
     {
       "title": "The last six months in LLMs, illustrated by pelicans on bicycles",
       "url": "https://simonwillison.net/2025/Jun/6/six-months-in-llms/",
-      "score": 493
+      "score": 499
     },
     {
-      "title": "Joining Apple Computer (2018)",
-      "url": "https://www.folklore.org/Joining_Apple_Computer.html",
-      "score": 357
+      "title": "Show HN: Let\u2019s Bend \u2013 Open-Source Harmonica Bending Trainer",
+      "url": "https://letsbend.de",
+      "score": 5
     }
   ],
   "reddit_programming": [],
