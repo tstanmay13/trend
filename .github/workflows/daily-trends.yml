@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   should-run:
@@ -48,15 +49,37 @@ jobs:
     - name: Run trends script
       run: python src/main.py
         
-    - name: Commit and push if changes
-      run: |
-        git config --local user.email "tstanmay13@gmail.com"
-        git config --local user.name "tstanmay13"
-        git add data/
-        
-        # Get current time in UTC
-        UTC_TIME=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
-        
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update tech trends at $UTC_TIME"
-        git pull --rebase
-        git push
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v5
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: "Update tech trends"
+        title: "Update tech trends"
+        body: |
+          Automated update of tech trends data.
+          This PR was created automatically by the daily trends workflow.
+        branch: update-tech-trends
+        base: main
+        delete-branch: true
+
+  auto-approve:
+    needs: update-trends
+    if: needs.update-trends.outputs.pull-request-number != ''
+    runs-on: ubuntu-latest
+    steps:
+      - name: Auto approve PR
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.pulls.createReview({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: ${{ needs.update-trends.outputs.pull-request-number }},
+              event: 'APPROVE'
+            })
+            github.rest.pulls.merge({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: ${{ needs.update-trends.outputs.pull-request-number }},
+              merge_method: 'squash'
+            })
