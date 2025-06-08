@@ -45,10 +45,25 @@ jobs:
     - name: Run trends script
       run: python src/main.py
 
+    - name: Debug Git Configuration
+      run: |
+        git config --global --list
+        echo "Current directory: $(pwd)"
+        echo "Git status:"
+        git status
+        echo "Git remote:"
+        git remote -v
+
     - name: Configure Git
       run: |
         git config --global user.email "tstanmay13@gmail.com"
         git config --global user.name "tstanmay13"
+        git config --global --add safe.directory /github/workspace
+        
+    - name: Stage Changes
+      run: |
+        git add data/
+        git status
         
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v5
