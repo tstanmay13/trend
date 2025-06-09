@@ -4,59 +4,59 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97490,
+      "stars": 97495,
       "description": null
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 89970,
+      "stars": 89979,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 62669,
+      "stars": 62689,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 58812,
+      "stars": 58819,
       "description": "Python tool for converting files and office documents to Markdown."
     },
     {
-      "title": "All-Hands-AI/OpenHands",
-      "url": "https://github.com/All-Hands-AI/OpenHands",
-      "stars": 57640,
-      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 58606,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     }
   ],
   "hackernews_top": [
     {
-      "title": "Scientists Show Reforestation Helps Cool the Planet Even More Than Thought",
-      "url": "https://news.ucr.edu/articles/2025/05/29/does-planting-trees-really-help-cool-planet",
-      "score": 83
+      "title": "Self-hosted x86 back end is now default in debug mode",
+      "url": "https://ziglang.org/devlog/2025/#2025-06-08",
+      "score": 197
     },
     {
-      "title": "Kagi Reaches 50k Users",
-      "url": "https://kagi.com/stats?stat=members",
-      "score": 151
+      "title": "Why Android can't use CDC Ethernet (2023)",
+      "url": "https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/",
+      "score": 248
+    },
+    {
+      "title": "Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance",
+      "url": "https://aavetis.github.io/ai-pr-watcher/",
+      "score": 162
+    },
+    {
+      "title": "Riding high in Germany on the world's oldest suspended railway",
+      "url": "https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway",
+      "score": 86
     },
     {
       "title": "FSE meets the FBI",
       "url": "https://blog.freespeechextremist.com/blog/fse-vs-fbi.html",
-      "score": 202
-    },
-    {
-      "title": "Web Designs are Getting too Complicated",
-      "url": "https://websmith.studio/blog/website-designs-are-getting-too-complicated/",
-      "score": 23
-    },
-    {
-      "title": "Building supercomputers for autocrats probably isn't good for democracy",
-      "url": "https://helentoner.substack.com/p/supercomputers-for-autocrats",
-      "score": 258
+      "score": 256
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "private-tools added to PyPI",
-      "url": "https://pypi.org/project/private-tools/"
+      "name": "alembic-pg-enum-generator added to PyPI",
+      "url": "https://pypi.org/project/alembic-pg-enum-generator/"
     },
     {
-      "name": "zen-sight added to PyPI",
-      "url": "https://pypi.org/project/zen-sight/"
+      "name": "cm-python-sdk added to PyPI",
+      "url": "https://pypi.org/project/cm-python-sdk/"
     },
     {
-      "name": "abstract-clicks added to PyPI",
-      "url": "https://pypi.org/project/abstract-clicks/"
+      "name": "qulearn added to PyPI",
+      "url": "https://pypi.org/project/qulearn/"
     },
     {
-      "name": "gretl4py added to PyPI",
-      "url": "https://pypi.org/project/gretl4py/"
+      "name": "fractal-slurm-tools added to PyPI",
+      "url": "https://pypi.org/project/fractal-slurm-tools/"
     },
     {
-      "name": "sjlt added to PyPI",
-      "url": "https://pypi.org/project/sjlt/"
+      "name": "lomo-mcp-demo added to PyPI",
+      "url": "https://pypi.org/project/lomo-mcp-demo/"
     }
   ]
 }
