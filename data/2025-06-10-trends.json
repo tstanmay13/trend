@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-10",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97509,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 89985,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 62742,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 58849,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 58669,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Tell HN: Help restore the tax deduction for software dev in the US (Section 174)",
+      "url": "https://news.ycombinator.com/item?id=44226145",
+      "score": 1458
+    },
+    {
+      "title": "Containerization is a Swift package for running Linux containers on macOS",
+      "url": "https://github.com/apple/containerization",
+      "score": 274
+    },
+    {
+      "title": "Apple announces Foundation Models and Containerization frameworks, etc",
+      "url": "https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/",
+      "score": 492
+    },
+    {
+      "title": "Sly Stone has died",
+      "url": "https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345",
+      "score": 136
+    },
+    {
+      "title": "Why agents are bad pair programmers",
+      "url": "https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/",
+      "score": 16
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "palchemy added to PyPI",
+      "url": "https://pypi.org/project/palchemy/"
+    },
+    {
+      "name": "dekeyrej-secretmanager added to PyPI",
+      "url": "https://pypi.org/project/dekeyrej-secretmanager/"
+    },
+    {
+      "name": "modal-for-noobs added to PyPI",
+      "url": "https://pypi.org/project/modal-for-noobs/"
+    },
+    {
+      "name": "logback added to PyPI",
+      "url": "https://pypi.org/project/logback/"
+    },
+    {
+      "name": "nfl-api-client added to PyPI",
+      "url": "https://pypi.org/project/nfl-api-client/"
+    }
+  ]
+}
