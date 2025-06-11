@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-11",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97540,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90021,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 62883,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 58946,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 58896,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Left-Pad (2024)",
+      "url": "https://azerkoculu.com/posts/left-pad",
+      "score": 74
+    },
+    {
+      "title": "Launch HN: Vassar Robotics (YC X25) \u2013 $219 robot arm that learns new skills",
+      "url": "https://news.ycombinator.com/item?id=44240302",
+      "score": 424
+    },
+    {
+      "title": "Magistral \u2014 the first reasoning model by Mistral AI",
+      "url": "https://mistral.ai/news/magistral",
+      "score": 752
+    },
+    {
+      "title": "Show HN: I made a 3D printed VTOL drone",
+      "url": "https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can",
+      "score": 279
+    },
+    {
+      "title": "Low-background Steel: content without AI contamination",
+      "url": "https://blog.jgc.org/2025/06/low-background-steel-content-without-ai.html",
+      "score": 319
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "svetlanna added to PyPI",
+      "url": "https://pypi.org/project/svetlanna/"
+    },
+    {
+      "name": "qfix added to PyPI",
+      "url": "https://pypi.org/project/qfix/"
+    },
+    {
+      "name": "connectorator added to PyPI",
+      "url": "https://pypi.org/project/connectorator/"
+    },
+    {
+      "name": "refinire-rag-bm25s-j added to PyPI",
+      "url": "https://pypi.org/project/refinire-rag-bm25s-j/"
+    },
+    {
+      "name": "mcp-code-indexer added to PyPI",
+      "url": "https://pypi.org/project/mcp-code-indexer/"
+    }
+  ]
+}
