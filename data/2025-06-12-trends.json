@@ -4,59 +4,59 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97577,
+      "stars": 97576,
       "description": null
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 90064,
+      "stars": 90063,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 63011,
+      "stars": 63013,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
-    },
-    {
-      "title": "DigitalPlatDev/FreeDomain",
-      "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 59115,
-      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 59018,
+      "stars": 59020,
       "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 57923,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
     }
   ],
   "hackernews_top": [
     {
       "title": "Frequent reauth doesn't make you more secure",
       "url": "https://tailscale.com/blog/frequent-reath-security",
-      "score": 154
+      "score": 283
     },
     {
       "title": "macOS Tahoe brings a new disk image format",
       "url": "https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/",
-      "score": 245
+      "score": 269
     },
     {
       "title": "A receipt printer cured my procrastination",
       "url": "https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination",
-      "score": 636
+      "score": 672
     },
     {
       "title": "iPhone 11 emulation done in QEMU",
       "url": "https://github.com/ChefKissInc/QEMUAppleSilicon",
-      "score": 151
+      "score": 166
     },
     {
-      "title": "Solving LinkedIn Queens with SMT",
-      "url": "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/",
-      "score": 60
+      "title": "Show HN: Tritium \u2013 The Legal IDE in Rust",
+      "url": "https://tritium.legal/preview",
+      "score": 47
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "bafser added to PyPI",
-      "url": "https://pypi.org/project/bafser/"
+      "name": "gxx added to PyPI",
+      "url": "https://pypi.org/project/gxx/"
     },
     {
-      "name": "infinitysearch added to PyPI",
-      "url": "https://pypi.org/project/infinitysearch/"
+      "name": "exc-analyzer added to PyPI",
+      "url": "https://pypi.org/project/exc-analyzer/"
     },
     {
-      "name": "python-data-augmenter added to PyPI",
-      "url": "https://pypi.org/project/python-data-augmenter/"
+      "name": "mmore added to PyPI",
+      "url": "https://pypi.org/project/mmore/"
     },
     {
-      "name": "qcsc-mod added to PyPI",
-      "url": "https://pypi.org/project/qcsc-mod/"
+      "name": "boxfit added to PyPI",
+      "url": "https://pypi.org/project/boxfit/"
     },
     {
-      "name": "mcp-neo4j-data-modeling added to PyPI",
-      "url": "https://pypi.org/project/mcp-neo4j-data-modeling/"
+      "name": "loglito added to PyPI",
+      "url": "https://pypi.org/project/loglito/"
     }
   ]
 }
