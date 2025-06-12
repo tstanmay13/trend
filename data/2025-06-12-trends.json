@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-12",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97572,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90056,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 62986,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 59068,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 59015,
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "A receipt printer cured my procrastination",
+      "url": "https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination",
+      "score": 55
+    },
+    {
+      "title": "Maximizing Battery Storage Profits via High-Frequency Intraday Trading",
+      "url": "https://arxiv.org/abs/2504.06932",
+      "score": 79
+    },
+    {
+      "title": "Air India flight to London crashes in Ahmedabad with more than 240 onboard",
+      "url": "https://www.theguardian.com/world/live/2025/jun/12/air-india-flight-ai171-plane-crash-ahmedabad-india-latest-updates",
+      "score": 128
+    },
+    {
+      "title": "Chatterbox TTS",
+      "url": "https://github.com/resemble-ai/chatterbox",
+      "score": 446
+    },
+    {
+      "title": "Microsoft Office migration from Source Depot to Git",
+      "url": "https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/",
+      "score": 172
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "alpheast added to PyPI",
+      "url": "https://pypi.org/project/alpheast/"
+    },
+    {
+      "name": "nonebot-plugin-binance added to PyPI",
+      "url": "https://pypi.org/project/nonebot-plugin-binance/"
+    },
+    {
+      "name": "arxiv-mcp added to PyPI",
+      "url": "https://pypi.org/project/arxiv-mcp/"
+    },
+    {
+      "name": "syia-mcp-voyage-2025-x7k9 added to PyPI",
+      "url": "https://pypi.org/project/syia-mcp-voyage-2025-x7k9/"
+    },
+    {
+      "name": "arcgis-compressed-geometry added to PyPI",
+      "url": "https://pypi.org/project/arcgis-compressed-geometry/"
+    }
+  ]
+}
