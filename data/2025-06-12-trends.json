@@ -4,59 +4,59 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97574,
+      "stars": 97577,
       "description": null
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 90057,
+      "stars": 90064,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 62991,
+      "stars": 63011,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 59074,
+      "stars": 59115,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 59015,
+      "stars": 59018,
       "description": "Python tool for converting files and office documents to Markdown."
     }
   ],
   "hackernews_top": [
     {
+      "title": "Frequent reauth doesn't make you more secure",
+      "url": "https://tailscale.com/blog/frequent-reath-security",
+      "score": 154
+    },
+    {
+      "title": "macOS Tahoe brings a new disk image format",
+      "url": "https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/",
+      "score": 245
+    },
+    {
       "title": "A receipt printer cured my procrastination",
       "url": "https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination",
-      "score": 189
+      "score": 636
     },
     {
-      "title": "Maximizing Battery Storage Profits via High-Frequency Intraday Trading",
-      "url": "https://arxiv.org/abs/2504.06932",
-      "score": 101
+      "title": "iPhone 11 emulation done in QEMU",
+      "url": "https://github.com/ChefKissInc/QEMUAppleSilicon",
+      "score": 151
     },
     {
-      "title": "The Sixties Come Back to Life in \"Everything Is Now\"",
-      "url": "https://www.newyorker.com/culture/the-front-row/the-sixties-come-back-to-life-in-everything-is-now",
-      "score": 17
-    },
-    {
-      "title": "Quantum Computation Lecture Notes by Peter Shor",
-      "url": "https://math.mit.edu/~shor/435-LN/",
-      "score": 40
-    },
-    {
-      "title": "Chatterbox TTS",
-      "url": "https://github.com/resemble-ai/chatterbox",
-      "score": 467
+      "title": "Solving LinkedIn Queens with SMT",
+      "url": "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/",
+      "score": 60
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "import-sorter added to PyPI",
-      "url": "https://pypi.org/project/import-sorter/"
+      "name": "bafser added to PyPI",
+      "url": "https://pypi.org/project/bafser/"
     },
     {
-      "name": "professor-assistant2401138 added to PyPI",
-      "url": "https://pypi.org/project/professor-assistant2401138/"
+      "name": "infinitysearch added to PyPI",
+      "url": "https://pypi.org/project/infinitysearch/"
     },
     {
-      "name": "persistlit added to PyPI",
-      "url": "https://pypi.org/project/persistlit/"
+      "name": "python-data-augmenter added to PyPI",
+      "url": "https://pypi.org/project/python-data-augmenter/"
     },
     {
-      "name": "signedGen added to PyPI",
-      "url": "https://pypi.org/project/signedgen/"
+      "name": "qcsc-mod added to PyPI",
+      "url": "https://pypi.org/project/qcsc-mod/"
     },
     {
-      "name": "findany added to PyPI",
-      "url": "https://pypi.org/project/findany/"
+      "name": "mcp-neo4j-data-modeling added to PyPI",
+      "url": "https://pypi.org/project/mcp-neo4j-data-modeling/"
     }
   ]
 }
