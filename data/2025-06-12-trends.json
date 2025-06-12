@@ -4,25 +4,25 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97572,
+      "stars": 97574,
       "description": null
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 90056,
+      "stars": 90057,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 62986,
+      "stars": 62991,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 59068,
+      "stars": 59074,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     },
     {
@@ -36,27 +36,27 @@
     {
       "title": "A receipt printer cured my procrastination",
       "url": "https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination",
-      "score": 55
+      "score": 189
     },
     {
       "title": "Maximizing Battery Storage Profits via High-Frequency Intraday Trading",
       "url": "https://arxiv.org/abs/2504.06932",
-      "score": 79
+      "score": 101
     },
     {
-      "title": "Air India flight to London crashes in Ahmedabad with more than 240 onboard",
-      "url": "https://www.theguardian.com/world/live/2025/jun/12/air-india-flight-ai171-plane-crash-ahmedabad-india-latest-updates",
-      "score": 128
+      "title": "The Sixties Come Back to Life in \"Everything Is Now\"",
+      "url": "https://www.newyorker.com/culture/the-front-row/the-sixties-come-back-to-life-in-everything-is-now",
+      "score": 17
+    },
+    {
+      "title": "Quantum Computation Lecture Notes by Peter Shor",
+      "url": "https://math.mit.edu/~shor/435-LN/",
+      "score": 40
     },
     {
       "title": "Chatterbox TTS",
       "url": "https://github.com/resemble-ai/chatterbox",
-      "score": 446
-    },
-    {
-      "title": "Microsoft Office migration from Source Depot to Git",
-      "url": "https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/",
-      "score": 172
+      "score": 467
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "alpheast added to PyPI",
-      "url": "https://pypi.org/project/alpheast/"
+      "name": "import-sorter added to PyPI",
+      "url": "https://pypi.org/project/import-sorter/"
     },
     {
-      "name": "nonebot-plugin-binance added to PyPI",
-      "url": "https://pypi.org/project/nonebot-plugin-binance/"
+      "name": "professor-assistant2401138 added to PyPI",
+      "url": "https://pypi.org/project/professor-assistant2401138/"
     },
     {
-      "name": "arxiv-mcp added to PyPI",
-      "url": "https://pypi.org/project/arxiv-mcp/"
+      "name": "persistlit added to PyPI",
+      "url": "https://pypi.org/project/persistlit/"
     },
     {
-      "name": "syia-mcp-voyage-2025-x7k9 added to PyPI",
-      "url": "https://pypi.org/project/syia-mcp-voyage-2025-x7k9/"
+      "name": "signedGen added to PyPI",
+      "url": "https://pypi.org/project/signedgen/"
     },
     {
-      "name": "arcgis-compressed-geometry added to PyPI",
-      "url": "https://pypi.org/project/arcgis-compressed-geometry/"
+      "name": "findany added to PyPI",
+      "url": "https://pypi.org/project/findany/"
     }
   ]
 }
