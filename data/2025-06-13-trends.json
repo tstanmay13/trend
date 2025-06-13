@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-13",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97594,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90079,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 63100,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 59254,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 59074,
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Implementing Logic Programming",
+      "url": "https://btmc.substack.com/p/implementing-logic-programming",
+      "score": 28
+    },
+    {
+      "title": "Self-Adapting Language Models",
+      "url": "https://arxiv.org/abs/2506.10943",
+      "score": 70
+    },
+    {
+      "title": "If the moon were only 1 pixel: A tediously accurate solar system model (2014)",
+      "url": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
+      "score": 619
+    },
+    {
+      "title": "The Claude Bliss Attractor",
+      "url": "https://www.astralcodexten.com/p/the-claude-bliss-attractor",
+      "score": 33
+    },
+    {
+      "title": "OxCaml - a set of extensions to the OCaml programming language.",
+      "url": "https://oxcaml.org/",
+      "score": 241
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "proxy-fetcher added to PyPI",
+      "url": "https://pypi.org/project/proxy-fetcher/"
+    },
+    {
+      "name": "deprecated-params added to PyPI",
+      "url": "https://pypi.org/project/deprecated-params/"
+    },
+    {
+      "name": "torch-segment-membranes-2d added to PyPI",
+      "url": "https://pypi.org/project/torch-segment-membranes-2d/"
+    },
+    {
+      "name": "geop4th added to PyPI",
+      "url": "https://pypi.org/project/geop4th/"
+    },
+    {
+      "name": "pyfake added to PyPI",
+      "url": "https://pypi.org/project/pyfake/"
+    }
+  ]
+}
