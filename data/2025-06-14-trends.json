@@ -4,59 +4,59 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97604,
+      "stars": 97614,
       "description": null
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 90083,
+      "stars": 90090,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 63130,
+      "stars": 63152,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 59375,
+      "stars": 59426,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 59085,
+      "stars": 59096,
       "description": "Python tool for converting files and office documents to Markdown."
     }
   ],
   "hackernews_top": [
     {
-      "title": "Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix",
-      "url": "https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d",
-      "score": 42
+      "title": "I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch",
+      "url": "https://github.com/yousef-rafat/miniDiffusion",
+      "score": 287
     },
     {
-      "title": "Unsupervised Elicitation of Language Models",
-      "url": "https://arxiv.org/abs/2506.10139",
-      "score": 11
+      "title": "Infinite Grid of Resistors",
+      "url": "https://www.mathpages.com/home/kmath668/kmath668.htm",
+      "score": 3
     },
     {
-      "title": "Peano arithmetic is enough, because Peano arithmetic  encodes computation",
-      "url": "https://math.stackexchange.com/a/5075056/6708",
-      "score": 126
+      "title": "Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)",
+      "url": "https://www.righto.com/2025/06/inside-apollo-fdai.html",
+      "score": 103
     },
     {
-      "title": "Last fifty years of integer linear programming: Recent practical advances",
-      "url": "https://inria.hal.science/hal-04776866v1",
-      "score": 64
+      "title": "We investigated Amsterdam's attempt to build a 'fair' fraud detection model",
+      "url": "https://www.lighthousereports.com/methodology/amsterdam-fairness/",
+      "score": 25
     },
     {
-      "title": "Cray versus Raspberry Pi",
-      "url": "https://www.aardvark.co.nz/daily/2025/0611.shtml",
-      "score": 22
+      "title": "Solar Orbiter gets world-first views of the Sun's poles",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles",
+      "score": 143
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "teenygrad added to PyPI",
-      "url": "https://pypi.org/project/teenygrad/"
+      "name": "imgcolorshine added to PyPI",
+      "url": "https://pypi.org/project/imgcolorshine/"
     },
     {
-      "name": "ctfd-downloader added to PyPI",
-      "url": "https://pypi.org/project/ctfd-downloader/"
+      "name": "torche added to PyPI",
+      "url": "https://pypi.org/project/torche/"
     },
     {
-      "name": "textminer-pro-InjinSung added to PyPI",
-      "url": "https://pypi.org/project/textminer-pro-injinsung/"
+      "name": "py-file-organizer added to PyPI",
+      "url": "https://pypi.org/project/py-file-organizer/"
     },
     {
-      "name": "toothfairy-cli added to PyPI",
-      "url": "https://pypi.org/project/toothfairy-cli/"
+      "name": "rubric-mcp-server added to PyPI",
+      "url": "https://pypi.org/project/rubric-mcp-server/"
     },
     {
-      "name": "letterwise-stt added to PyPI",
-      "url": "https://pypi.org/project/letterwise-stt/"
+      "name": "fluttercraft added to PyPI",
+      "url": "https://pypi.org/project/fluttercraft/"
     }
   ]
 }
