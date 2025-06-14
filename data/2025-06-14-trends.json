@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-14",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97604,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90083,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 63130,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 59375,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 59085,
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix",
+      "url": "https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d",
+      "score": 42
+    },
+    {
+      "title": "Unsupervised Elicitation of Language Models",
+      "url": "https://arxiv.org/abs/2506.10139",
+      "score": 11
+    },
+    {
+      "title": "Peano arithmetic is enough, because Peano arithmetic  encodes computation",
+      "url": "https://math.stackexchange.com/a/5075056/6708",
+      "score": 126
+    },
+    {
+      "title": "Last fifty years of integer linear programming: Recent practical advances",
+      "url": "https://inria.hal.science/hal-04776866v1",
+      "score": 64
+    },
+    {
+      "title": "Cray versus Raspberry Pi",
+      "url": "https://www.aardvark.co.nz/daily/2025/0611.shtml",
+      "score": 22
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "teenygrad added to PyPI",
+      "url": "https://pypi.org/project/teenygrad/"
+    },
+    {
+      "name": "ctfd-downloader added to PyPI",
+      "url": "https://pypi.org/project/ctfd-downloader/"
+    },
+    {
+      "name": "textminer-pro-InjinSung added to PyPI",
+      "url": "https://pypi.org/project/textminer-pro-injinsung/"
+    },
+    {
+      "name": "toothfairy-cli added to PyPI",
+      "url": "https://pypi.org/project/toothfairy-cli/"
+    },
+    {
+      "name": "letterwise-stt added to PyPI",
+      "url": "https://pypi.org/project/letterwise-stt/"
+    }
+  ]
+}
