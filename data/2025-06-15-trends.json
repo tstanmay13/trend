@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-15",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97618,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90095,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 63191,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 59500,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 59115,
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "The Art of Lisp and Writing",
+      "url": "https://www.dreamsongs.com/ArtOfLisp.html",
+      "score": 51
+    },
+    {
+      "title": "Q-learning is not yet scalable",
+      "url": "https://seohong.me/blog/q-learning-is-not-yet-scalable/",
+      "score": 138
+    },
+    {
+      "title": "CI/CD Observability with OpenTelemetry Step by Step Guide",
+      "url": "https://signoz.io/blog/cicd-observability-with-opentelemetry/",
+      "score": 53
+    },
+    {
+      "title": "Infinite Grid of Resistors",
+      "url": "https://www.mathpages.com/home/kmath668/kmath668.htm",
+      "score": 166
+    },
+    {
+      "title": "Ruby on Rails Audit Complete",
+      "url": "https://ostif.org/ruby-on-rails-audit-complete/",
+      "score": 14
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "textual-coloromatic added to PyPI",
+      "url": "https://pypi.org/project/textual-coloromatic/"
+    },
+    {
+      "name": "color-zone-processor added to PyPI",
+      "url": "https://pypi.org/project/color-zone-processor/"
+    },
+    {
+      "name": "discosg added to PyPI",
+      "url": "https://pypi.org/project/discosg/"
+    },
+    {
+      "name": "paw-cli added to PyPI",
+      "url": "https://pypi.org/project/paw-cli/"
+    },
+    {
+      "name": "multipromptify added to PyPI",
+      "url": "https://pypi.org/project/multipromptify/"
+    }
+  ]
+}
