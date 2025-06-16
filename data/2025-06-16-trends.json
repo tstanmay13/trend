@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-16",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97629,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90097,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 63250,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 59147,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 55262,
+      "description": "A collection of MCP servers."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Being a Force Multiplier",
+      "url": "https://substack.com/home/post/p-165651243",
+      "score": 12
+    },
+    {
+      "title": "Accumulation of cognitive debt when using an AI assistant for essay writing task",
+      "url": "https://arxiv.org/abs/2506.08872",
+      "score": 112
+    },
+    {
+      "title": "Lisp-stat: Lisp environment for statistical computing",
+      "url": "https://lisp-stat.dev/about/",
+      "score": 37
+    },
+    {
+      "title": "Modifying an HDMI dummy plug's EDID using a Raspberry Pi",
+      "url": "https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/",
+      "score": 221
+    },
+    {
+      "title": "Jokes and Humour in the Public Android API",
+      "url": "https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/",
+      "score": 39
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "bear-epoch-time added to PyPI",
+      "url": "https://pypi.org/project/bear-epoch-time/"
+    },
+    {
+      "name": "ttoolly-utils added to PyPI",
+      "url": "https://pypi.org/project/ttoolly-utils/"
+    },
+    {
+      "name": "modbus-scale-ui added to PyPI",
+      "url": "https://pypi.org/project/modbus-scale-ui/"
+    },
+    {
+      "name": "lazytrainer added to PyPI",
+      "url": "https://pypi.org/project/lazytrainer/"
+    },
+    {
+      "name": "pyidh added to PyPI",
+      "url": "https://pypi.org/project/pyidh/"
+    }
+  ]
+}
