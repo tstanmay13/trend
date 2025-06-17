@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-17",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90123,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 63348,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 59198,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 55433,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 54167,
+      "description": "Model Context Protocol Servers"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "What happens when clergy take psilocybin",
+      "url": "https://nautil.us/clergy-blown-away-by-psilocybin-1217112/",
+      "score": 141
+    },
+    {
+      "title": "How Frogger 2\u2019s source code was recovered from a destroyed tape [video]",
+      "url": "https://www.youtube.com/watch?v=lvEO4IaEJlw",
+      "score": 74
+    },
+    {
+      "title": "Show HN: Chawan TUI web browser",
+      "url": "https://chawan.net/news/chawan-0-2-0.html",
+      "score": 246
+    },
+    {
+      "title": "The Humble Programmer (1972)",
+      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html",
+      "score": 35
+    },
+    {
+      "title": "Selfish reasons for building accessible UIs",
+      "url": "https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/",
+      "score": 63
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "publish_mcp added to PyPI",
+      "url": "https://pypi.org/project/publish-mcp/"
+    },
+    {
+      "name": "kiroframe-arcee added to PyPI",
+      "url": "https://pypi.org/project/kiroframe-arcee/"
+    },
+    {
+      "name": "datalineagepy added to PyPI",
+      "url": "https://pypi.org/project/datalineagepy/"
+    },
+    {
+      "name": "openstb-simulator added to PyPI",
+      "url": "https://pypi.org/project/openstb-simulator/"
+    },
+    {
+      "name": "mcp-akshare added to PyPI",
+      "url": "https://pypi.org/project/mcp-akshare/"
+    }
+  ]
+}
