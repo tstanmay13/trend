@@ -4,59 +4,59 @@
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 90123,
+      "stars": 90135,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 63348,
+      "stars": 63395,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 60044,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 59198,
+      "stars": 59215,
       "description": "Python tool for converting files and office documents to Markdown."
     },
     {
-      "title": "punkpeye/awesome-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "stars": 55433,
-      "description": "A collection of MCP servers."
-    },
-    {
-      "title": "modelcontextprotocol/servers",
-      "url": "https://github.com/modelcontextprotocol/servers",
-      "stars": 54167,
-      "description": "Model Context Protocol Servers"
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 58308,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
     }
   ],
   "hackernews_top": [
     {
-      "title": "What happens when clergy take psilocybin",
-      "url": "https://nautil.us/clergy-blown-away-by-psilocybin-1217112/",
-      "score": 141
+      "title": "The Grug Brained Developer (2022)",
+      "url": "https://grugbrain.dev/",
+      "score": 325
     },
     {
-      "title": "How Frogger 2\u2019s source code was recovered from a destroyed tape [video]",
-      "url": "https://www.youtube.com/watch?v=lvEO4IaEJlw",
-      "score": 74
+      "title": "Honda conducts successful launch and landing of experimental reusable rocket",
+      "url": "https://global.honda/en/topics/2025/c_2025-06-17ceng.html",
+      "score": 727
     },
     {
-      "title": "Show HN: Chawan TUI web browser",
-      "url": "https://chawan.net/news/chawan-0-2-0.html",
-      "score": 246
+      "title": "Resurrecting a dead torrent tracker and finding 3M peers",
+      "url": "https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html",
+      "score": 301
     },
     {
-      "title": "The Humble Programmer (1972)",
-      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html",
-      "score": 35
+      "title": "Bzip2 crate switches from C to 100% Rust",
+      "url": "https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/",
+      "score": 84
     },
     {
-      "title": "Selfish reasons for building accessible UIs",
-      "url": "https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/",
-      "score": 63
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents",
+      "score": 198
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "publish_mcp added to PyPI",
-      "url": "https://pypi.org/project/publish-mcp/"
+      "name": "aws-s3-share added to PyPI",
+      "url": "https://pypi.org/project/aws-s3-share/"
     },
     {
-      "name": "kiroframe-arcee added to PyPI",
-      "url": "https://pypi.org/project/kiroframe-arcee/"
+      "name": "dashai-flux-model-package added to PyPI",
+      "url": "https://pypi.org/project/dashai-flux-model-package/"
     },
     {
-      "name": "datalineagepy added to PyPI",
-      "url": "https://pypi.org/project/datalineagepy/"
+      "name": "urbanopt-des added to PyPI",
+      "url": "https://pypi.org/project/urbanopt-des/"
     },
     {
-      "name": "openstb-simulator added to PyPI",
-      "url": "https://pypi.org/project/openstb-simulator/"
+      "name": "bulktweetbyref added to PyPI",
+      "url": "https://pypi.org/project/bulktweetbyref/"
     },
     {
-      "name": "mcp-akshare added to PyPI",
-      "url": "https://pypi.org/project/mcp-akshare/"
+      "name": "jc-bible added to PyPI",
+      "url": "https://pypi.org/project/jc-bible/"
     }
   ]
 }
