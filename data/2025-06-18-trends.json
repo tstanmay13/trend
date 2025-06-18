@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-18",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97675,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90150,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 63463,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 60223,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 58487,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Show HN: Workout.cool \u2013 Open-source fitness coaching platform",
+      "url": "https://github.com/Snouzy/workout-cool",
+      "score": 287
+    },
+    {
+      "title": "Homomorphically Encrypting CRDTs",
+      "url": "https://jakelazaroff.com/words/homomorphically-encrypted-crdts/",
+      "score": 122
+    },
+    {
+      "title": "\"poline\" is an enigmatic color palette generator using polar coordinates",
+      "url": "https://meodai.github.io/poline/",
+      "score": 87
+    },
+    {
+      "title": "Show HN: I built a tensor library from scratch in C++/CUDA",
+      "url": "https://github.com/nirw4nna/dsc",
+      "score": 25
+    },
+    {
+      "title": "Building agents using streaming SQL queries",
+      "url": "https://www.morling.dev/blog/this-ai-agent-should-have-been-sql-query/",
+      "score": 49
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "npgp added to PyPI",
+      "url": "https://pypi.org/project/npgp/"
+    },
+    {
+      "name": "brain-sdk added to PyPI",
+      "url": "https://pypi.org/project/brain-sdk/"
+    },
+    {
+      "name": "prism-embedder added to PyPI",
+      "url": "https://pypi.org/project/prism-embedder/"
+    },
+    {
+      "name": "huang-rick-portal-gun added to PyPI",
+      "url": "https://pypi.org/project/huang-rick-portal-gun/"
+    },
+    {
+      "name": "xcore-framework added to PyPI",
+      "url": "https://pypi.org/project/xcore-framework/"
+    }
+  ]
+}
