@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-19",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97681,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90158,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 63499,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 60250,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 59267,
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Andrej Karpathy: Software in the era of AI [video]",
+      "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+      "score": 306
+    },
+    {
+      "title": "TI to invest $60B to manufacture foundational semiconductors in the U.S.",
+      "url": "https://www.ti.com/about-ti/newsroom/news-releases/2025/texas-instruments-plans-to-invest-more-than--60-billion-to-manufacture-billions-of-foundational-semiconductors-in-the-us.html",
+      "score": 120
+    },
+    {
+      "title": "The Zed Debugger Is Here",
+      "url": "https://zed.dev/blog/debugger",
+      "score": 115
+    },
+    {
+      "title": "Show HN: Unregistry \u2013 \u201cdocker push\u201d directly to servers without a registry",
+      "url": "https://github.com/psviderski/unregistry",
+      "score": 306
+    },
+    {
+      "title": "Elliptic Curves as Art",
+      "url": "https://elliptic-curves.art/",
+      "score": 32
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "claude-knowledge-catalyst added to PyPI",
+      "url": "https://pypi.org/project/claude-knowledge-catalyst/"
+    },
+    {
+      "name": "metricllm added to PyPI",
+      "url": "https://pypi.org/project/metricllm/"
+    },
+    {
+      "name": "must-cdk-example added to PyPI",
+      "url": "https://pypi.org/project/must-cdk-example/"
+    },
+    {
+      "name": "predicta-app-test added to PyPI",
+      "url": "https://pypi.org/project/predicta-app-test/"
+    },
+    {
+      "name": "blender-mcp-hunyuan added to PyPI",
+      "url": "https://pypi.org/project/blender-mcp-hunyuan/"
+    }
+  ]
+}
