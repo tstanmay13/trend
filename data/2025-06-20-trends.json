@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-20",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97733,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90189,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 63633,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 60532,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 59026,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Phoenix.new \u2013 Remote AI Runtime for Phoenix",
+      "url": "https://fly.io/blog/phoenix-new-the-remote-ai-runtime/",
+      "score": 271
+    },
+    {
+      "title": "Visualizing environmental costs of war in Hayao Miyazaki's Nausica\u00e4",
+      "url": "https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/",
+      "score": 123
+    },
+    {
+      "title": "Show HN: Nxtscape \u2013 an open-source agentic browser",
+      "url": "https://github.com/nxtscape/nxtscape",
+      "score": 124
+    },
+    {
+      "title": "EU Eyes Ditching Microsoft Azure for France's OVHcloud",
+      "url": "https://www.euractiv.com/section/tech/news/scoop-commission-eyes-ditching-microsoft-azure-for-frances-ovhcloud-over-digital-sovereignty-fears/",
+      "score": 81
+    },
+    {
+      "title": "Cracovians: The Twisted Twins of Matrices",
+      "url": "https://marcinciura.wordpress.com/2025/06/20/cracovians-the-twisted-twins-of-matrices/",
+      "score": 35
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "google-workspace-mcp-hotfix added to PyPI",
+      "url": "https://pypi.org/project/google-workspace-mcp-hotfix/"
+    },
+    {
+      "name": "songbird-ai added to PyPI",
+      "url": "https://pypi.org/project/songbird-ai/"
+    },
+    {
+      "name": "colorsearch added to PyPI",
+      "url": "https://pypi.org/project/colorsearch/"
+    },
+    {
+      "name": "simstudio-sdk added to PyPI",
+      "url": "https://pypi.org/project/simstudio-sdk/"
+    },
+    {
+      "name": "analog-daddy added to PyPI",
+      "url": "https://pypi.org/project/analog-daddy/"
+    }
+  ]
+}
