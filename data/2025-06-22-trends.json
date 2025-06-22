@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-22",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97781,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90212,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 63755,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 60942,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 59374,
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Mechanical Watch: Exploded View",
+      "url": "https://fellerts.no/projects/epoch.html",
+      "score": 34
+    },
+    {
+      "title": "LibRedirect \u2013 Redirects popular sites to alternative privacy-friendly frontends",
+      "url": "https://libredirect.github.io",
+      "score": 248
+    },
+    {
+      "title": "Git Notes: Git's coolest, most unloved\u00ad feature (2022)",
+      "url": "https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/",
+      "score": 86
+    },
+    {
+      "title": "TPU Deep Dive",
+      "url": "https://henryhmko.github.io/posts/tpu/tpu.html",
+      "score": 268
+    },
+    {
+      "title": "Harry Brearley, the creator of stainless steel (2016)",
+      "url": "https://nautil.us/the-father-of-modern-metal-235939/",
+      "score": 39
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "microsoft-sql-server-mcp added to PyPI",
+      "url": "https://pypi.org/project/microsoft-sql-server-mcp/"
+    },
+    {
+      "name": "cookiecutter-uv-hypermodern-python added to PyPI",
+      "url": "https://pypi.org/project/cookiecutter-uv-hypermodern-python/"
+    },
+    {
+      "name": "tc-auto added to PyPI",
+      "url": "https://pypi.org/project/tc-auto/"
+    },
+    {
+      "name": "ejercicio13-martarope added to PyPI",
+      "url": "https://pypi.org/project/ejercicio13-martarope/"
+    },
+    {
+      "name": "geoipset-proxmox added to PyPI",
+      "url": "https://pypi.org/project/geoipset-proxmox/"
+    }
+  ]
+}
