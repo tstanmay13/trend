@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-23",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97786,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 60981,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 59384,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 58979,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 56357,
+      "description": "A collection of MCP servers."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Mechanical Watch: Exploded View",
+      "url": "https://fellerts.no/projects/epoch.html",
+      "score": 595
+    },
+    {
+      "title": "I wrote my PhD Thesis in Typst",
+      "url": "https://fransskarman.com/phd_thesis_in_typst.html",
+      "score": 135
+    },
+    {
+      "title": "Using Home Assistant, adguard home and an $8 smart outlet to avoid brain rot",
+      "url": "https://www.romanklasen.com/blog/beating-brainrot-by-button/",
+      "score": 90
+    },
+    {
+      "title": "Finding a billion factorials in 60 ms with SIMD",
+      "url": "https://codeforces.com/blog/entry/143279",
+      "score": 25
+    },
+    {
+      "title": "Cross-Account and Cross-Region Backups with AWS Backup (and Friends)",
+      "url": "https://tylerrussell.dev/2025/06/20/cross-account-and-region-backups-with-aws-backup-and-friends/",
+      "score": 13
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "bailing-text-analysis-plugin added to PyPI",
+      "url": "https://pypi.org/project/bailing-text-analysis-plugin/"
+    },
+    {
+      "name": "calimetrics added to PyPI",
+      "url": "https://pypi.org/project/calimetrics/"
+    },
+    {
+      "name": "TimestringPy added to PyPI",
+      "url": "https://pypi.org/project/timestringpy/"
+    },
+    {
+      "name": "evolution-openai added to PyPI",
+      "url": "https://pypi.org/project/evolution-openai/"
+    },
+    {
+      "name": "bbg-api-controller added to PyPI",
+      "url": "https://pypi.org/project/bbg-api-controller/"
+    }
+  ]
+}
