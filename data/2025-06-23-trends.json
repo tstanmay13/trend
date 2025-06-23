@@ -2,61 +2,61 @@
   "date": "2025-06-23",
   "github_trending": [
     {
-      "title": "deepseek-ai/DeepSeek-V3",
-      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97803,
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90239,
       "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 63835,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 61097,
+      "stars": 61119,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 60064,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models."
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 59413,
+      "stars": 59425,
       "description": "Python tool for converting files and office documents to Markdown."
-    },
-    {
-      "title": "All-Hands-AI/OpenHands",
-      "url": "https://github.com/All-Hands-AI/OpenHands",
-      "stars": 59033,
-      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
-    },
-    {
-      "title": "punkpeye/awesome-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "stars": 56529,
-      "description": "A collection of MCP servers."
     }
   ],
   "hackernews_top": [
     {
-      "title": "2B people don't have safe drinking water: what does this mean for them?",
-      "url": "https://ourworldindata.org/what-no-safe-water-means",
-      "score": 6
+      "title": "Environmental Impacts of Artificial Intelligence",
+      "url": "https://www.greenpeace.de/publikationen/environmental-impacts-of-artificial-intelligence",
+      "score": 13
     },
     {
-      "title": "New Linux udisks flaw lets attackers get root on major Linux distros",
-      "url": "https://www.bleepingcomputer.com/news/linux/new-linux-udisks-flaw-lets-attackers-get-root-on-major-linux-distros/",
-      "score": 225
+      "title": "Resurrecting flip phone typing as a Linux driver",
+      "url": "https://github.com/FoxMoss/libt9",
+      "score": 34
     },
     {
-      "title": "Mechanical Watch: Exploded View",
-      "url": "https://fellerts.no/projects/epoch.html",
-      "score": 1033
+      "title": "Backyard Coffee and Jazz in Kyoto",
+      "url": "https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto",
+      "score": 300
     },
     {
-      "title": "New York to Build One of First U.S. Nuclear-Power Plants in Generation",
-      "url": "https://www.wsj.com/business/energy-oil/new-york-to-build-one-of-first-u-s-nuclear-power-plants-in-generation-271cfd33",
-      "score": 44
+      "title": "Vera C. Rubin Observatory first images",
+      "url": "https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest",
+      "score": 40
     },
     {
-      "title": "Cataphract: Medieval-fantasy roleplaying wargame, in the Black-Sea C. 1300",
-      "url": "https://samsorensen.blot.im/cataphracts-design-diary-1",
-      "score": 72
+      "title": "Minimal Boolean Formulas",
+      "url": "https://research.swtch.com/boolean",
+      "score": 55
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "ETUDE-STRUCTURE-PACKAGE added to PyPI",
-      "url": "https://pypi.org/project/etude-structure-package/"
+      "name": "mandsot added to PyPI",
+      "url": "https://pypi.org/project/mandsot/"
     },
     {
-      "name": "python-result-type added to PyPI",
-      "url": "https://pypi.org/project/python-result-type/"
+      "name": "AviListPy added to PyPI",
+      "url": "https://pypi.org/project/avilistpy/"
     },
     {
-      "name": "win32-vcwin added to PyPI",
-      "url": "https://pypi.org/project/win32-vcwin/"
+      "name": "stochasticforceinference added to PyPI",
+      "url": "https://pypi.org/project/stochasticforceinference/"
     },
     {
-      "name": "aiologger-x9-wrapper added to PyPI",
-      "url": "https://pypi.org/project/aiologger-x9-wrapper/"
+      "name": "abc4d added to PyPI",
+      "url": "https://pypi.org/project/abc4d/"
     },
     {
-      "name": "ionpackage added to PyPI",
-      "url": "https://pypi.org/project/ionpackage/"
+      "name": "ase-util added to PyPI",
+      "url": "https://pypi.org/project/ase-util/"
     }
   ]
 }
