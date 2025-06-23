@@ -2,61 +2,61 @@
   "date": "2025-06-23",
   "github_trending": [
     {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97803,
+      "description": null
+    },
+    {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 90239,
+      "stars": 90241,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 63835,
+      "stars": 63841,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 61119,
+      "stars": 61129,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     },
     {
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 60064,
+      "stars": 60122,
       "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models."
-    },
-    {
-      "title": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "stars": 59425,
-      "description": "Python tool for converting files and office documents to Markdown."
     }
   ],
   "hackernews_top": [
     {
-      "title": "Environmental Impacts of Artificial Intelligence",
-      "url": "https://www.greenpeace.de/publikationen/environmental-impacts-of-artificial-intelligence",
-      "score": 13
-    },
-    {
-      "title": "Resurrecting flip phone typing as a Linux driver",
-      "url": "https://github.com/FoxMoss/libt9",
-      "score": 34
+      "title": "Vera C. Rubin Observatory first images",
+      "url": "https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest",
+      "score": 197
     },
     {
       "title": "Backyard Coffee and Jazz in Kyoto",
       "url": "https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto",
-      "score": 300
+      "score": 356
     },
     {
-      "title": "Vera C. Rubin Observatory first images",
-      "url": "https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest",
-      "score": 40
+      "title": "2025 Iberia Blackout Report [pdf]",
+      "url": "https://media.licdn.com/dms/document/media/v2/D4D1FAQGcyyYYrelkNg/feedshare-document-pdf-analyzed/B4DZeBtlohGsAk-/0/1750227910090?e=1750896000&v=beta&t=uEftse3BPsTjdLQ3DmjoVkadhUGqf7-MfYj_6UnSS28",
+      "score": 95
     },
     {
-      "title": "Minimal Boolean Formulas",
-      "url": "https://research.swtch.com/boolean",
-      "score": 55
+      "title": "A Deep Dive into Solid Queue for Ruby on Rails",
+      "url": "https://blog.appsignal.com/2025/06/18/a-deep-dive-into-solid-queue-for-ruby-on-rails.html",
+      "score": 15
+    },
+    {
+      "title": "Resurrecting flip phone typing as a Linux driver",
+      "url": "https://github.com/FoxMoss/libt9",
+      "score": 68
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "mandsot added to PyPI",
-      "url": "https://pypi.org/project/mandsot/"
+      "name": "light-cache added to PyPI",
+      "url": "https://pypi.org/project/light-cache/"
     },
     {
-      "name": "AviListPy added to PyPI",
-      "url": "https://pypi.org/project/avilistpy/"
+      "name": "all-roads-to-literature added to PyPI",
+      "url": "https://pypi.org/project/all-roads-to-literature/"
     },
     {
-      "name": "stochasticforceinference added to PyPI",
-      "url": "https://pypi.org/project/stochasticforceinference/"
+      "name": "plugin-dashai added to PyPI",
+      "url": "https://pypi.org/project/plugin-dashai/"
     },
     {
-      "name": "abc4d added to PyPI",
-      "url": "https://pypi.org/project/abc4d/"
+      "name": "manim-web added to PyPI",
+      "url": "https://pypi.org/project/manim-web/"
     },
     {
-      "name": "ase-util added to PyPI",
-      "url": "https://pypi.org/project/ase-util/"
+      "name": "ksd-metric added to PyPI",
+      "url": "https://pypi.org/project/ksd-metric/"
     }
   ]
 }
