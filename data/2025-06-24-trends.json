@@ -4,59 +4,59 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97805,
+      "stars": 97821,
       "description": null
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 90241,
+      "stars": 90257,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 63844,
+      "stars": 63897,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 61131,
+      "stars": 61266,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     },
     {
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 60170,
-      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models."
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 59453,
+      "description": "Python tool for converting files and office documents to Markdown."
     }
   ],
   "hackernews_top": [
     {
-      "title": "U.S. Chemical Safety Board Could be Eliminated",
-      "url": "https://www.ishn.com/articles/114776-us-chemical-safety-board-could-be-eliminated",
-      "score": 76
+      "title": "Writing toy software is a joy",
+      "url": "https://blog.jsbarretto.com/post/software-is-joy",
+      "score": 277
     },
     {
-      "title": "Vera C. Rubin Observatory first images",
-      "url": "https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest",
-      "score": 264
+      "title": "PlasticList \u2013 Plastic Levels in Foods",
+      "url": "https://www.plasticlist.org/",
+      "score": 134
     },
     {
-      "title": "Backyard Coffee and Jazz in Kyoto",
-      "url": "https://thedeletedscenes.substack.com/p/backyard-coffee-and-jazz-in-kyoto",
-      "score": 394
+      "title": "Finding a 27-year-old easter egg in the Power Mac G3 ROM",
+      "url": "https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/",
+      "score": 205
     },
     {
-      "title": "A Deep Dive into Solid Queue for Ruby on Rails",
-      "url": "https://blog.appsignal.com/2025/06/18/a-deep-dive-into-solid-queue-for-ruby-on-rails.html",
-      "score": 45
+      "title": "Starship: The minimal, fast, and customizable prompt for any shell",
+      "url": "https://starship.rs/",
+      "score": 262
     },
     {
-      "title": "Discovering Programming at the Darkest Point in My Life",
-      "url": "https://h5law.com/intro.html",
-      "score": 21
+      "title": "The Bitter Lesson is coming for Tokenization",
+      "url": "https://lucalp.dev/bitter-lesson-tokenization-and-blt/",
+      "score": 87
     }
   ],
   "reddit_programming": [],
@@ -70,38 +70,38 @@
       "downloads": "N/A"
     },
     {
-      "name": "@vscode/web-custom-data",
-      "downloads": "N/A"
-    },
-    {
       "name": "autoprefixer",
       "downloads": "N/A"
     },
     {
       "name": "storybook-source-link",
       "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
     }
   ],
   "pypi_trending": [
     {
-      "name": "gmthrash added to PyPI",
-      "url": "https://pypi.org/project/gmthrash/"
+      "name": "pyarmour added to PyPI",
+      "url": "https://pypi.org/project/pyarmour/"
     },
     {
-      "name": "fileconverter-util added to PyPI",
-      "url": "https://pypi.org/project/fileconverter-util/"
+      "name": "multiserviciosweb added to PyPI",
+      "url": "https://pypi.org/project/multiserviciosweb/"
     },
     {
-      "name": "postprocessing-seismo-lib added to PyPI",
-      "url": "https://pypi.org/project/postprocessing-seismo-lib/"
+      "name": "jaxon added to PyPI",
+      "url": "https://pypi.org/project/jaxon/"
     },
     {
-      "name": "model-version-manager added to PyPI",
-      "url": "https://pypi.org/project/model-version-manager/"
+      "name": "arclength-continuation added to PyPI",
+      "url": "https://pypi.org/project/arclength-continuation/"
     },
     {
-      "name": "anyagent-ai added to PyPI",
-      "url": "https://pypi.org/project/anyagent-ai/"
+      "name": "chico-dico added to PyPI",
+      "url": "https://pypi.org/project/chico-dico/"
     }
   ]
 }
