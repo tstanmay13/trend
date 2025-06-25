@@ -4,59 +4,59 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97826,
+      "stars": 97838,
       "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90267,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 63980,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 61341,
+      "stars": 61448,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     },
     {
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 60780,
+      "stars": 60975,
       "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models."
-    },
-    {
-      "title": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "stars": 59468,
-      "description": "Python tool for converting files and office documents to Markdown."
-    },
-    {
-      "title": "All-Hands-AI/OpenHands",
-      "url": "https://github.com/All-Hands-AI/OpenHands",
-      "stars": 59142,
-      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
     }
   ],
   "hackernews_top": [
     {
-      "title": "PNG Is Back",
+      "title": "Gemini CLI",
+      "url": "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/",
+      "score": 628
+    },
+    {
+      "title": "A new PNG spec",
       "url": "https://www.programmax.net/articles/png-is-back/",
-      "score": 152
+      "score": 347
     },
     {
-      "title": "How renewables are saving Texans billions",
-      "url": "https://www.theclimatebrink.com/p/how-renewables-are-saving-texans",
-      "score": 90
+      "title": "Getting ready to issue IP address certificates",
+      "url": "https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777",
+      "score": 100
     },
     {
-      "title": "Gemini CLI: your open-source AI agent",
-      "url": "https://blog.google/technology/developers/introducing-gemini-cli/",
-      "score": 61
+      "title": "What Problems to Solve \u2013 By Richard Feynman",
+      "url": "http://genius.cat-v.org/richard-feynman/writtings/letters/problems",
+      "score": 94
     },
     {
-      "title": "Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust",
-      "url": "https://github.com/microsoft/edit",
-      "score": 177
-    },
-    {
-      "title": "Fun with uv and PEP 723",
-      "url": "https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723",
-      "score": 403
+      "title": "OpenAI Charges by the Minute, So Make the Minutes Shorter",
+      "url": "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/",
+      "score": 287
     }
   ],
   "reddit_programming": [],
@@ -70,11 +70,11 @@
       "downloads": "N/A"
     },
     {
-      "name": "autoprefixer",
+      "name": "@vscode/web-custom-data",
       "downloads": "N/A"
     },
     {
-      "name": "@vscode/web-custom-data",
+      "name": "autoprefixer",
       "downloads": "N/A"
     },
     {
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "feliz-milvus added to PyPI",
-      "url": "https://pypi.org/project/feliz-milvus/"
+      "name": "nvat added to PyPI",
+      "url": "https://pypi.org/project/nvat/"
     },
     {
-      "name": "bioamla added to PyPI",
-      "url": "https://pypi.org/project/bioamla/"
+      "name": "xify added to PyPI",
+      "url": "https://pypi.org/project/xify/"
     },
     {
-      "name": "pluraldo added to PyPI",
-      "url": "https://pypi.org/project/pluraldo/"
+      "name": "anchorscad-bullet added to PyPI",
+      "url": "https://pypi.org/project/anchorscad-bullet/"
     },
     {
-      "name": "python-weaver added to PyPI",
-      "url": "https://pypi.org/project/python-weaver/"
+      "name": "hexdoc-hierophantics added to PyPI",
+      "url": "https://pypi.org/project/hexdoc-hierophantics/"
     },
     {
-      "name": "kitx added to PyPI",
-      "url": "https://pypi.org/project/kitx/"
+      "name": "mineru-cli added to PyPI",
+      "url": "https://pypi.org/project/mineru-cli/"
     }
   ]
 }
