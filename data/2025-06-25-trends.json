@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-25",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97826,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 61341,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 60780,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 59468,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 59142,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "PNG Is Back",
+      "url": "https://www.programmax.net/articles/png-is-back/",
+      "score": 152
+    },
+    {
+      "title": "How renewables are saving Texans billions",
+      "url": "https://www.theclimatebrink.com/p/how-renewables-are-saving-texans",
+      "score": 90
+    },
+    {
+      "title": "Gemini CLI: your open-source AI agent",
+      "url": "https://blog.google/technology/developers/introducing-gemini-cli/",
+      "score": 61
+    },
+    {
+      "title": "Microsoft Releases Classic MS-DOS Editor for Linux Written in Rust",
+      "url": "https://github.com/microsoft/edit",
+      "score": 177
+    },
+    {
+      "title": "Fun with uv and PEP 723",
+      "url": "https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723",
+      "score": 403
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "feliz-milvus added to PyPI",
+      "url": "https://pypi.org/project/feliz-milvus/"
+    },
+    {
+      "name": "bioamla added to PyPI",
+      "url": "https://pypi.org/project/bioamla/"
+    },
+    {
+      "name": "pluraldo added to PyPI",
+      "url": "https://pypi.org/project/pluraldo/"
+    },
+    {
+      "name": "python-weaver added to PyPI",
+      "url": "https://pypi.org/project/python-weaver/"
+    },
+    {
+      "name": "kitx added to PyPI",
+      "url": "https://pypi.org/project/kitx/"
+    }
+  ]
+}
