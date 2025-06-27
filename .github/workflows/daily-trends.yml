@@ -19,8 +19,8 @@ jobs:
         id: check
         run: |
           # Generate random number between 1 and 10
-          # We want ~10% probability of running
-          if [ $((RANDOM % 10)) -eq 0 ]; then
+          # We want ~% probability of running
+          if [ $((RANDOM % 24)) -eq 0 ]; then
             echo "should_execute=true" >> $GITHUB_OUTPUT
           else
             echo "should_execute=false" >> $GITHUB_OUTPUT
