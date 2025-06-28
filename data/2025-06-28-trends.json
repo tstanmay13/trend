@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-28",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90294,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 64232,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 61902,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 61665,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 58266,
+      "description": "A collection of MCP servers."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Show HN: I'm an airline pilot \u2013 I built interactive graphs/globes of my flights",
+      "url": "https://jameshard.ing/pilot",
+      "score": 1184
+    },
+    {
+      "title": "Why does Kars4Kids sends most of its money to one town in New Jersey? (2023)",
+      "url": "https://www.mossplanet.news/p/why-does-kars4kids-sends-most-of",
+      "score": 61
+    },
+    {
+      "title": "Normalizing Flows Are Capable Generative Models",
+      "url": "https://machinelearning.apple.com/research/normalizing-flows",
+      "score": 117
+    },
+    {
+      "title": "Learn OCaml",
+      "url": "https://ocaml-sf.org/learn-ocaml-public/#activity=exercises",
+      "score": 112
+    },
+    {
+      "title": "c4wa \u2013 C compiler for Web Assembly",
+      "url": "https://github.com/kign/c4wa",
+      "score": 40
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "Wolfx-Client added to PyPI",
+      "url": "https://pypi.org/project/wolfx-client/"
+    },
+    {
+      "name": "ticklog added to PyPI",
+      "url": "https://pypi.org/project/ticklog/"
+    },
+    {
+      "name": "PrintTolCalc added to PyPI",
+      "url": "https://pypi.org/project/printtolcalc/"
+    },
+    {
+      "name": "fdwm added to PyPI",
+      "url": "https://pypi.org/project/fdwm/"
+    },
+    {
+      "name": "pqcat added to PyPI",
+      "url": "https://pypi.org/project/pqcat/"
+    }
+  ]
+}
