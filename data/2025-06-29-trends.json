@@ -1,0 +1,107 @@
+{
+  "date": "2025-06-29",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97901,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 62880,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 62198,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 59468,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 58538,
+      "description": "A collection of MCP servers."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Personal care products disrupt the human oxidation field",
+      "url": "https://www.science.org/doi/10.1126/sciadv.ads7908",
+      "score": 71
+    },
+    {
+      "title": "I made my VM think it has a CPU fan",
+      "url": "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html",
+      "score": 249
+    },
+    {
+      "title": "Tools I love: mise(-en-place)",
+      "url": "https://blog.vbang.dk/2025/06/29/tools-i-love-mise/",
+      "score": 7
+    },
+    {
+      "title": "Show HN: Octelium \u2013 FOSS Alternative to Teleport, Cloudflare, Tailscale, Ngrok",
+      "url": "https://github.com/octelium/octelium",
+      "score": 180
+    },
+    {
+      "title": "Bloom Filters by Example",
+      "url": "https://llimllib.github.io/bloomfilter-tutorial/",
+      "score": 111
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "cocobase added to PyPI",
+      "url": "https://pypi.org/project/cocobase/"
+    },
+    {
+      "name": "picsellia-pipelines-cli added to PyPI",
+      "url": "https://pypi.org/project/picsellia-pipelines-cli/"
+    },
+    {
+      "name": "customrag added to PyPI",
+      "url": "https://pypi.org/project/customrag/"
+    },
+    {
+      "name": "foo-pk88 added to PyPI",
+      "url": "https://pypi.org/project/foo-pk88/"
+    },
+    {
+      "name": "endmad added to PyPI",
+      "url": "https://pypi.org/project/endmad/"
+    }
+  ]
+}
