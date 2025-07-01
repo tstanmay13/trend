@@ -1,0 +1,107 @@
+{
+  "date": "2025-07-01",
+  "github_trending": [
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 63552,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 62397,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 59682,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 59609,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 58809,
+      "description": "A collection of MCP servers."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Xfinity using WiFi signals in your house to detect motion",
+      "url": "https://www.xfinity.com/support/articles/wifi-motion",
+      "score": 469
+    },
+    {
+      "title": "Virtue Garnishes: The 3-Second Mental Hack That Short-Circuits Bad Habits",
+      "url": "https://ledgeroflife.blog/virtue-garnishes-the-3-second-mental-hack-that-short-circuits-bad-habits/",
+      "score": 32
+    },
+    {
+      "title": "Proton joins suit against Apple for practices that harm developers and consumers",
+      "url": "https://proton.me/blog/apple-lawsuit",
+      "score": 259
+    },
+    {
+      "title": "I write type-safe generic data structures in C",
+      "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
+      "score": 248
+    },
+    {
+      "title": "Rust CLIs with Clap",
+      "url": "https://tucson-josh.com/posts/rust-clap-cli/",
+      "score": 59
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "streamlit-argparse added to PyPI",
+      "url": "https://pypi.org/project/streamlit-argparse/"
+    },
+    {
+      "name": "yta-ai-prodia added to PyPI",
+      "url": "https://pypi.org/project/yta-ai-prodia/"
+    },
+    {
+      "name": "mididoctor added to PyPI",
+      "url": "https://pypi.org/project/mididoctor/"
+    },
+    {
+      "name": "verily added to PyPI",
+      "url": "https://pypi.org/project/verily/"
+    },
+    {
+      "name": "cog_to_zarr added to PyPI",
+      "url": "https://pypi.org/project/cog-to-zarr/"
+    }
+  ]
+}
