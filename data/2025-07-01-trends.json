@@ -4,7 +4,7 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 97931,
+      "stars": 97932,
       "description": null
     },
     {
@@ -16,19 +16,19 @@
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 64456,
+      "stars": 64455,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 63727,
+      "stars": 63737,
       "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models."
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 62546,
+      "stars": 62550,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     }
   ],
@@ -36,27 +36,27 @@
     {
       "title": "The Fed says this is a cube of $1M. They're off by half a million",
       "url": "https://calvin.sh/blog/fed-lie/",
-      "score": 121
+      "score": 328
     },
     {
       "title": "Feasibility study of a mission to Sedna - Nuclear propulsion and solar sailing",
       "url": "https://arxiv.org/abs/2506.17732",
-      "score": 98
+      "score": 111
     },
     {
-      "title": "Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages",
-      "url": "https://simedw.com/2025/06/23/introducing-spegel/",
-      "score": 185
+      "title": "The Hoyle State (2021)",
+      "url": "https://johncarlosbaez.wordpress.com/2021/02/04/the-hoyle-state/",
+      "score": 7
     },
     {
       "title": "Ask HN: Who is hiring? (July 2025)",
       "url": "https://news.ycombinator.com/item?id=44434576",
-      "score": 68
+      "score": 92
     },
     {
-      "title": "I built something that changed my friend group's social fabric",
-      "url": "https://blog.danpetrolito.xyz/i-built-something-that-changed-my-friend-gro-social-fabric/",
-      "score": 363
+      "title": "Show HN: Spegel, a Terminal Browser That Uses LLMs to Rewrite Webpages",
+      "url": "https://simedw.com/2025/06/23/introducing-spegel/",
+      "score": 221
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "pyminiping added to PyPI",
-      "url": "https://pypi.org/project/pyminiping/"
+      "name": "marinerg-data-access added to PyPI",
+      "url": "https://pypi.org/project/marinerg-data-access/"
     },
     {
-      "name": "premium-futures-mcp added to PyPI",
-      "url": "https://pypi.org/project/premium-futures-mcp/"
+      "name": "testdepen added to PyPI",
+      "url": "https://pypi.org/project/testdepen/"
     },
     {
-      "name": "netbox-proxmox-import added to PyPI",
-      "url": "https://pypi.org/project/netbox-proxmox-import/"
+      "name": "marinerg-test-access added to PyPI",
+      "url": "https://pypi.org/project/marinerg-test-access/"
     },
     {
-      "name": "ichec-django-core added to PyPI",
-      "url": "https://pypi.org/project/ichec-django-core/"
+      "name": "polars-talis added to PyPI",
+      "url": "https://pypi.org/project/polars-talis/"
     },
     {
-      "name": "envvar-validator added to PyPI",
-      "url": "https://pypi.org/project/envvar-validator/"
+      "name": "py-virion-data added to PyPI",
+      "url": "https://pypi.org/project/py-virion-data/"
     }
   ]
 }
