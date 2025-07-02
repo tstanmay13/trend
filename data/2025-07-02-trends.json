@@ -1,0 +1,107 @@
+{
+  "date": "2025-07-02",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 97959,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90350,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 64518,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 64033,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 62691,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Exploiting the IKKO Activebuds \"AI powered\" earbuds",
+      "url": "https://blog.mgdproductions.com/ikko-activebuds/",
+      "score": 322
+    },
+    {
+      "title": "Don\u2019t use \u201cclick here\u201d as link text (2001)",
+      "url": "https://www.w3.org/QA/Tips/noClickHere",
+      "score": 338
+    },
+    {
+      "title": "Couchers is officially out of beta",
+      "url": "https://couchers.org/blog/2025/07/01/releasing-couchers-v1",
+      "score": 54
+    },
+    {
+      "title": "Show HN: CSS generator for a high-def glass effect",
+      "url": "https://glass3d.dev/",
+      "score": 105
+    },
+    {
+      "title": "The Zen of Quakerism (2016)",
+      "url": "https://www.friendsjournal.org/the-zen-of-quakerism/",
+      "score": 53
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "precice-cli added to PyPI",
+      "url": "https://pypi.org/project/precice-cli/"
+    },
+    {
+      "name": "pretix-sumup-payment-plus added to PyPI",
+      "url": "https://pypi.org/project/pretix-sumup-payment-plus/"
+    },
+    {
+      "name": "matinverse added to PyPI",
+      "url": "https://pypi.org/project/matinverse/"
+    },
+    {
+      "name": "vessel-analysis-3d added to PyPI",
+      "url": "https://pypi.org/project/vessel-analysis-3d/"
+    },
+    {
+      "name": "arbitration-graphs added to PyPI",
+      "url": "https://pypi.org/project/arbitration-graphs/"
+    }
+  ]
+}
