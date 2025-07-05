@@ -4,59 +4,59 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 98026,
+      "stars": 98039,
       "description": null
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 90404,
+      "stars": 90403,
       "description": null
     },
     {
       "title": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 64745,
+      "stars": 64752,
       "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 64696,
+      "stars": 64716,
       "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models."
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 63306,
+      "stars": 63319,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     }
   ],
   "hackernews_top": [
     {
-      "title": "Local-first software: You own your data, in spite of the cloud",
+      "title": "Local-first software (2019)",
       "url": "https://www.inkandswitch.com/essay/local-first/",
-      "score": 260
+      "score": 539
+    },
+    {
+      "title": "Cod Have Been Shrinking for Decades, Scientists Say They've Solved Mystery",
+      "url": "https://www.smithsonianmag.com/smart-news/these-cod-have-been-shrinking-dramatically-for-decades-now-scientists-say-theyve-solved-the-mystery-180986920/",
+      "score": 57
+    },
+    {
+      "title": "Optimizing Tool Selection for LLM Workflows with Differentiable Programming",
+      "url": "https://viksit.substack.com/p/optimizing-tool-selection-for-llm",
+      "score": 25
     },
     {
       "title": "Europe's first geostationary sounder satellite is launched",
       "url": "https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched",
-      "score": 102
-    },
-    {
-      "title": "Local-First Software Is Easier to Scale",
-      "url": "https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale",
-      "score": 42
+      "score": 156
     },
     {
       "title": "Speeding up PostgreSQL dump/restore snapshots",
       "url": "https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql",
-      "score": 10
-    },
-    {
-      "title": "X-Clacks-Overhead",
-      "url": "https://xclacksoverhead.org/home/about",
-      "score": 130
+      "score": 71
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "nlp2scryfall added to PyPI",
-      "url": "https://pypi.org/project/nlp2scryfall/"
+      "name": "hashcash added to PyPI",
+      "url": "https://pypi.org/project/hashcash/"
     },
     {
-      "name": "playdice added to PyPI",
-      "url": "https://pypi.org/project/playdice/"
+      "name": "JAX-CRPS added to PyPI",
+      "url": "https://pypi.org/project/jax-crps/"
     },
     {
-      "name": "gym-adr added to PyPI",
-      "url": "https://pypi.org/project/gym-adr/"
+      "name": "heinsight added to PyPI",
+      "url": "https://pypi.org/project/heinsight/"
     },
     {
-      "name": "arxiv-search added to PyPI",
-      "url": "https://pypi.org/project/arxiv-search/"
+      "name": "mlflashtune added to PyPI",
+      "url": "https://pypi.org/project/mlflashtune/"
     },
     {
-      "name": "pihole-mcp-server added to PyPI",
-      "url": "https://pypi.org/project/pihole-mcp-server/"
+      "name": "pape-docs added to PyPI",
+      "url": "https://pypi.org/project/pape-docs/"
     }
   ]
 }
