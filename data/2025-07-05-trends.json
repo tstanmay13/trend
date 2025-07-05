@@ -1,0 +1,107 @@
+{
+  "date": "2025-07-05",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 98026,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90404,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 64745,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 64696,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 63306,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Local-first software: You own your data, in spite of the cloud",
+      "url": "https://www.inkandswitch.com/essay/local-first/",
+      "score": 260
+    },
+    {
+      "title": "Europe's first geostationary sounder satellite is launched",
+      "url": "https://www.eumetsat.int/europes-first-geostationary-sounder-satellite-launched",
+      "score": 102
+    },
+    {
+      "title": "Local-First Software Is Easier to Scale",
+      "url": "https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale",
+      "score": 42
+    },
+    {
+      "title": "Speeding up PostgreSQL dump/restore snapshots",
+      "url": "https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql",
+      "score": 10
+    },
+    {
+      "title": "X-Clacks-Overhead",
+      "url": "https://xclacksoverhead.org/home/about",
+      "score": 130
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "nlp2scryfall added to PyPI",
+      "url": "https://pypi.org/project/nlp2scryfall/"
+    },
+    {
+      "name": "playdice added to PyPI",
+      "url": "https://pypi.org/project/playdice/"
+    },
+    {
+      "name": "gym-adr added to PyPI",
+      "url": "https://pypi.org/project/gym-adr/"
+    },
+    {
+      "name": "arxiv-search added to PyPI",
+      "url": "https://pypi.org/project/arxiv-search/"
+    },
+    {
+      "name": "pihole-mcp-server added to PyPI",
+      "url": "https://pypi.org/project/pihole-mcp-server/"
+    }
+  ]
+}
