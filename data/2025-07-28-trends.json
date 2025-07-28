@@ -1,0 +1,111 @@
+{
+  "date": "2025-07-28",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 98403,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90683,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 73339,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 72008,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 69662,
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Show HN: Use Their ID \u2013 Use Your Local UK MP's ID for the Online Safety Act",
+      "url": "https://use-their-id.com/",
+      "score": 89
+    },
+    {
+      "title": "I designed my own fast game streaming video codec \u2013 PyroWave",
+      "url": "https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/",
+      "score": 112
+    },
+    {
+      "title": "Sign in with Google in Chrome",
+      "url": "https://underpassapp.com/news/2025/7/5.html",
+      "score": 77
+    },
+    {
+      "title": "Copyparty \u2013 Turn almost any device into a file server",
+      "url": "https://github.com/9001/copyparty",
+      "score": 453
+    },
+    {
+      "title": "Tao on \u201cblue team\u201d vs. \u201cred team\u201d LLMs",
+      "url": "https://mathstodon.xyz/@tao/114915604830689046",
+      "score": 351
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "private-assistant-comms-satellite added to PyPI",
+      "url": "https://pypi.org/project/private-assistant-comms-satellite/"
+    },
+    {
+      "name": "pageforge added to PyPI",
+      "url": "https://pypi.org/project/pageforge/"
+    },
+    {
+      "name": "document-analysis-framework added to PyPI",
+      "url": "https://pypi.org/project/document-analysis-framework/"
+    },
+    {
+      "name": "wRodaCupom added to PyPI",
+      "url": "https://pypi.org/project/wrodacupom/"
+    },
+    {
+      "name": "mcp-server-public-transport added to PyPI",
+      "url": "https://pypi.org/project/mcp-server-public-transport/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
