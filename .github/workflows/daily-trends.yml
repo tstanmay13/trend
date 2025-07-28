@@ -120,6 +120,17 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.PAT_TOKEN }}
           
+      - name: Setup Git
+        run: |
+          # Create git config directory if it doesn't exist
+          mkdir -p ~/.config/git
+          touch ~/.gitconfig
+          
+          # Configure git
+          git config --global user.email "tstanmay13@gmail.com"
+          git config --global user.name "tstanmay13"
+          git config --global --add safe.directory /github/workspace
+          
       - name: Cleanup branches
         run: |
           # Delete the update-tech-trends branch if it still exists
