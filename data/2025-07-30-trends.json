@@ -1,0 +1,111 @@
+{
+  "date": "2025-07-30",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 98420,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90703,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 74040,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 72509,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 66592,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Fast",
+      "url": "https://www.catherinejue.com/fast",
+      "score": 281
+    },
+    {
+      "title": "Optician Sans \u2013 A free font based on historical eye charts and optotypes",
+      "url": "https://optician-sans.com/",
+      "score": 107
+    },
+    {
+      "title": "Launch HN: Lucidic (YC W25) \u2013 Debug, test, and evaluate AI agents in production",
+      "url": "https://news.ycombinator.com/item?id=44735843",
+      "score": 71
+    },
+    {
+      "title": "Emacs: The macOS Bug",
+      "url": "https://xlii.space/eng/emacs-the-macos-bug/",
+      "score": 43
+    },
+    {
+      "title": "Sleep all comes down to the mitochondria",
+      "url": "https://www.science.org/content/blog-post/it-all-comes-down-mitochondria",
+      "score": 472
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "frinZ added to PyPI",
+      "url": "https://pypi.org/project/frinz/"
+    },
+    {
+      "name": "guardrails-detectors-common added to PyPI",
+      "url": "https://pypi.org/project/guardrails-detectors-common/"
+    },
+    {
+      "name": "redix-client added to PyPI",
+      "url": "https://pypi.org/project/redix-client/"
+    },
+    {
+      "name": "cortexa-sdk added to PyPI",
+      "url": "https://pypi.org/project/cortexa-sdk/"
+    },
+    {
+      "name": "pytest-doctest-only added to PyPI",
+      "url": "https://pypi.org/project/pytest-doctest-only/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
