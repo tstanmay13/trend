@@ -1,0 +1,111 @@
+{
+  "date": "2025-07-31",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 98441,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90711,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 74398,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 72786,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 69934,
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Slow",
+      "url": "https://michaelnotebook.com/slow/index.html",
+      "score": 328
+    },
+    {
+      "title": "Releasing open weights for FLUX.1 Krea",
+      "url": "https://www.krea.ai/blog/flux-krea-open-source-release",
+      "score": 121
+    },
+    {
+      "title": "QUIC for the kernel",
+      "url": "https://lwn.net/Articles/1029851/",
+      "score": 167
+    },
+    {
+      "title": "Show HN: Mcp-use \u2013 Connect any LLM to any MCP",
+      "url": "https://github.com/mcp-use/mcp-use",
+      "score": 72
+    },
+    {
+      "title": "A Hitchhiker's Guide to the AI Bubble",
+      "url": "https://fluxus.io/article/a-hitchhikers-guide-to-the-ai-bubble",
+      "score": 26
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "docmind added to PyPI",
+      "url": "https://pypi.org/project/docmind/"
+    },
+    {
+      "name": "irreversibility added to PyPI",
+      "url": "https://pypi.org/project/irreversibility/"
+    },
+    {
+      "name": "tools3nm4 added to PyPI",
+      "url": "https://pypi.org/project/tools3nm4/"
+    },
+    {
+      "name": "pyincore-incubator added to PyPI",
+      "url": "https://pypi.org/project/pyincore-incubator/"
+    },
+    {
+      "name": "facade-message-bot-shared-models added to PyPI",
+      "url": "https://pypi.org/project/facade-message-bot-shared-models/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
