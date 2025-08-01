@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-01",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90711,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 72810,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 69940,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 66682,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 66049,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Slow",
+      "url": "https://michaelnotebook.com/slow/index.html",
+      "score": 515
+    },
+    {
+      "title": "Releasing open weights for FLUX.1 Krea",
+      "url": "https://www.krea.ai/blog/flux-krea-open-source-release",
+      "score": 187
+    },
+    {
+      "title": "The anti-abundance critique on housing is wrong",
+      "url": "https://www.derekthompson.org/p/the-anti-abundance-critique-on-housing",
+      "score": 141
+    },
+    {
+      "title": "British man claims he's unable to watch porn as tattoos confuse age check system",
+      "url": "https://needtoknow.co.uk/2025/07/30/britains-most-tattooed-man-claims-he-is-unable-to-watch-prn-as-new-age-check-system-mistakes-his-ink-for-a-mask/",
+      "score": 42
+    },
+    {
+      "title": "QUIC for the kernel",
+      "url": "https://lwn.net/Articles/1029851/",
+      "score": 195
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "llama-stack-provider-trustyai-garak added to PyPI",
+      "url": "https://pypi.org/project/llama-stack-provider-trustyai-garak/"
+    },
+    {
+      "name": "semantic-copycat-miner added to PyPI",
+      "url": "https://pypi.org/project/semantic-copycat-miner/"
+    },
+    {
+      "name": "mil-industry added to PyPI",
+      "url": "https://pypi.org/project/mil-industry/"
+    },
+    {
+      "name": "meteorology-conversion added to PyPI",
+      "url": "https://pypi.org/project/meteorology-conversion/"
+    },
+    {
+      "name": "llparse added to PyPI",
+      "url": "https://pypi.org/project/llparse/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
