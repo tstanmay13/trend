@@ -1,62 +1,31 @@
 {
   "date": "2025-08-02",
-  "github_trending": [
-    {
-      "title": "DigitalPlatDev/FreeDomain",
-      "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 75113,
-      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
-    },
-    {
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 73141,
-      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
-    },
-    {
-      "title": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "stars": 70070,
-      "description": "Python tool for converting files and office documents to Markdown."
-    },
-    {
-      "title": "google-gemini/gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "stars": 66422,
-      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
-    },
-    {
-      "title": "punkpeye/awesome-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "stars": 64390,
-      "description": "A collection of MCP servers."
-    }
-  ],
+  "github_trending": [],
   "hackernews_top": [
     {
-      "title": "Why Exercise Is a Miracle Drug",
-      "url": "https://www.derekthompson.org/p/the-sunday-morning-post-why-exercise",
-      "score": 55
+      "title": "Telo MT1",
+      "url": "https://www.telotrucks.com/",
+      "score": 249
+    },
+    {
+      "title": "6 Weeks of Claude Code",
+      "url": "https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/",
+      "score": 134
+    },
+    {
+      "title": "Helsinki records zero traffic deaths for full year",
+      "url": "https://www.helsinkitimes.fi/finland/finland-news/domestic/27539-helsinki-records-zero-traffic-deaths-for-full-year.html",
+      "score": 237
+    },
+    {
+      "title": "I tried living on IPv6 for a day, and here's what happened",
+      "url": "https://www.xda-developers.com/the-internet-isnt-fully-ipv6-ready/",
+      "score": 34
     },
     {
       "title": "The Art of Multiprocessor Programming 2nd Edition Book Club",
       "url": "https://eatonphil.com/2025-art-of-multiprocessor-programming.html",
-      "score": 122
-    },
-    {
-      "title": "WebGPU enables local LLM in the browser. Demo site with AI chat",
-      "url": "https://andreinwald.github.io/browser-llm/",
-      "score": 61
-    },
-    {
-      "title": "We may not like what we become if A.I. solves loneliness",
-      "url": "https://www.newyorker.com/magazine/2025/07/21/ai-is-about-to-solve-loneliness-thats-a-problem",
-      "score": 197
-    },
-    {
-      "title": "Compressing Icelandic name declension patterns into a 3.27 kB trie",
-      "url": "https://alexharri.com/blog/icelandic-name-declension-trie",
-      "score": 153
+      "score": 205
     }
   ],
   "reddit_programming": [],
@@ -84,28 +53,28 @@
   ],
   "pypi_trending": [
     {
-      "name": "vibhansh added to PyPI",
-      "url": "https://pypi.org/project/vibhansh/"
+      "name": "geo_pysearch added to PyPI",
+      "url": "https://pypi.org/project/geo-pysearch/"
     },
     {
-      "name": "moderndid added to PyPI",
-      "url": "https://pypi.org/project/moderndid/"
+      "name": "colibri-stateless added to PyPI",
+      "url": "https://pypi.org/project/colibri-stateless/"
     },
     {
-      "name": "misterio added to PyPI",
-      "url": "https://pypi.org/project/misterio/"
+      "name": "d1-connector added to PyPI",
+      "url": "https://pypi.org/project/d1-connector/"
     },
     {
-      "name": "friendlyetl added to PyPI",
-      "url": "https://pypi.org/project/friendlyetl/"
+      "name": "rhoa added to PyPI",
+      "url": "https://pypi.org/project/rhoa/"
     },
     {
-      "name": "tdhook added to PyPI",
-      "url": "https://pypi.org/project/tdhook/"
+      "name": "sidematter-format added to PyPI",
+      "url": "https://pypi.org/project/sidematter-format/"
     }
   ],
   "summary": {
-    "total_items": 20,
-    "sources_with_data": 4
+    "total_items": 15,
+    "sources_with_data": 3
   }
 }
