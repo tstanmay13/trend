@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-04",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90744,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 75629,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 70195,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 66894,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 64561,
+      "description": "A collection of MCP servers."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Modern Node.js Patterns",
+      "url": "https://kashw1n.com/blog/nodejs-2025/",
+      "score": 458
+    },
+    {
+      "title": "Writing a good design document",
+      "url": "https://grantslatton.com/how-to-design-document",
+      "score": 236
+    },
+    {
+      "title": "So you want to parse a PDF?",
+      "url": "https://eliot-jones.com/2025/8/pdf-parsing-xref",
+      "score": 126
+    },
+    {
+      "title": "Persona vectors: Monitoring and controlling character traits in language models",
+      "url": "https://www.anthropic.com/research/persona-vectors",
+      "score": 306
+    },
+    {
+      "title": "A parser for TypeScript types, written in TypeScript types",
+      "url": "https://github.com/easrng/tsints",
+      "score": 15
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "generative-content-pipeline-scraping added to PyPI",
+      "url": "https://pypi.org/project/generative-content-pipeline-scraping/"
+    },
+    {
+      "name": "universal-message added to PyPI",
+      "url": "https://pypi.org/project/universal-message/"
+    },
+    {
+      "name": "suryamv-cv added to PyPI",
+      "url": "https://pypi.org/project/suryamv-cv/"
+    },
+    {
+      "name": "xensegripper added to PyPI",
+      "url": "https://pypi.org/project/xensegripper/"
+    },
+    {
+      "name": "rasch-pkg added to PyPI",
+      "url": "https://pypi.org/project/rasch-pkg/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
