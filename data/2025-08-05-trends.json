@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-05",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 98513,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 76140,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 73747,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 70331,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 67110,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "uBlock Origin Lite now available for Safari",
+      "url": "https://apps.apple.com/app/ublock-origin-lite/id6745342698",
+      "score": 355
+    },
+    {
+      "title": "Build Your Own Lisp",
+      "url": "https://www.buildyourownlisp.com/",
+      "score": 74
+    },
+    {
+      "title": "Can you block it? A simple Ad Block Tester",
+      "url": "https://canyoublockit.com/",
+      "score": 13
+    },
+    {
+      "title": "TSMC says employees tried to steal trade secrets on iPhone 18 chip process",
+      "url": "https://9to5mac.com/2025/08/05/tsmc-says-employees-tried-to-steal-trade-secrets-on-iphone-18-chip-process/",
+      "score": 49
+    },
+    {
+      "title": "Monitor your security cameras with locally processed AI",
+      "url": "https://frigate.video/",
+      "score": 323
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "vicalerts added to PyPI",
+      "url": "https://pypi.org/project/vicalerts/"
+    },
+    {
+      "name": "pyqt5-calculator added to PyPI",
+      "url": "https://pypi.org/project/pyqt5-calculator/"
+    },
+    {
+      "name": "trongridapi added to PyPI",
+      "url": "https://pypi.org/project/trongridapi/"
+    },
+    {
+      "name": "acacia-s2s-toolkit added to PyPI",
+      "url": "https://pypi.org/project/acacia-s2s-toolkit/"
+    },
+    {
+      "name": "mcp-image-cutout added to PyPI",
+      "url": "https://pypi.org/project/mcp-image-cutout/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
