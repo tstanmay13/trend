@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-07",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 98535,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 76803,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 74147,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 70569,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 67661,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Infinite Pixels",
+      "url": "https://meyerweb.com/eric/thoughts/2025/08/07/infinite-pixels/",
+      "score": 21
+    },
+    {
+      "title": "New AI Coding Teammate: Gemini CLI GitHub Actions",
+      "url": "https://blog.google/technology/developers/introducing-gemini-cli-github-actions/",
+      "score": 97
+    },
+    {
+      "title": "Leonardo Chiariglione: \u201cI closed MPEG on 2 June 2020\u201d",
+      "url": "https://leonardo.chiariglione.org/",
+      "score": 148
+    },
+    {
+      "title": "We replaced passwords with something worse",
+      "url": "https://blog.danielh.cc/blog/passwords",
+      "score": 500
+    },
+    {
+      "title": "An LLM does not need to understand MCP",
+      "url": "https://hackteam.io/blog/your-llm-does-not-care-about-mcp/",
+      "score": 28
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "sppyte added to PyPI",
+      "url": "https://pypi.org/project/sppyte/"
+    },
+    {
+      "name": "clearflow added to PyPI",
+      "url": "https://pypi.org/project/clearflow/"
+    },
+    {
+      "name": "torch-installer-coff33ninja added to PyPI",
+      "url": "https://pypi.org/project/torch-installer-coff33ninja/"
+    },
+    {
+      "name": "notiondbrs added to PyPI",
+      "url": "https://pypi.org/project/notiondbrs/"
+    },
+    {
+      "name": "isignored added to PyPI",
+      "url": "https://pypi.org/project/isignored/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
