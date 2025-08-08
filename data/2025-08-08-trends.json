@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-08",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 98541,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 74238,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 70613,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 67868,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 63380,
+      "description": "Model Context Protocol Servers"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "GPT-5",
+      "url": "https://openai.com/gpt-5/",
+      "score": 1494
+    },
+    {
+      "title": "Writing a storage engine for Postgres: an in-memory Table Access Method",
+      "url": "https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html",
+      "score": 24
+    },
+    {
+      "title": "Flipper Zero dark web firmware bypasses rolling code security",
+      "url": "https://www.rtl-sdr.com/flipperzero-darkweb-firmware-bypasses-rolling-code-security/",
+      "score": 191
+    },
+    {
+      "title": "Historical Tech Tree",
+      "url": "https://www.historicaltechtree.com/",
+      "score": 317
+    },
+    {
+      "title": "GPT-5: Key characteristics, pricing and system card",
+      "url": "https://simonwillison.net/2025/Aug/7/gpt-5/",
+      "score": 474
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "datadog-beyondtrust-password-safe added to PyPI",
+      "url": "https://pypi.org/project/datadog-beyondtrust-password-safe/"
+    },
+    {
+      "name": "newrelic-mcp-server added to PyPI",
+      "url": "https://pypi.org/project/newrelic-mcp-server/"
+    },
+    {
+      "name": "yags added to PyPI",
+      "url": "https://pypi.org/project/yags/"
+    },
+    {
+      "name": "tidy-viewer-py added to PyPI",
+      "url": "https://pypi.org/project/tidy-viewer-py/"
+    },
+    {
+      "name": "imaginepro added to PyPI",
+      "url": "https://pypi.org/project/imaginepro/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
