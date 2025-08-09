@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-09",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 98563,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 77337,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 74417,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 70698,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 68216,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "I want everything local \u2013 Building my offline AI workspace",
+      "url": "https://instavm.io/blog/building-my-offline-ai-workspace",
+      "score": 753
+    },
+    {
+      "title": "Partially Matching Zig Enums",
+      "url": "https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html",
+      "score": 23
+    },
+    {
+      "title": "Tribblix \u2013 The Retro Illumos Distribution",
+      "url": "http://www.tribblix.org/",
+      "score": 43
+    },
+    {
+      "title": "What the windsurf sale means for the AI coding ecosystem",
+      "url": "https://ethanding.substack.com/p/windsurf-gets-margin-called",
+      "score": 107
+    },
+    {
+      "title": "I bought a \u00a316 smartwatch just because it used USB-C",
+      "url": "https://shkspr.mobi/blog/2025/08/i-bought-a-16-smartwatch-just-because-it-used-usb-c/",
+      "score": 173
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "commity added to PyPI",
+      "url": "https://pypi.org/project/commity/"
+    },
+    {
+      "name": "SaucyPass added to PyPI",
+      "url": "https://pypi.org/project/saucypass/"
+    },
+    {
+      "name": "traauto added to PyPI",
+      "url": "https://pypi.org/project/traauto/"
+    },
+    {
+      "name": "permsupping added to PyPI",
+      "url": "https://pypi.org/project/permsupping/"
+    },
+    {
+      "name": "stand-da added to PyPI",
+      "url": "https://pypi.org/project/stand-da/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
