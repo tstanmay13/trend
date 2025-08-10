@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-10",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 98570,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90820,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 74582,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 70797,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 68434,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Show HN: Engineering.fyi \u2013 Search across tech engineering blogs in one place",
+      "url": "https://engineering.fyi/",
+      "score": 23
+    },
+    {
+      "title": "Writing simple tab-completions for Bash and Zsh",
+      "url": "https://mill-build.org/blog/14-bash-zsh-completion.html",
+      "score": 124
+    },
+    {
+      "title": "Inside OS/2 (1987)",
+      "url": "https://gitpi.us/article-archive/inside-os2/",
+      "score": 28
+    },
+    {
+      "title": "Booting 5000 Erlangs on Ampere One 192-core",
+      "url": "https://underjord.io/booting-5000-erlangs-on-ampere-one.html",
+      "score": 41
+    },
+    {
+      "title": "Hyprland \u2013 An independent, dynamic tiling Wayland compositor",
+      "url": "https://hypr.land/",
+      "score": 50
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "tronapihelper added to PyPI",
+      "url": "https://pypi.org/project/tronapihelper/"
+    },
+    {
+      "name": "math-build02 added to PyPI",
+      "url": "https://pypi.org/project/math-build02/"
+    },
+    {
+      "name": "mclab-func added to PyPI",
+      "url": "https://pypi.org/project/mclab-func/"
+    },
+    {
+      "name": "onefile-organizer added to PyPI",
+      "url": "https://pypi.org/project/onefile-organizer/"
+    },
+    {
+      "name": "xlql added to PyPI",
+      "url": "https://pypi.org/project/xlql/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
