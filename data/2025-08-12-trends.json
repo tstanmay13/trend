@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-12",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 98596,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 78169,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 75109,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 68807,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 65695,
+      "description": "A collection of MCP servers."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "StarDict sends X11 clipboard to remote servers",
+      "url": "https://lwn.net/SubscriberLink/1032732/3334850da49689e1/",
+      "score": 96
+    },
+    {
+      "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf]",
+      "url": "https://www.arxiv.org/pdf/2508.06471",
+      "score": 194
+    },
+    {
+      "title": "Wikipedia loses challenge against Online Safety Act",
+      "url": "https://www.bbc.com/news/articles/cjr11qqvvwlo",
+      "score": 749
+    },
+    {
+      "title": "I tried every todo app and ended up with a .txt file",
+      "url": "https://www.al3rez.com/todo-txt-journey",
+      "score": 980
+    },
+    {
+      "title": "All known 49-year-old Apple-1 computer",
+      "url": "https://www.apple1registry.com/en/list.html",
+      "score": 65
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "plsline added to PyPI",
+      "url": "https://pypi.org/project/plsline/"
+    },
+    {
+      "name": "datalakesurfer added to PyPI",
+      "url": "https://pypi.org/project/datalakesurfer/"
+    },
+    {
+      "name": "monkeyutil added to PyPI",
+      "url": "https://pypi.org/project/monkeyutil/"
+    },
+    {
+      "name": "gq-python2 added to PyPI",
+      "url": "https://pypi.org/project/gq-python2/"
+    },
+    {
+      "name": "gq-python1 added to PyPI",
+      "url": "https://pypi.org/project/gq-python1/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
