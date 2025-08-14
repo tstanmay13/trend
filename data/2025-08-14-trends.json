@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-14",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 98633,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90864,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 78945,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 76343,
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 71369,
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Gemma 3 270M: Compact model for hyper-efficient AI",
+      "url": "https://developers.googleblog.com/en/introducing-gemma-3-270m/",
+      "score": 343
+    },
+    {
+      "title": "How to rig elections [video]",
+      "url": "https://media.ccc.de/v/why2025-218-how-to-rig-elections",
+      "score": 51
+    },
+    {
+      "title": "Org-social is a decentralized social network that runs on Org Mode",
+      "url": "https://github.com/tanrax/org-social",
+      "score": 49
+    },
+    {
+      "title": "Steve Wozniak: Life to me was never about accomplishment, but about Happiness",
+      "url": "https://yro.slashdot.org/comments.pl?sid=23765914&cid=65583466",
+      "score": 201
+    },
+    {
+      "title": "New protein therapy shows promise as antidote for carbon monoxide poisoning",
+      "url": "https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html",
+      "score": 186
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "MMR821FooPackWheel added to PyPI",
+      "url": "https://pypi.org/project/mmr821foopackwheel/"
+    },
+    {
+      "name": "MMRPackage821 added to PyPI",
+      "url": "https://pypi.org/project/mmrpackage821/"
+    },
+    {
+      "name": "bedrock-protocol added to PyPI",
+      "url": "https://pypi.org/project/bedrock-protocol/"
+    },
+    {
+      "name": "tree-types added to PyPI",
+      "url": "https://pypi.org/project/tree-types/"
+    },
+    {
+      "name": "hatch-go added to PyPI",
+      "url": "https://pypi.org/project/hatch-go/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
