@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-15",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 98632,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90866,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 79008,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 71471,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 67636,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Streaming services are driving viewers back to piracy",
+      "url": "https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy",
+      "score": 666
+    },
+    {
+      "title": "Blurry rendering of games on Mac",
+      "url": "https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/",
+      "score": 214
+    },
+    {
+      "title": "Gemma 3 270M: Compact model for hyper-efficient AI",
+      "url": "https://developers.googleblog.com/en/introducing-gemma-3-270m/",
+      "score": 585
+    },
+    {
+      "title": "We rewrote the Ghostty GTK application",
+      "url": "https://mitchellh.com/writing/ghostty-gtk-rewrite",
+      "score": 224
+    },
+    {
+      "title": "Time to End Roundtripping by Big Pharma",
+      "url": "https://www.cfr.org/blog/time-end-roundtripping-big-pharma",
+      "score": 36
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "asgardeo_ai added to PyPI",
+      "url": "https://pypi.org/project/asgardeo-ai/"
+    },
+    {
+      "name": "language-balls added to PyPI",
+      "url": "https://pypi.org/project/language-balls/"
+    },
+    {
+      "name": "asgardeo added to PyPI",
+      "url": "https://pypi.org/project/asgardeo/"
+    },
+    {
+      "name": "agentmesh-orchestrator added to PyPI",
+      "url": "https://pypi.org/project/agentmesh-orchestrator/"
+    },
+    {
+      "name": "pandabet added to PyPI",
+      "url": "https://pypi.org/project/pandabet/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
