@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-17",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 98646,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 79682,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 71885,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 66301,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 64588,
+      "description": "Model Context Protocol Servers"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Lessons learned from building a sync-engine and reactivity system with SQLite",
+      "url": "https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity",
+      "score": 44
+    },
+    {
+      "title": "SuperSight: A graphical enhancement mod for Br\u00f8derbund's \"Stunts\"",
+      "url": "https://marnetto.net/2025/02/20/broderbund-stunts-1",
+      "score": 52
+    },
+    {
+      "title": "Simulator of the life of a 30-year-old in the UK",
+      "url": "https://nicksimulator.com/",
+      "score": 5
+    },
+    {
+      "title": "Node.js can now execute TypeScript files",
+      "url": "https://nodejs.org/en/blog/release/v22.18.0",
+      "score": 115
+    },
+    {
+      "title": "Dev Compass \u2013 Programming Philosophy Quiz",
+      "url": "https://treeform.github.io/devcompas/",
+      "score": 153
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "deckard added to PyPI",
+      "url": "https://pypi.org/project/deckard/"
+    },
+    {
+      "name": "textfsm-jinja added to PyPI",
+      "url": "https://pypi.org/project/textfsm-jinja/"
+    },
+    {
+      "name": "dedsec-cli added to PyPI",
+      "url": "https://pypi.org/project/dedsec-cli/"
+    },
+    {
+      "name": "openalgo-backtrader added to PyPI",
+      "url": "https://pypi.org/project/openalgo-backtrader/"
+    },
+    {
+      "name": "pyclsp added to PyPI",
+      "url": "https://pypi.org/project/pyclsp/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
