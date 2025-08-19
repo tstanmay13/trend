@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-19",
+  "github_trending": [
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 66586,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 64887,
+      "description": "Model Context Protocol Servers"
+    },
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 62291,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+    },
+    {
+      "title": "xai-org/grok-1",
+      "url": "https://github.com/xai-org/grok-1",
+      "stars": 50407,
+      "description": "Grok open release"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "stars": 49238,
+      "description": "The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data \ud83d\udd25"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Chrome intends to remove XSLT from the HTML spec",
+      "url": "https://github.com/whatwg/html/pull/11563",
+      "score": 128
+    },
+    {
+      "title": "Without the Futex, It's Futile",
+      "url": "https://h4x0r.org/futex/",
+      "score": 110
+    },
+    {
+      "title": "Custom telescope mount using harmonic drives and ESP32",
+      "url": "https://www.svendewaerhert.com/blog/telescope-mount/",
+      "score": 190
+    },
+    {
+      "title": "Critical Cache Poisoning Vulnerability in Dnsmasq",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2025q3/018288.html",
+      "score": 73
+    },
+    {
+      "title": "Launch HN: Parachute (YC S25) \u2013 Guardrails for Clinical AI",
+      "url": "https://news.ycombinator.com/item?id=44952246",
+      "score": 15
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "axl-workflows added to PyPI",
+      "url": "https://pypi.org/project/axl-workflows/"
+    },
+    {
+      "name": "gostmodels added to PyPI",
+      "url": "https://pypi.org/project/gostmodels/"
+    },
+    {
+      "name": "tessa-sdk added to PyPI",
+      "url": "https://pypi.org/project/tessa-sdk/"
+    },
+    {
+      "name": "langextract-anthropic added to PyPI",
+      "url": "https://pypi.org/project/langextract-anthropic/"
+    },
+    {
+      "name": "pheval-talos added to PyPI",
+      "url": "https://pypi.org/project/pheval-talos/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
