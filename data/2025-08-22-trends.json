@@ -4,59 +4,59 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 98795,
+      "stars": 98842,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90953,
       "description": null
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 80904,
+      "stars": 81079,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     },
     {
-      "title": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "stars": 72128,
-      "description": "Python tool for converting files and office documents to Markdown."
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 78255,
+      "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
     },
     {
-      "title": "modelcontextprotocol/servers",
-      "url": "https://github.com/modelcontextprotocol/servers",
-      "stars": 65208,
-      "description": "Model Context Protocol Servers"
-    },
-    {
-      "title": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars": 61018,
-      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 71146,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
     }
   ],
   "hackernews_top": [
     {
-      "title": "From GPT-4 to GPT-5: Measuring Progress in Medical Language Understanding [pdf]",
-      "url": "https://www.fertrevino.com/docs/gpt5_medhelm.pdf",
-      "score": 41
+      "title": "Being confidently wrong is the only thing holding AI back",
+      "url": "https://promptql.io/blog/being-confidently-wrong-is-holding-ai-back",
+      "score": 15
     },
     {
-      "title": "Uv format: Code Formatting Comes to uv (experimentally)",
-      "url": "https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/",
-      "score": 125
+      "title": "Io_uring, kTLS and Rust for zero syscall HTTPS server",
+      "url": "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html",
+      "score": 279
     },
     {
-      "title": "Happy 0b100000th Birthday, Debian",
-      "url": "https://lists.debian.org/debian-devel-announce/2025/08/msg00006.html",
-      "score": 28
+      "title": "Florida lawmaker floats ban on HOAs amid growing backlash",
+      "url": "https://www.tampabay28.com/news/state/florida-lawmaker-floats-ban-on-hoas-amid-growing-backlash",
+      "score": 7
     },
     {
-      "title": "Crimes with Python's Pattern Matching (2022)",
-      "url": "https://www.hillelwayne.com/post/python-abc/",
-      "score": 110
+      "title": "LabPlot: Free, open source and cross-platform Data Visualization and Analysis",
+      "url": "https://labplot.org/",
+      "score": 22
     },
     {
-      "title": "Elegant mathematics bending the future of design",
-      "url": "https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/",
-      "score": 41
+      "title": "DeepSeek-v3.1",
+      "url": "https://api-docs.deepseek.com/news/news250821",
+      "score": 578
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "pythonprogrammersamazingandverygood added to PyPI",
-      "url": "https://pypi.org/project/pythonprogrammersamazingandverygood/"
+      "name": "tigermcp added to PyPI",
+      "url": "https://pypi.org/project/tigermcp/"
     },
     {
-      "name": "multihead-latent-attention added to PyPI",
-      "url": "https://pypi.org/project/multihead-latent-attention/"
+      "name": "radarr-mcp added to PyPI",
+      "url": "https://pypi.org/project/radarr-mcp/"
     },
     {
-      "name": "justalock-client added to PyPI",
-      "url": "https://pypi.org/project/justalock-client/"
+      "name": "certbot-dns-f5xc added to PyPI",
+      "url": "https://pypi.org/project/certbot-dns-f5xc/"
     },
     {
-      "name": "opensearch-protobufs added to PyPI",
-      "url": "https://pypi.org/project/opensearch-protobufs/"
+      "name": "datetimeplus added to PyPI",
+      "url": "https://pypi.org/project/datetimeplus/"
     },
     {
-      "name": "tidyname added to PyPI",
-      "url": "https://pypi.org/project/tidyname/"
+      "name": "lyzr-python-sdk added to PyPI",
+      "url": "https://pypi.org/project/lyzr-python-sdk/"
     }
   ],
   "summary": {
