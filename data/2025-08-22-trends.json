@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-22",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 98795,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 80904,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 72128,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 65208,
+      "description": "Model Context Protocol Servers"
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 61018,
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "From GPT-4 to GPT-5: Measuring Progress in Medical Language Understanding [pdf]",
+      "url": "https://www.fertrevino.com/docs/gpt5_medhelm.pdf",
+      "score": 41
+    },
+    {
+      "title": "Uv format: Code Formatting Comes to uv (experimentally)",
+      "url": "https://pydevtools.com/blog/uv-format-code-formatting-comes-to-uv-experimentally/",
+      "score": 125
+    },
+    {
+      "title": "Happy 0b100000th Birthday, Debian",
+      "url": "https://lists.debian.org/debian-devel-announce/2025/08/msg00006.html",
+      "score": 28
+    },
+    {
+      "title": "Crimes with Python's Pattern Matching (2022)",
+      "url": "https://www.hillelwayne.com/post/python-abc/",
+      "score": 110
+    },
+    {
+      "title": "Elegant mathematics bending the future of design",
+      "url": "https://actu.epfl.ch/news/elegant-mathematics-bending-the-future-of-design/",
+      "score": 41
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "pythonprogrammersamazingandverygood added to PyPI",
+      "url": "https://pypi.org/project/pythonprogrammersamazingandverygood/"
+    },
+    {
+      "name": "multihead-latent-attention added to PyPI",
+      "url": "https://pypi.org/project/multihead-latent-attention/"
+    },
+    {
+      "name": "justalock-client added to PyPI",
+      "url": "https://pypi.org/project/justalock-client/"
+    },
+    {
+      "name": "opensearch-protobufs added to PyPI",
+      "url": "https://pypi.org/project/opensearch-protobufs/"
+    },
+    {
+      "name": "tidyname added to PyPI",
+      "url": "https://pypi.org/project/tidyname/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
