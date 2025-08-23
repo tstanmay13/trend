@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-23",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 98894,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90967,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 81377,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 78464,
+      "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 72189,
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "RFC 9839 and Bad Unicode",
+      "url": "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839",
+      "score": 120
+    },
+    {
+      "title": "Writing Speed-of-Light Flash Attention for 5090 in CUDA C++",
+      "url": "https://gau-nernst.github.io/fa-5090/",
+      "score": 53
+    },
+    {
+      "title": "Manim: Animation engine for explanatory math videos",
+      "url": "https://github.com/3b1b/manim",
+      "score": 235
+    },
+    {
+      "title": "Librebox: An open source, Roblox-compatible game engine",
+      "url": "https://github.com/librebox-devs/librebox-demo",
+      "score": 103
+    },
+    {
+      "title": "Rethinking the Linux cloud stack for confidential VMs",
+      "url": "https://lwn.net/Articles/1030818/",
+      "score": 69
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "mchat-core added to PyPI",
+      "url": "https://pypi.org/project/mchat-core/"
+    },
+    {
+      "name": "smirk added to PyPI",
+      "url": "https://pypi.org/project/smirk/"
+    },
+    {
+      "name": "snapkit added to PyPI",
+      "url": "https://pypi.org/project/snapkit/"
+    },
+    {
+      "name": "Flask-LiveReload added to PyPI",
+      "url": "https://pypi.org/project/flask-livereload/"
+    },
+    {
+      "name": "ussh added to PyPI",
+      "url": "https://pypi.org/project/ussh/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
