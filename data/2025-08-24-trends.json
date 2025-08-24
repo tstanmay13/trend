@@ -2,61 +2,61 @@
   "date": "2025-08-24",
   "github_trending": [
     {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 98929,
+      "description": null
+    },
+    {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
       "stars": 90969,
       "description": null
     },
     {
-      "title": "DigitalPlatDev/FreeDomain",
-      "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 81606,
-      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
-    },
-    {
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 78655,
+      "stars": 78707,
       "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 72211,
+      "stars": 72219,
       "description": "Python tool for converting files and office documents to Markdown."
     },
     {
       "title": "google-gemini/gemini-cli",
       "url": "https://github.com/google-gemini/gemini-cli",
-      "stars": 71504,
+      "stars": 71542,
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
     }
   ],
   "hackernews_top": [
     {
-      "title": "A German ISP tampered with their DNS \u2013 specifically to sabotage my website",
-      "url": "https://lina.sh/blog/telefonica-sabotages-me",
-      "score": 340
+      "title": "SQLite (with WAL) doesn't do `fsync` on each commit under default settings",
+      "url": "https://avi.im/blag/2025/sqlite-fsync/",
+      "score": 55
+    },
+    {
+      "title": "Making Games in Go: 3 Months Without LLMs vs. 3 Days with LLMs",
+      "url": "https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/",
+      "score": 39
+    },
+    {
+      "title": "Comet AI browser can get prompt injected from any site, drain your bank account",
+      "url": "https://twitter.com/zack_overflow/status/1959308058200551721",
+      "score": 173
     },
     {
       "title": "Show HN: Clearcam \u2013 Add AI Object Detection to Your IP CCTV Cameras in a Minute",
       "url": "https://github.com/roryclear/clearcam",
-      "score": 29
+      "score": 96
     },
     {
-      "title": "Dynamically patch a Python function's source code at runtime",
-      "url": "https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/",
-      "score": 11
-    },
-    {
-      "title": "Spending Too Much Time at Airports",
-      "url": "https://thezvi.substack.com/p/spending-too-much-time-at-airports",
-      "score": 23
-    },
-    {
-      "title": "ICE Uses Celebrity Loophole to Hide Deportation Flights",
-      "url": "https://jacobin.com/2025/08/ice-uses-celebrities-loophole-to-hide-deportation-flights/",
-      "score": 49
+      "title": "NASA's Juno Mission Leaves Legacy of Science at Jupiter",
+      "url": "https://www.scientificamerican.com/article/how-nasas-juno-probe-changed-everything-we-know-about-jupiter/",
+      "score": 27
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "azure-datastore-utils added to PyPI",
-      "url": "https://pypi.org/project/azure-datastore-utils/"
+      "name": "receipt-ocr added to PyPI",
+      "url": "https://pypi.org/project/receipt-ocr/"
     },
     {
-      "name": "robodogcli added to PyPI",
-      "url": "https://pypi.org/project/robodogcli/"
+      "name": "zopf added to PyPI",
+      "url": "https://pypi.org/project/zopf/"
     },
     {
-      "name": "pomni added to PyPI",
-      "url": "https://pypi.org/project/pomni/"
+      "name": "StempelWerk added to PyPI",
+      "url": "https://pypi.org/project/stempelwerk/"
     },
     {
-      "name": "UFOpticSim added to PyPI",
-      "url": "https://pypi.org/project/ufopticsim/"
+      "name": "ide-config-mcp added to PyPI",
+      "url": "https://pypi.org/project/ide-config-mcp/"
     },
     {
-      "name": "yjf-mcp added to PyPI",
-      "url": "https://pypi.org/project/yjf-mcp/"
+      "name": "twinfield added to PyPI",
+      "url": "https://pypi.org/project/twinfield/"
     }
   ],
   "summary": {
