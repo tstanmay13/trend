@@ -2,61 +2,61 @@
   "date": "2025-08-28",
   "github_trending": [
     {
-      "title": "deepseek-ai/DeepSeek-V3",
-      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 99034,
-      "description": null
-    },
-    {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 90982,
+      "stars": 90999,
       "description": null
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 89853,
+      "stars": 90490,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     },
     {
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 79452,
-      "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 68823,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
-      "title": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "stars": 72382,
-      "description": "Python tool for converting files and office documents to Markdown."
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 67905,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 66083,
+      "description": "Model Context Protocol Servers"
     }
   ],
   "hackernews_top": [
     {
-      "title": "Altered states of consciousness induced by breathwork accompanied by music",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411",
-      "score": 69
+      "title": "Ask HN: The government of my country blocked VPN access. What should I use?",
+      "url": "https://news.ycombinator.com/item?id=45054260",
+      "score": 526
     },
     {
-      "title": "Yamanot.es: A music box of train station melodies from the JR Yamanote Line",
-      "url": "https://yamanot.es/",
-      "score": 138
+      "title": "My startup banking story (2023)",
+      "url": "https://mitchellh.com/writing/my-startup-banking-story",
+      "score": 105
     },
     {
-      "title": "Researchers find evidence of ChatGPT buzzwords turning up in everyday speech",
-      "url": "https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/",
-      "score": 80
+      "title": "Fuck up my site \u2013 Turn any website into beautiful chaos",
+      "url": "https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true",
+      "score": 48
     },
     {
-      "title": "Malicious versions of Nx and some supporting plugins were published",
-      "url": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c",
-      "score": 323
+      "title": "Some thoughts on LLMs and software development",
+      "url": "https://martinfowler.com/articles/202508-ai-thoughts.html",
+      "score": 124
     },
     {
-      "title": "Toyota is recycling old EV batteries to help power Mazda's production line",
-      "url": "https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line",
-      "score": 201
+      "title": "Uncertain<T>",
+      "url": "https://nshipster.com/uncertainty/",
+      "score": 184
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "types-PySocks added to PyPI",
-      "url": "https://pypi.org/project/types-pysocks/"
+      "name": "skfobserver added to PyPI",
+      "url": "https://pypi.org/project/skfobserver/"
     },
     {
-      "name": "types-lunardate added to PyPI",
-      "url": "https://pypi.org/project/types-lunardate/"
+      "name": "giakiethoang added to PyPI",
+      "url": "https://pypi.org/project/giakiethoang/"
     },
     {
-      "name": "types-PyMeeus added to PyPI",
-      "url": "https://pypi.org/project/types-pymeeus/"
+      "name": "sqler added to PyPI",
+      "url": "https://pypi.org/project/sqler/"
     },
     {
-      "name": "signet-verify added to PyPI",
-      "url": "https://pypi.org/project/signet-verify/"
+      "name": "wizit_context_ingestor added to PyPI",
+      "url": "https://pypi.org/project/wizit-context-ingestor/"
     },
     {
-      "name": "google-cse added to PyPI",
-      "url": "https://pypi.org/project/google-cse/"
+      "name": "http-html added to PyPI",
+      "url": "https://pypi.org/project/http-html/"
     }
   ],
   "summary": {
