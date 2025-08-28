@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-28",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 99034,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90982,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 89853,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 79452,
+      "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 72382,
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Altered states of consciousness induced by breathwork accompanied by music",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411",
+      "score": 69
+    },
+    {
+      "title": "Yamanot.es: A music box of train station melodies from the JR Yamanote Line",
+      "url": "https://yamanot.es/",
+      "score": 138
+    },
+    {
+      "title": "Researchers find evidence of ChatGPT buzzwords turning up in everyday speech",
+      "url": "https://news.fsu.edu/news/education-society/2025/08/26/on-screen-and-now-irl-fsu-researchers-find-evidence-suggesting-chatgpt-influences-how-we-speak/",
+      "score": 80
+    },
+    {
+      "title": "Malicious versions of Nx and some supporting plugins were published",
+      "url": "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c",
+      "score": 323
+    },
+    {
+      "title": "Toyota is recycling old EV batteries to help power Mazda's production line",
+      "url": "https://www.thedrive.com/news/toyota-is-recycling-old-ev-batteries-to-help-power-mazdas-production-line",
+      "score": 201
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "types-PySocks added to PyPI",
+      "url": "https://pypi.org/project/types-pysocks/"
+    },
+    {
+      "name": "types-lunardate added to PyPI",
+      "url": "https://pypi.org/project/types-lunardate/"
+    },
+    {
+      "name": "types-PyMeeus added to PyPI",
+      "url": "https://pypi.org/project/types-pymeeus/"
+    },
+    {
+      "name": "signet-verify added to PyPI",
+      "url": "https://pypi.org/project/signet-verify/"
+    },
+    {
+      "name": "google-cse added to PyPI",
+      "url": "https://pypi.org/project/google-cse/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
