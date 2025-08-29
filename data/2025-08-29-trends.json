@@ -4,59 +4,59 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 99058,
+      "stars": 99061,
       "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 90853,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     },
     {
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 79714,
+      "stars": 79787,
       "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
     },
     {
       "title": "google-gemini/gemini-cli",
       "url": "https://github.com/google-gemini/gemini-cli",
-      "stars": 72510,
+      "stars": 72582,
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 72424,
+      "stars": 72443,
       "description": "Python tool for converting files and office documents to Markdown."
-    },
-    {
-      "title": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars": 63326,
-      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
     }
   ],
   "hackernews_top": [
     {
-      "title": "Claude Sonnet Will Ship in Xcode",
-      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes",
-      "score": 114
-    },
-    {
-      "title": "Python: The Documentary",
-      "url": "https://lwn.net/Articles/1035537/",
-      "score": 134
+      "title": "Show HN: Vectorless RAG",
+      "url": "https://github.com/VectifyAI/PageIndex/blob/main/cookbook/pageindex_RAG_simple.ipynb",
+      "score": 40
     },
     {
       "title": "Ask HN: The government of my country blocked VPN access. What should I use?",
       "url": "https://news.ycombinator.com/item?id=45054260",
-      "score": 809
+      "score": 1042
     },
     {
-      "title": "Fuck up my site \u2013 Turn any website into beautiful chaos",
-      "url": "https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true",
-      "score": 175
+      "title": "Make any site multiplayer in a few lines. Serverless WebRTC matchmaking",
+      "url": "https://oxism.com/trystero/",
+      "score": 95
     },
     {
-      "title": "Some thoughts on LLMs and software development",
-      "url": "https://martinfowler.com/articles/202508-ai-thoughts.html",
-      "score": 215
+      "title": "Strange CW Keys",
+      "url": "https://sites.google.com/site/oh6dccw/strangecwkeys",
+      "score": 81
+    },
+    {
+      "title": "Lucky 13: a look at Debian trixie",
+      "url": "https://lwn.net/Articles/1033474/",
+      "score": 109
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "rxnrecer added to PyPI",
-      "url": "https://pypi.org/project/rxnrecer/"
+      "name": "pyrapion added to PyPI",
+      "url": "https://pypi.org/project/pyrapion/"
     },
     {
-      "name": "testmark-pytest added to PyPI",
-      "url": "https://pypi.org/project/testmark-pytest/"
+      "name": "langgraph-checkpoint-oceanbase added to PyPI",
+      "url": "https://pypi.org/project/langgraph-checkpoint-oceanbase/"
     },
     {
-      "name": "kengine-mcp-server added to PyPI",
-      "url": "https://pypi.org/project/kengine-mcp-server/"
+      "name": "lisdk added to PyPI",
+      "url": "https://pypi.org/project/lisdk/"
     },
     {
-      "name": "langchain-camino added to PyPI",
-      "url": "https://pypi.org/project/langchain-camino/"
+      "name": "smsn-telegram-notify added to PyPI",
+      "url": "https://pypi.org/project/smsn-telegram-notify/"
     },
     {
-      "name": "CordForge added to PyPI",
-      "url": "https://pypi.org/project/cordforge/"
+      "name": "multidb added to PyPI",
+      "url": "https://pypi.org/project/multidb/"
     }
   ],
   "summary": {
