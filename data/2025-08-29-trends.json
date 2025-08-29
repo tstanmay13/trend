@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-29",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 99058,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 79714,
+      "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 72510,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 72424,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 63326,
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Claude Sonnet Will Ship in Xcode",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes",
+      "score": 114
+    },
+    {
+      "title": "Python: The Documentary",
+      "url": "https://lwn.net/Articles/1035537/",
+      "score": 134
+    },
+    {
+      "title": "Ask HN: The government of my country blocked VPN access. What should I use?",
+      "url": "https://news.ycombinator.com/item?id=45054260",
+      "score": 809
+    },
+    {
+      "title": "Fuck up my site \u2013 Turn any website into beautiful chaos",
+      "url": "https://www.fuckupmysite.com/?url=https%3A%2F%2Fnews.ycombinator.com&torchCursor=true&comicSans=true&fakeCursors=true&peskyFly=true",
+      "score": 175
+    },
+    {
+      "title": "Some thoughts on LLMs and software development",
+      "url": "https://martinfowler.com/articles/202508-ai-thoughts.html",
+      "score": 215
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "rxnrecer added to PyPI",
+      "url": "https://pypi.org/project/rxnrecer/"
+    },
+    {
+      "name": "testmark-pytest added to PyPI",
+      "url": "https://pypi.org/project/testmark-pytest/"
+    },
+    {
+      "name": "kengine-mcp-server added to PyPI",
+      "url": "https://pypi.org/project/kengine-mcp-server/"
+    },
+    {
+      "name": "langchain-camino added to PyPI",
+      "url": "https://pypi.org/project/langchain-camino/"
+    },
+    {
+      "name": "CordForge added to PyPI",
+      "url": "https://pypi.org/project/cordforge/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
