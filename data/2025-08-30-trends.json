@@ -2,61 +2,61 @@
   "date": "2025-08-30",
   "github_trending": [
     {
-      "title": "deepseek-ai/DeepSeek-V3",
-      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 99064,
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 90996,
       "description": null
-    },
-    {
-      "title": "DigitalPlatDev/FreeDomain",
-      "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 91550,
-      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
-    },
-    {
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 79941,
-      "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
-    },
-    {
-      "title": "google-gemini/gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "stars": 72761,
-      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 72495,
+      "stars": 72505,
       "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 68924,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 66310,
+      "description": "Model Context Protocol Servers"
+    },
+    {
+      "title": "FoundationAgents/OpenManus",
+      "url": "https://github.com/FoundationAgents/OpenManus",
+      "stars": 49304,
+      "description": "No fortress, purely open ground.  OpenManus is Coming."
     }
   ],
   "hackernews_top": [
     {
-      "title": "Cognitive Load is what matters",
+      "title": "Are we decentralized yet?",
+      "url": "https://arewedecentralizedyet.online/",
+      "score": 187
+    },
+    {
+      "title": "Cognitive load is what matters",
       "url": "https://github.com/zakirullin/cognitive-load",
-      "score": 134
+      "score": 659
     },
     {
-      "title": "Condor's Cuzco RISC-V Core at Hot Chips 2025",
-      "url": "https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot",
-      "score": 19
+      "title": "The Rise of Hybrid PHP: Blending PHP with Go and Rust",
+      "url": "https://yekdeveloper.com/p/4-the-rise-of-hybrid-php",
+      "score": 58
     },
     {
-      "title": "AI models need a virtual machine",
-      "url": "https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/",
-      "score": 36
+      "title": "Six Months into Tariffs, Businesses Have No Idea How to Price Anything",
+      "url": "https://www.wsj.com/business/retail/trump-tariff-business-price-impact-37b630c8",
+      "score": 70
     },
     {
-      "title": "Agent Client Protocol",
-      "url": "https://agentclientprotocol.com/overview/introduction",
-      "score": 86
-    },
-    {
-      "title": "Do the simplest thing that could possibly work",
-      "url": "https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/",
-      "score": 853
+      "title": "You Have to Feel It",
+      "url": "https://mitchellh.com/writing/feel-it",
+      "score": 99
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "voice-agent-tequity added to PyPI",
-      "url": "https://pypi.org/project/voice-agent-tequity/"
+      "name": "django-durable added to PyPI",
+      "url": "https://pypi.org/project/django-durable/"
     },
     {
-      "name": "digital-casting-system added to PyPI",
-      "url": "https://pypi.org/project/digital-casting-system/"
+      "name": "pickpy added to PyPI",
+      "url": "https://pypi.org/project/pickpy/"
     },
     {
-      "name": "django-myuser added to PyPI",
-      "url": "https://pypi.org/project/django-myuser/"
+      "name": "oasm-sdk added to PyPI",
+      "url": "https://pypi.org/project/oasm-sdk/"
     },
     {
-      "name": "odf-cli added to PyPI",
-      "url": "https://pypi.org/project/odf-cli/"
+      "name": "treedir-py added to PyPI",
+      "url": "https://pypi.org/project/treedir-py/"
     },
     {
-      "name": "inspect-swe added to PyPI",
-      "url": "https://pypi.org/project/inspect-swe/"
+      "name": "mediallm-mcp added to PyPI",
+      "url": "https://pypi.org/project/mediallm-mcp/"
     }
   ],
   "summary": {
