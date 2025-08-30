@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-30",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 99064,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 91550,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 79941,
+      "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 72761,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 72495,
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Cognitive Load is what matters",
+      "url": "https://github.com/zakirullin/cognitive-load",
+      "score": 134
+    },
+    {
+      "title": "Condor's Cuzco RISC-V Core at Hot Chips 2025",
+      "url": "https://chipsandcheese.com/p/condors-cuzco-risc-v-core-at-hot",
+      "score": 19
+    },
+    {
+      "title": "AI models need a virtual machine",
+      "url": "https://blog.sigplan.org/2025/08/29/ai-models-need-a-virtual-machine/",
+      "score": 36
+    },
+    {
+      "title": "Agent Client Protocol",
+      "url": "https://agentclientprotocol.com/overview/introduction",
+      "score": 86
+    },
+    {
+      "title": "Do the simplest thing that could possibly work",
+      "url": "https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/",
+      "score": 853
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "voice-agent-tequity added to PyPI",
+      "url": "https://pypi.org/project/voice-agent-tequity/"
+    },
+    {
+      "name": "digital-casting-system added to PyPI",
+      "url": "https://pypi.org/project/digital-casting-system/"
+    },
+    {
+      "name": "django-myuser added to PyPI",
+      "url": "https://pypi.org/project/django-myuser/"
+    },
+    {
+      "name": "odf-cli added to PyPI",
+      "url": "https://pypi.org/project/odf-cli/"
+    },
+    {
+      "name": "inspect-swe added to PyPI",
+      "url": "https://pypi.org/project/inspect-swe/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
