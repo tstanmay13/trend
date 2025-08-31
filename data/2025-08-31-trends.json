@@ -1,0 +1,111 @@
+{
+  "date": "2025-08-31",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 99070,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 91771,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 80005,
+      "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 72843,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 68111,
+      "description": "A collection of MCP servers."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Cognitive load is what matters",
+      "url": "https://github.com/zakirullin/cognitive-load",
+      "score": 926
+    },
+    {
+      "title": "Sheafification - The optimal path to mathematical mastery",
+      "url": "https://sheafification.com/the-fast-track/",
+      "score": 3
+    },
+    {
+      "title": "Why did books start being divided into chapters? A new history",
+      "url": "https://sydneyreviewofbooks.com/reviews/just-a-little-longer",
+      "score": 78
+    },
+    {
+      "title": "Running our Docker registry on-prem with Harbor",
+      "url": "https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/",
+      "score": 38
+    },
+    {
+      "title": "You Have to Feel It",
+      "url": "https://mitchellh.com/writing/feel-it",
+      "score": 206
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "yyinput added to PyPI",
+      "url": "https://pypi.org/project/yyinput/"
+    },
+    {
+      "name": "lockbox-sdk added to PyPI",
+      "url": "https://pypi.org/project/lockbox-sdk/"
+    },
+    {
+      "name": "ocdsmerge-rs added to PyPI",
+      "url": "https://pypi.org/project/ocdsmerge-rs/"
+    },
+    {
+      "name": "soulmachine217 added to PyPI",
+      "url": "https://pypi.org/project/soulmachine217/"
+    },
+    {
+      "name": "secbrowser added to PyPI",
+      "url": "https://pypi.org/project/secbrowser/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
