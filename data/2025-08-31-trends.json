@@ -4,59 +4,59 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 99070,
+      "stars": 99074,
       "description": null
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 91771,
+      "stars": 92032,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     },
     {
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 80005,
-      "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91006,
+      "description": null
     },
     {
-      "title": "google-gemini/gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "stars": 72843,
-      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 68962,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "punkpeye/awesome-mcp-servers",
       "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "stars": 68111,
+      "stars": 68161,
       "description": "A collection of MCP servers."
     }
   ],
   "hackernews_top": [
     {
-      "title": "Cognitive load is what matters",
-      "url": "https://github.com/zakirullin/cognitive-load",
-      "score": 926
+      "title": "\"This telegram must be closely paraphrased before being communicated\" Why?",
+      "url": "https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone",
+      "score": 239
     },
     {
-      "title": "Sheafification - The optimal path to mathematical mastery",
-      "url": "https://sheafification.com/the-fast-track/",
-      "score": 3
+      "title": "Jujutsu for Everyone",
+      "url": "https://jj-for-everyone.github.io/",
+      "score": 28
     },
     {
-      "title": "Why did books start being divided into chapters? A new history",
-      "url": "https://sydneyreviewofbooks.com/reviews/just-a-little-longer",
-      "score": 78
+      "title": "Why haven't quantum computers factored 21 yet?",
+      "url": "https://algassert.com/post/2500",
+      "score": 110
     },
     {
-      "title": "Running our Docker registry on-prem with Harbor",
-      "url": "https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/",
-      "score": 38
+      "title": "Replacing a Cache Service with a Database",
+      "url": "https://avi.im/blag/2025/db-cache/",
+      "score": 25
     },
     {
-      "title": "You Have to Feel It",
-      "url": "https://mitchellh.com/writing/feel-it",
-      "score": 206
+      "title": "Notes on Managing ADHD",
+      "url": "https://borretti.me/article/notes-on-managing-adhd",
+      "score": 20
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "yyinput added to PyPI",
-      "url": "https://pypi.org/project/yyinput/"
+      "name": "HiveClient added to PyPI",
+      "url": "https://pypi.org/project/hiveclient/"
     },
     {
-      "name": "lockbox-sdk added to PyPI",
-      "url": "https://pypi.org/project/lockbox-sdk/"
+      "name": "copilot-lsp-bridge added to PyPI",
+      "url": "https://pypi.org/project/copilot-lsp-bridge/"
     },
     {
-      "name": "ocdsmerge-rs added to PyPI",
-      "url": "https://pypi.org/project/ocdsmerge-rs/"
+      "name": "errorCoach added to PyPI",
+      "url": "https://pypi.org/project/errorcoach/"
     },
     {
-      "name": "soulmachine217 added to PyPI",
-      "url": "https://pypi.org/project/soulmachine217/"
+      "name": "paged-list added to PyPI",
+      "url": "https://pypi.org/project/paged-list/"
     },
     {
-      "name": "secbrowser added to PyPI",
-      "url": "https://pypi.org/project/secbrowser/"
+      "name": "lstenv added to PyPI",
+      "url": "https://pypi.org/project/lstenv/"
     }
   ],
   "summary": {
