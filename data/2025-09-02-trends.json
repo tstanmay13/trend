@@ -1,0 +1,111 @@
+{
+  "date": "2025-09-02",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 99100,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 92570,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 80203,
+      "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 73116,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 68287,
+      "description": "A collection of MCP servers."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Patrick Winston: How to Speak (2018) [video]",
+      "url": "https://www.youtube.com/watch?v=Unzc731iCUY",
+      "score": 201
+    },
+    {
+      "title": "Implementing a Foil Sticker Effect",
+      "url": "https://www.4rknova.com/blog/2025/08/30/foil-sticker",
+      "score": 184
+    },
+    {
+      "title": "Amazon has mostly sat out the AI talent war",
+      "url": "https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8",
+      "score": 144
+    },
+    {
+      "title": "The future of 32-bit support in the kernel",
+      "url": "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/",
+      "score": 132
+    },
+    {
+      "title": "Raspberry Pi 5 support (OpenBSD)",
+      "url": "https://marc.info/?l=openbsd-cvs&m=175675287220070&w=2",
+      "score": 86
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "PyCoke added to PyPI",
+      "url": "https://pypi.org/project/pycoke/"
+    },
+    {
+      "name": "gradio-audio-region added to PyPI",
+      "url": "https://pypi.org/project/gradio-audio-region/"
+    },
+    {
+      "name": "ipfind-m added to PyPI",
+      "url": "https://pypi.org/project/ipfind-m/"
+    },
+    {
+      "name": "buckeye-python added to PyPI",
+      "url": "https://pypi.org/project/buckeye-python/"
+    },
+    {
+      "name": "x-make-github-clones-x added to PyPI",
+      "url": "https://pypi.org/project/x-make-github-clones-x/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
