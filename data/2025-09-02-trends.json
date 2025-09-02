@@ -4,59 +4,59 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 99107,
+      "stars": 99108,
       "description": null
     },
     {
-      "title": "deepseek-ai/DeepSeek-R1",
-      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 91018,
-      "description": null
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 92666,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 72603,
+      "stars": 72605,
       "description": "Python tool for converting files and office documents to Markdown."
-    },
-    {
-      "title": "browser-use/browser-use",
-      "url": "https://github.com/browser-use/browser-use",
-      "stars": 69035,
-      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
       "title": "punkpeye/awesome-mcp-servers",
       "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "stars": 68313,
+      "stars": 68325,
       "description": "A collection of MCP servers."
+    },
+    {
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 66522,
+      "description": "Model Context Protocol Servers"
     }
   ],
   "hackernews_top": [
     {
       "title": "FreeDroidWarn",
       "url": "https://github.com/woheller69/FreeDroidWarn",
-      "score": 82
+      "score": 142
     },
     {
       "title": "Stone Age settlement found under the sea in Denmark",
       "url": "https://apnews.com/article/denmark-stone-age-settlements-underwater-research-d0a77a07cdad2c23bd61c3f4bb015d7d",
-      "score": 60
+      "score": 84
     },
     {
-      "title": "Patrick Winston: How to Speak (2018) [video]",
-      "url": "https://www.youtube.com/watch?v=Unzc731iCUY",
-      "score": 275
+      "title": "Kazeta: An operating system that brings the console gaming experience of 90s",
+      "url": "https://kazeta.org/",
+      "score": 59
     },
     {
       "title": "The day Return became Enter (2023)",
       "url": "https://aresluna.org/the-day-return-became-enter/",
-      "score": 83
+      "score": 113
     },
     {
-      "title": "Amazon has mostly sat out the AI talent war",
-      "url": "https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8",
-      "score": 200
+      "title": "Patrick Winston: How to Speak (2018) [video]",
+      "url": "https://www.youtube.com/watch?v=Unzc731iCUY",
+      "score": 294
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "zendo added to PyPI",
-      "url": "https://pypi.org/project/zendo/"
+      "name": "protoss added to PyPI",
+      "url": "https://pypi.org/project/protoss/"
     },
     {
-      "name": "zazen added to PyPI",
-      "url": "https://pypi.org/project/zazen/"
+      "name": "league-data-mcp added to PyPI",
+      "url": "https://pypi.org/project/league-data-mcp/"
     },
     {
-      "name": "greetings-helloworld2030-1 added to PyPI",
-      "url": "https://pypi.org/project/greetings-helloworld2030-1/"
+      "name": "wajp added to PyPI",
+      "url": "https://pypi.org/project/wajp/"
     },
     {
-      "name": "blackchat added to PyPI",
-      "url": "https://pypi.org/project/blackchat/"
+      "name": "pymocker added to PyPI",
+      "url": "https://pypi.org/project/pymocker/"
     },
     {
-      "name": "compy-bridge-lib-glfw added to PyPI",
-      "url": "https://pypi.org/project/compy-bridge-lib-glfw/"
+      "name": "enerhabitat added to PyPI",
+      "url": "https://pypi.org/project/enerhabitat/"
     }
   ],
   "summary": {
