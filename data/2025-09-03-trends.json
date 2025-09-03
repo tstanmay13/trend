@@ -1,0 +1,111 @@
+{
+  "date": "2025-09-03",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 99123,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91025,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 80403,
+      "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 73322,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 72691,
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Google can keep its Chrome browser but will be barred from exclusive contracts",
+      "url": "https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html",
+      "score": 551
+    },
+    {
+      "title": "%CPU utilization is a lie",
+      "url": "https://www.brendanlong.com/cpu-utilization-is-a-lie.html",
+      "score": 145
+    },
+    {
+      "title": "This blog is running on a recycled Google Pixel 5 (2024)",
+      "url": "https://blog.ctms.me/posts/2024-08-29-running-this-blog-on-a-pixel-5/",
+      "score": 122
+    },
+    {
+      "title": "Chicago has the most lead pipes in the nation",
+      "url": "https://grist.org/accountability/chicago-lead-pipe-replacement-map-health/",
+      "score": 59
+    },
+    {
+      "title": "Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)",
+      "url": "https://github.com/krig/LISP",
+      "score": 10
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "smart-cloud-tag added to PyPI",
+      "url": "https://pypi.org/project/smart-cloud-tag/"
+    },
+    {
+      "name": "smart-financial-mcp added to PyPI",
+      "url": "https://pypi.org/project/smart-financial-mcp/"
+    },
+    {
+      "name": "juno-agent added to PyPI",
+      "url": "https://pypi.org/project/juno-agent/"
+    },
+    {
+      "name": "mcpbind-mcp-google-email added to PyPI",
+      "url": "https://pypi.org/project/mcpbind-mcp-google-email/"
+    },
+    {
+      "name": "bookalimo added to PyPI",
+      "url": "https://pypi.org/project/bookalimo/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
