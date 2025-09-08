@@ -1,0 +1,111 @@
+{
+  "date": "2025-09-08",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91044,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 81575,
+      "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 74124,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 69414,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 68927,
+      "description": "A collection of MCP servers."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Using Claude Code to modernize a 25-year-old kernel driver",
+      "url": "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver",
+      "score": 467
+    },
+    {
+      "title": "The MacBook has a sensor that knows the exact angle of the screen hinge",
+      "url": "https://twitter.com/samhenrigold/status/1964428927159382261",
+      "score": 732
+    },
+    {
+      "title": "Show HN: C++ library for reading MacBook lid angle sensor data",
+      "url": "https://github.com/ufoym/mac-angle",
+      "score": 18
+    },
+    {
+      "title": "Formatting code should be unnecessary",
+      "url": "https://maxleiter.com/blog/formatting",
+      "score": 145
+    },
+    {
+      "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search",
+      "url": "https://simonwillison.net/2025/Sep/6/research-goblin/",
+      "score": 235
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "nc-user-terminator added to PyPI",
+      "url": "https://pypi.org/project/nc-user-terminator/"
+    },
+    {
+      "name": "colliderml added to PyPI",
+      "url": "https://pypi.org/project/colliderml/"
+    },
+    {
+      "name": "mseep-llmling-agent added to PyPI",
+      "url": "https://pypi.org/project/mseep-llmling-agent/"
+    },
+    {
+      "name": "tensorneflow added to PyPI",
+      "url": "https://pypi.org/project/tensorneflow/"
+    },
+    {
+      "name": "lipin-searcher-py-async added to PyPI",
+      "url": "https://pypi.org/project/lipin-searcher-py-async/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
