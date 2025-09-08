@@ -2,61 +2,61 @@
   "date": "2025-09-08",
   "github_trending": [
     {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 99187,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 95017,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 91044,
+      "stars": 91043,
       "description": null
     },
     {
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 81575,
+      "stars": 81633,
       "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
     },
     {
       "title": "google-gemini/gemini-cli",
       "url": "https://github.com/google-gemini/gemini-cli",
-      "stars": 74124,
+      "stars": 74149,
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
-    },
-    {
-      "title": "browser-use/browser-use",
-      "url": "https://github.com/browser-use/browser-use",
-      "stars": 69414,
-      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
-    },
-    {
-      "title": "punkpeye/awesome-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "stars": 68927,
-      "description": "A collection of MCP servers."
     }
   ],
   "hackernews_top": [
     {
       "title": "Using Claude Code to modernize a 25-year-old kernel driver",
       "url": "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver",
-      "score": 467
+      "score": 594
     },
     {
       "title": "The MacBook has a sensor that knows the exact angle of the screen hinge",
       "url": "https://twitter.com/samhenrigold/status/1964428927159382261",
-      "score": 732
+      "score": 808
     },
     {
       "title": "Show HN: C++ library for reading MacBook lid angle sensor data",
       "url": "https://github.com/ufoym/mac-angle",
-      "score": 18
+      "score": 47
     },
     {
-      "title": "Formatting code should be unnecessary",
-      "url": "https://maxleiter.com/blog/formatting",
-      "score": 145
+      "title": "Why Is Japan Still Investing in Custom Floating Point Accelerators?",
+      "url": "https://www.nextplatform.com/2025/09/04/why-is-japan-still-investing-in-custom-floating-point-accelerators/",
+      "score": 78
     },
     {
-      "title": "GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search",
-      "url": "https://simonwillison.net/2025/Sep/6/research-goblin/",
-      "score": 235
+      "title": "How can I deal with a team member who is always complaining?",
+      "url": "https://andiroberts.com/leadership-questions/how-can-i-deal-with-a-team-member-who-is-always-complaining",
+      "score": 13
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "nc-user-terminator added to PyPI",
-      "url": "https://pypi.org/project/nc-user-terminator/"
+      "name": "arithematic-mr.sagar added to PyPI",
+      "url": "https://pypi.org/project/arithematic-mr-sagar/"
     },
     {
-      "name": "colliderml added to PyPI",
-      "url": "https://pypi.org/project/colliderml/"
+      "name": "aek-auto-mlbuilder added to PyPI",
+      "url": "https://pypi.org/project/aek-auto-mlbuilder/"
     },
     {
-      "name": "mseep-llmling-agent added to PyPI",
-      "url": "https://pypi.org/project/mseep-llmling-agent/"
+      "name": "roblox-messaging-place added to PyPI",
+      "url": "https://pypi.org/project/roblox-messaging-place/"
     },
     {
-      "name": "tensorneflow added to PyPI",
-      "url": "https://pypi.org/project/tensorneflow/"
+      "name": "cidt added to PyPI",
+      "url": "https://pypi.org/project/cidt/"
     },
     {
-      "name": "lipin-searcher-py-async added to PyPI",
-      "url": "https://pypi.org/project/lipin-searcher-py-async/"
+      "name": "clustools added to PyPI",
+      "url": "https://pypi.org/project/clustools/"
     }
   ],
   "summary": {
