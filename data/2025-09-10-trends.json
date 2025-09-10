@@ -1,0 +1,111 @@
+{
+  "date": "2025-09-10",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 99209,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 95661,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 69136,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 63328,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "stars": 56104,
+      "description": "The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data \ud83d\udd25"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "I replaced Animal Crossing's dialogue with a live LLM by hacking GameCube memory",
+      "url": "https://joshfonseca.com/blogs/animal-crossing-llm",
+      "score": 54
+    },
+    {
+      "title": "iPhone Air",
+      "url": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
+      "score": 587
+    },
+    {
+      "title": "E-paper display reaches the realm of LCD screens",
+      "url": "https://spectrum.ieee.org/e-paper-display-modos",
+      "score": 292
+    },
+    {
+      "title": "Claude now has access to a server-side container environment",
+      "url": "https://www.anthropic.com/news/create-files",
+      "score": 472
+    },
+    {
+      "title": "Things you can do with a debugger but not with print debugging",
+      "url": "https://mahesh-hegde.github.io/posts/what_debugger_can/",
+      "score": 70
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "intake-esm-access added to PyPI",
+      "url": "https://pypi.org/project/intake-esm-access/"
+    },
+    {
+      "name": "rich-notifier added to PyPI",
+      "url": "https://pypi.org/project/rich-notifier/"
+    },
+    {
+      "name": "nvshmem4py-cu13 added to PyPI",
+      "url": "https://pypi.org/project/nvshmem4py-cu13/"
+    },
+    {
+      "name": "uv-to-pipfile added to PyPI",
+      "url": "https://pypi.org/project/uv-to-pipfile/"
+    },
+    {
+      "name": "weight-analyse added to PyPI",
+      "url": "https://pypi.org/project/weight-analyse/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
