@@ -4,59 +4,59 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 99211,
+      "stars": 99209,
       "description": null
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 95992,
+      "stars": 96002,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     },
     {
-      "title": "All-Hands-AI/OpenHands",
-      "url": "https://github.com/All-Hands-AI/OpenHands",
-      "stars": 63369,
-      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91050,
+      "description": null
     },
     {
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "stars": 56394,
-      "description": "The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data \ud83d\udd25"
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 83250,
+      "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
     },
     {
-      "title": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "stars": 52421,
-      "description": "\ud83d\ude80\ud83e\udd16 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 74630,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
     }
   ],
   "hackernews_top": [
     {
       "title": "KDE launches its own distribution",
       "url": "https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/",
-      "score": 247
-    },
-    {
-      "title": "DOOMscrolling: The Game",
-      "url": "https://ironicsans.ghost.io/doomscrolling-the-game/",
-      "score": 106
+      "score": 267
     },
     {
       "title": "Court rejects Verizon claim that selling location data without consent is legal",
       "url": "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/",
-      "score": 173
+      "score": 224
     },
     {
-      "title": "ChatGPT Developer Mode: Full MCP client access",
-      "url": "https://platform.openai.com/docs/guides/developer-mode",
-      "score": 388
+      "title": "DOOMscrolling: The Game",
+      "url": "https://ironicsans.ghost.io/doomscrolling-the-game/",
+      "score": 121
     },
     {
       "title": "Show HN: Term.everything \u2013\u00a0Run any GUI app in the terminal",
       "url": "https://github.com/mmulet/term.everything",
-      "score": 699
+      "score": 719
+    },
+    {
+      "title": "ChatGPT Developer Mode: Full MCP client access",
+      "url": "https://platform.openai.com/docs/guides/developer-mode",
+      "score": 399
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "booleangene added to PyPI",
-      "url": "https://pypi.org/project/booleangene/"
+      "name": "os-normalizer added to PyPI",
+      "url": "https://pypi.org/project/os-normalizer/"
     },
     {
-      "name": "pyproj-inspector added to PyPI",
-      "url": "https://pypi.org/project/pyproj-inspector/"
+      "name": "pydartsnut added to PyPI",
+      "url": "https://pypi.org/project/pydartsnut/"
     },
     {
-      "name": "mcpcn-split-screen-mcp added to PyPI",
-      "url": "https://pypi.org/project/mcpcn-split-screen-mcp/"
+      "name": "scalefc added to PyPI",
+      "url": "https://pypi.org/project/scalefc/"
     },
     {
-      "name": "aplicacion-ventas-ramirez added to PyPI",
-      "url": "https://pypi.org/project/aplicacion-ventas-ramirez/"
+      "name": "string-utils-v1 added to PyPI",
+      "url": "https://pypi.org/project/string-utils-v1/"
     },
     {
-      "name": "ipgs added to PyPI",
-      "url": "https://pypi.org/project/ipgs/"
+      "name": "simple-math-v1 added to PyPI",
+      "url": "https://pypi.org/project/simple-math-v1/"
     }
   ],
   "summary": {
