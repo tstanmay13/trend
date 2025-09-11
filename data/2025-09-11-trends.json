@@ -4,31 +4,31 @@
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 99209,
+      "stars": 99211,
       "description": null
     },
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 96002,
+      "stars": 96015,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 91050,
+      "stars": 91053,
       "description": null
     },
     {
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 83250,
+      "stars": 83267,
       "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
     },
     {
       "title": "google-gemini/gemini-cli",
       "url": "https://github.com/google-gemini/gemini-cli",
-      "stars": 74630,
+      "stars": 74637,
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
     }
   ],
@@ -36,27 +36,27 @@
     {
       "title": "KDE launches its own distribution",
       "url": "https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/",
-      "score": 267
-    },
-    {
-      "title": "Court rejects Verizon claim that selling location data without consent is legal",
-      "url": "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/",
-      "score": 224
+      "score": 305
     },
     {
       "title": "DOOMscrolling: The Game",
       "url": "https://ironicsans.ghost.io/doomscrolling-the-game/",
-      "score": 121
+      "score": 148
+    },
+    {
+      "title": "Court rejects Verizon claim that selling location data without consent is legal",
+      "url": "https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/",
+      "score": 267
     },
     {
       "title": "Show HN: Term.everything \u2013\u00a0Run any GUI app in the terminal",
       "url": "https://github.com/mmulet/term.everything",
-      "score": 719
+      "score": 739
     },
     {
       "title": "ChatGPT Developer Mode: Full MCP client access",
       "url": "https://platform.openai.com/docs/guides/developer-mode",
-      "score": 399
+      "score": 406
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "os-normalizer added to PyPI",
-      "url": "https://pypi.org/project/os-normalizer/"
+      "name": "kh2d-solver added to PyPI",
+      "url": "https://pypi.org/project/kh2d-solver/"
     },
     {
-      "name": "pydartsnut added to PyPI",
-      "url": "https://pypi.org/project/pydartsnut/"
+      "name": "lsy-qweather-sdk added to PyPI",
+      "url": "https://pypi.org/project/lsy-qweather-sdk/"
     },
     {
-      "name": "scalefc added to PyPI",
-      "url": "https://pypi.org/project/scalefc/"
+      "name": "lindera-python added to PyPI",
+      "url": "https://pypi.org/project/lindera-python/"
     },
     {
-      "name": "string-utils-v1 added to PyPI",
-      "url": "https://pypi.org/project/string-utils-v1/"
+      "name": "model-mp-io added to PyPI",
+      "url": "https://pypi.org/project/model-mp-io/"
     },
     {
-      "name": "simple-math-v1 added to PyPI",
-      "url": "https://pypi.org/project/simple-math-v1/"
+      "name": "model-mp-core added to PyPI",
+      "url": "https://pypi.org/project/model-mp-core/"
     }
   ],
   "summary": {
