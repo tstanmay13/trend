@@ -1,0 +1,111 @@
+{
+  "date": "2025-09-12",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91057,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 83868,
+      "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 74900,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 69747,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 67566,
+      "description": "Model Context Protocol Servers"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "EU court rules nuclear energy is clean energy",
+      "url": "https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy",
+      "score": 151
+    },
+    {
+      "title": "UTF-8 is a brilliant design",
+      "url": "https://iamvishnu.com/posts/utf8-is-brilliant-design",
+      "score": 38
+    },
+    {
+      "title": "Many hard LeetCode problems are easy constraint problems",
+      "url": "https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/",
+      "score": 277
+    },
+    {
+      "title": "QGIS is a free, open-source, cross platform geographical information system",
+      "url": "https://github.com/qgis/QGIS",
+      "score": 82
+    },
+    {
+      "title": "The treasury is expanding the Patriot Act to attack Bitcoin self custody",
+      "url": "https://www.tftc.io/treasury-iexpanding-patriot-act/",
+      "score": 470
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "apicrusher-lite added to PyPI",
+      "url": "https://pypi.org/project/apicrusher-lite/"
+    },
+    {
+      "name": "web-performance-monitor added to PyPI",
+      "url": "https://pypi.org/project/web-performance-monitor/"
+    },
+    {
+      "name": "vulnerability-scanner added to PyPI",
+      "url": "https://pypi.org/project/vulnerability-scanner/"
+    },
+    {
+      "name": "manufacturing-forecast added to PyPI",
+      "url": "https://pypi.org/project/manufacturing-forecast/"
+    },
+    {
+      "name": "niflheim-x added to PyPI",
+      "url": "https://pypi.org/project/niflheim-x/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
