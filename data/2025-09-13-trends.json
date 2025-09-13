@@ -8,55 +8,55 @@
       "description": null
     },
     {
-      "title": "DigitalPlatDev/FreeDomain",
-      "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 96916,
-      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
-    },
-    {
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 84058,
+      "stars": 84073,
       "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
     },
     {
       "title": "google-gemini/gemini-cli",
       "url": "https://github.com/google-gemini/gemini-cli",
-      "stars": 75011,
+      "stars": 75023,
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
     },
     {
-      "title": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "stars": 73239,
-      "description": "Python tool for converting files and office documents to Markdown."
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 69945,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "xai-org/grok-1",
+      "url": "https://github.com/xai-org/grok-1",
+      "stars": 50499,
+      "description": "Grok open release"
     }
   ],
   "hackernews_top": [
     {
-      "title": "A store that generates products from anything you type in search",
-      "url": "https://anycrap.shop/",
-      "score": 406
+      "title": "Magical systems thinking",
+      "url": "https://worksinprogress.co/issue/magical-systems-thinking/",
+      "score": 136
     },
     {
-      "title": "Magical Systems Thinking",
-      "url": "https://worksinprogress.co/issue/magical-systems-thinking/",
-      "score": 29
+      "title": "Show HN: A store that generates products from anything you type in search",
+      "url": "https://anycrap.shop/",
+      "score": 534
     },
     {
       "title": "486Tang \u2013 486 on a credit-card-sized FPGA board",
       "url": "https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/",
-      "score": 62
+      "score": 87
     },
     {
       "title": "Mago: A fast PHP toolchain written in Rust",
       "url": "https://github.com/carthage-software/mago",
-      "score": 66
+      "score": 100
     },
     {
       "title": "My First Impressions of Gleam",
       "url": "https://mtlynch.io/notes/gleam-first-impressions/",
-      "score": 88
+      "score": 128
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "redis-init-zero added to PyPI",
-      "url": "https://pypi.org/project/redis-init-zero/"
+      "name": "iot-daemonize added to PyPI",
+      "url": "https://pypi.org/project/iot-daemonize/"
     },
     {
-      "name": "mcp-ds-toolkit-server added to PyPI",
-      "url": "https://pypi.org/project/mcp-ds-toolkit-server/"
+      "name": "bm25-chroma added to PyPI",
+      "url": "https://pypi.org/project/bm25-chroma/"
     },
     {
-      "name": "clean-transcribe added to PyPI",
-      "url": "https://pypi.org/project/clean-transcribe/"
+      "name": "hybrid-retriever added to PyPI",
+      "url": "https://pypi.org/project/hybrid-retriever/"
     },
     {
-      "name": "vinwiki-py added to PyPI",
-      "url": "https://pypi.org/project/vinwiki-py/"
+      "name": "pybytebeat added to PyPI",
+      "url": "https://pypi.org/project/pybytebeat/"
     },
     {
-      "name": "mlflow-gcp-iap added to PyPI",
-      "url": "https://pypi.org/project/mlflow-gcp-iap/"
+      "name": "pythermodb-settings added to PyPI",
+      "url": "https://pypi.org/project/pythermodb-settings/"
     }
   ],
   "summary": {
