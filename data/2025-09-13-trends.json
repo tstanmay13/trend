@@ -1,0 +1,111 @@
+{
+  "date": "2025-09-13",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 99236,
+      "description": null
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 96916,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 84058,
+      "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 75011,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 73239,
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "A store that generates products from anything you type in search",
+      "url": "https://anycrap.shop/",
+      "score": 406
+    },
+    {
+      "title": "Magical Systems Thinking",
+      "url": "https://worksinprogress.co/issue/magical-systems-thinking/",
+      "score": 29
+    },
+    {
+      "title": "486Tang \u2013 486 on a credit-card-sized FPGA board",
+      "url": "https://nand2mario.github.io/posts/2025/486tang_486_on_a_credit_card_size_fpga_board/",
+      "score": 62
+    },
+    {
+      "title": "Mago: A fast PHP toolchain written in Rust",
+      "url": "https://github.com/carthage-software/mago",
+      "score": 66
+    },
+    {
+      "title": "My First Impressions of Gleam",
+      "url": "https://mtlynch.io/notes/gleam-first-impressions/",
+      "score": 88
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "redis-init-zero added to PyPI",
+      "url": "https://pypi.org/project/redis-init-zero/"
+    },
+    {
+      "name": "mcp-ds-toolkit-server added to PyPI",
+      "url": "https://pypi.org/project/mcp-ds-toolkit-server/"
+    },
+    {
+      "name": "clean-transcribe added to PyPI",
+      "url": "https://pypi.org/project/clean-transcribe/"
+    },
+    {
+      "name": "vinwiki-py added to PyPI",
+      "url": "https://pypi.org/project/vinwiki-py/"
+    },
+    {
+      "name": "mlflow-gcp-iap added to PyPI",
+      "url": "https://pypi.org/project/mlflow-gcp-iap/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
