@@ -1,0 +1,111 @@
+{
+  "date": "2025-09-16",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 99267,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91079,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 85347,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 75318,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 74558,
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Hosting a website on a disposable vape",
+      "url": "https://bogdanthegeek.github.io/blog/projects/vapeserver/",
+      "score": 861
+    },
+    {
+      "title": "Public static void main(String[] args) is dead",
+      "url": "https://mccue.dev/pages/9-16-25-psvm",
+      "score": 126
+    },
+    {
+      "title": "William Gibson Reads Neuromancer (2004)",
+      "url": "http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html",
+      "score": 201
+    },
+    {
+      "title": "Learn x86-64 assembly by writing a GUI from scratch",
+      "url": "https://gaultier.github.io/blog/x11_x64.html",
+      "score": 40
+    },
+    {
+      "title": "React is winning by default and slowing innovation",
+      "url": "https://www.lorenstew.art/blog/react-won-by-default/",
+      "score": 406
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "wagtail-celery-results added to PyPI",
+      "url": "https://pypi.org/project/wagtail-celery-results/"
+    },
+    {
+      "name": "log-generator-tool added to PyPI",
+      "url": "https://pypi.org/project/log-generator-tool/"
+    },
+    {
+      "name": "buildtools4py added to PyPI",
+      "url": "https://pypi.org/project/buildtools4py/"
+    },
+    {
+      "name": "job-queue-processor added to PyPI",
+      "url": "https://pypi.org/project/job-queue-processor/"
+    },
+    {
+      "name": "quantumninja-test-package added to PyPI",
+      "url": "https://pypi.org/project/quantumninja-test-package/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
