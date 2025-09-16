@@ -2,79 +2,79 @@
   "date": "2025-09-16",
   "github_trending": [
     {
-      "title": "deepseek-ai/DeepSeek-V3",
-      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 99267,
-      "description": null
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 70278,
+      "description": "A collection of MCP servers."
     },
     {
-      "title": "deepseek-ai/DeepSeek-R1",
-      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 91079,
-      "description": null
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 67931,
+      "description": "Model Context Protocol Servers"
     },
     {
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 85347,
-      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+      "title": "xai-org/grok-1",
+      "url": "https://github.com/xai-org/grok-1",
+      "stars": 50504,
+      "description": "Grok open release"
     },
     {
-      "title": "google-gemini/gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "stars": 75318,
-      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+      "title": "FoundationAgents/OpenManus",
+      "url": "https://github.com/FoundationAgents/OpenManus",
+      "stars": 49781,
+      "description": "No fortress, purely open ground.  OpenManus is Coming."
     },
     {
-      "title": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "stars": 74558,
-      "description": "Python tool for converting files and office documents to Markdown."
+      "title": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "stars": 47749,
+      "description": "Truly independent web browser"
     }
   ],
   "hackernews_top": [
     {
-      "title": "Hosting a website on a disposable vape",
-      "url": "https://bogdanthegeek.github.io/blog/projects/vapeserver/",
-      "score": 861
+      "title": "Fifty Things you can do with a Software Defined Radio",
+      "url": "https://blinry.org/50-things-with-sdr/",
+      "score": 78
     },
     {
-      "title": "Public static void main(String[] args) is dead",
-      "url": "https://mccue.dev/pages/9-16-25-psvm",
-      "score": 126
+      "title": "CIA Freedom of Information Act Electronic Reading Room",
+      "url": "https://www.cia.gov/readingroom",
+      "score": 63
     },
     {
-      "title": "William Gibson Reads Neuromancer (2004)",
-      "url": "http://bearcave.com/bookrev/neuromancer/neuromancer_audio.html",
-      "score": 201
+      "title": "Mother of All Demos",
+      "url": "https://wordspike.com/s/5ip0xneiTsc",
+      "score": 27
     },
     {
-      "title": "Learn x86-64 assembly by writing a GUI from scratch",
-      "url": "https://gaultier.github.io/blog/x11_x64.html",
-      "score": 40
+      "title": "Self Propagating NPM Malware Compromises over 40 Packages",
+      "url": "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+      "score": 362
     },
     {
-      "title": "React is winning by default and slowing innovation",
-      "url": "https://www.lorenstew.art/blog/react-won-by-default/",
-      "score": 406
+      "title": "FBI couldn't get my husband to decrypt his Tor node so he was jailed for 3 years",
+      "url": "https://old.reddit.com/r/TOR/comments/1ni5drm/the_fbi_couldnt_get_my_husband_to_decrypt_his_tor/",
+      "score": 772
     }
   ],
   "reddit_programming": [],
   "npm_trending": [
     {
-      "name": "flatstr",
-      "downloads": "N/A"
-    },
-    {
       "name": "mongoose",
       "downloads": "N/A"
     },
     {
-      "name": "@vscode/web-custom-data",
+      "name": "flatstr",
       "downloads": "N/A"
     },
     {
       "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
       "downloads": "N/A"
     },
     {
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "wagtail-celery-results added to PyPI",
-      "url": "https://pypi.org/project/wagtail-celery-results/"
+      "name": "fbdfile added to PyPI",
+      "url": "https://pypi.org/project/fbdfile/"
     },
     {
-      "name": "log-generator-tool added to PyPI",
-      "url": "https://pypi.org/project/log-generator-tool/"
+      "name": "altan-sdk added to PyPI",
+      "url": "https://pypi.org/project/altan-sdk/"
     },
     {
-      "name": "buildtools4py added to PyPI",
-      "url": "https://pypi.org/project/buildtools4py/"
+      "name": "cc-summarize added to PyPI",
+      "url": "https://pypi.org/project/cc-summarize/"
     },
     {
-      "name": "job-queue-processor added to PyPI",
-      "url": "https://pypi.org/project/job-queue-processor/"
+      "name": "odoo-addon-repair-follow-lot-location added to PyPI",
+      "url": "https://pypi.org/project/odoo-addon-repair-follow-lot-location/"
     },
     {
-      "name": "quantumninja-test-package added to PyPI",
-      "url": "https://pypi.org/project/quantumninja-test-package/"
+      "name": "tts-webui-extension.maha-tts added to PyPI",
+      "url": "https://pypi.org/project/tts-webui-extension-maha-tts/"
     }
   ],
   "summary": {
