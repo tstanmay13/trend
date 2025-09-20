@@ -1,0 +1,80 @@
+{
+  "date": "2025-09-20",
+  "github_trending": [],
+  "hackernews_top": [
+    {
+      "title": "Ultrasonic Chef's Knife",
+      "url": "https://seattleultrasonics.com/",
+      "score": 196
+    },
+    {
+      "title": "Designing NotebookLM",
+      "url": "https://jasonspielman.com/notebooklm",
+      "score": 97
+    },
+    {
+      "title": "Knitted Anatomy",
+      "url": "https://www.knitted-anatomy.at/cardiovascular-system/",
+      "score": 13
+    },
+    {
+      "title": "A revolution in English bell ringing",
+      "url": "https://harpers.org/archive/2025/10/a-change-of-tune-veronique-greenwood-bell-ringing/",
+      "score": 11
+    },
+    {
+      "title": "Philips announces digital pathology scanner with native DICOM JPEG XL output",
+      "url": "https://www.philips.com/a-w/about/news/archive/standard/news/articles/2025/philips-announces-digital-pathology-scanner-with-native-configurable-dicom-jpeg-and-jpeg-xl-output-in-world-first.html",
+      "score": 48
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@pinelab/vendure-plugin-popularity-scores",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "supervoxtral added to PyPI",
+      "url": "https://pypi.org/project/supervoxtral/"
+    },
+    {
+      "name": "selective-self-attention added to PyPI",
+      "url": "https://pypi.org/project/selective-self-attention/"
+    },
+    {
+      "name": "perfetto-mcp added to PyPI",
+      "url": "https://pypi.org/project/perfetto-mcp/"
+    },
+    {
+      "name": "keepex added to PyPI",
+      "url": "https://pypi.org/project/keepex/"
+    },
+    {
+      "name": "py-sketch-art added to PyPI",
+      "url": "https://pypi.org/project/py-sketch-art/"
+    }
+  ],
+  "summary": {
+    "total_items": 15,
+    "sources_with_data": 3
+  }
+}
