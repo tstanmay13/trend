@@ -1,0 +1,111 @@
+{
+  "date": "2025-09-22",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 99659,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91171,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 70279,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 69751,
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    },
+    {
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 68497,
+      "description": "Model Context Protocol Servers"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Download responsibly",
+      "url": "https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/",
+      "score": 114
+    },
+    {
+      "title": "Privacy and Security Risks in the eSIM Ecosystem [pdf]",
+      "url": "https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf",
+      "score": 134
+    },
+    {
+      "title": "How I, a beginner developer, read the tutorial you, a developer, wrote for me",
+      "url": "https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner",
+      "score": 279
+    },
+    {
+      "title": "A Generalized Algebraic Theory of Directed Equality",
+      "url": "https://jacobneu.phd/",
+      "score": 19
+    },
+    {
+      "title": "Sj.h: A tiny little JSON parsing library in ~150 lines of C99",
+      "url": "https://github.com/rxi/sj.h",
+      "score": 390
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "egobench added to PyPI",
+      "url": "https://pypi.org/project/egobench/"
+    },
+    {
+      "name": "legame added to PyPI",
+      "url": "https://pypi.org/project/legame/"
+    },
+    {
+      "name": "Vijay-Package added to PyPI",
+      "url": "https://pypi.org/project/vijay-package/"
+    },
+    {
+      "name": "request-unitest added to PyPI",
+      "url": "https://pypi.org/project/request-unitest/"
+    },
+    {
+      "name": "wyoming-whisper.cpp added to PyPI",
+      "url": "https://pypi.org/project/wyoming-whisper-cpp/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
