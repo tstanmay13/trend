@@ -1,0 +1,111 @@
+{
+  "date": "2025-09-23",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 99942,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 99382,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91178,
+      "description": null
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 70931,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 70350,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Go has added Valgrind support",
+      "url": "https://go-review.googlesource.com/c/go/+/674077",
+      "score": 125
+    },
+    {
+      "title": "Structured Outputs in LLMs",
+      "url": "https://parthsareen.com/blog.html#sampling.md",
+      "score": 32
+    },
+    {
+      "title": "Nine Things I Learned in Ninety Years",
+      "url": "http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf",
+      "score": 478
+    },
+    {
+      "title": "Indoor surfaces act as sponges for harmful chemicals",
+      "url": "https://news.uci.edu/2025/09/22/indoor-surfaces-act-as-massive-sponges-for-harmful-chemicals-uc-irvine-led-study-shows/",
+      "score": 32
+    },
+    {
+      "title": "Zoxide: A Better CD Command",
+      "url": "https://github.com/ajeetdsouza/zoxide",
+      "score": 175
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@pinelab/vendure-plugin-popularity-scores",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "pachcalib added to PyPI",
+      "url": "https://pypi.org/project/pachcalib/"
+    },
+    {
+      "name": "tf-ai-agents added to PyPI",
+      "url": "https://pypi.org/project/tf-ai-agents/"
+    },
+    {
+      "name": "pyrangeyes added to PyPI",
+      "url": "https://pypi.org/project/pyrangeyes/"
+    },
+    {
+      "name": "winrpmdepscalc added to PyPI",
+      "url": "https://pypi.org/project/winrpmdepscalc/"
+    },
+    {
+      "name": "mohe-mcp-server added to PyPI",
+      "url": "https://pypi.org/project/mohe-mcp-server/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
