@@ -1,0 +1,111 @@
+{
+  "date": "2025-09-24",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91177,
+      "description": null
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 70995,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 70386,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 69956,
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    },
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 63713,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Baldur's Gate 3 Steam Deck \u2013 Native Version",
+      "url": "https://larian.com/support/faqs/steam-deck-native-version_121",
+      "score": 234
+    },
+    {
+      "title": "Find SF parking cops",
+      "url": "https://walzr.com/sf-parking/",
+      "score": 609
+    },
+    {
+      "title": "Libghostty is coming",
+      "url": "https://mitchellh.com/writing/libghostty-is-coming",
+      "score": 600
+    },
+    {
+      "title": "Quadratic memory reductions for Zero-knowledge Proofs",
+      "url": "https://github.com/logannye/space-efficient-zero-knowledge-proofs",
+      "score": 31
+    },
+    {
+      "title": "Qwen3-VL",
+      "url": "https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list",
+      "score": 225
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@pinelab/vendure-plugin-popularity-scores",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "mtdump added to PyPI",
+      "url": "https://pypi.org/project/mtdump/"
+    },
+    {
+      "name": "ride-the-duck added to PyPI",
+      "url": "https://pypi.org/project/ride-the-duck/"
+    },
+    {
+      "name": "diag-pythoncode added to PyPI",
+      "url": "https://pypi.org/project/diag-pythoncode/"
+    },
+    {
+      "name": "grades added to PyPI",
+      "url": "https://pypi.org/project/grades/"
+    },
+    {
+      "name": "openplaces added to PyPI",
+      "url": "https://pypi.org/project/openplaces/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
