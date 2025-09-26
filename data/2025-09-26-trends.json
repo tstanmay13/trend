@@ -1,62 +1,31 @@
 {
   "date": "2025-09-26",
-  "github_trending": [
-    {
-      "title": "DigitalPlatDev/FreeDomain",
-      "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 100543,
-      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
-    },
-    {
-      "title": "deepseek-ai/DeepSeek-R1",
-      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 91195,
-      "description": null
-    },
-    {
-      "title": "punkpeye/awesome-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "stars": 71225,
-      "description": "A collection of MCP servers."
-    },
-    {
-      "title": "browser-use/browser-use",
-      "url": "https://github.com/browser-use/browser-use",
-      "stars": 70501,
-      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
-    },
-    {
-      "title": "modelcontextprotocol/servers",
-      "url": "https://github.com/modelcontextprotocol/servers",
-      "stars": 68887,
-      "description": "Model Context Protocol Servers"
-    }
-  ],
+  "github_trending": [],
   "hackernews_top": [
     {
-      "title": "Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access",
-      "url": "https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/",
-      "score": 178
+      "title": "SimpleFold: Folding proteins is simpler than you think",
+      "url": "https://github.com/apple/ml-simplefold",
+      "score": 176
     },
     {
-      "title": "My Deus Ex lipsyncing fix mod",
-      "url": "https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/",
-      "score": 125
+      "title": "Why Use Mailing Lists?",
+      "url": "https://mailarchive.ietf.org/arch/msg/ietf/q6A_anL1u-Y9iXe-vboiOYamsl0/",
+      "score": 73
     },
     {
-      "title": "No reachable chess position with more than 218 moves",
-      "url": "https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs",
-      "score": 98
-    },
-    {
-      "title": "A platform-jumping prince \u2013 History of Prince of Persia's 1990s Ports",
-      "url": "https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince",
+      "title": "When Bruce Lee trained with Kareem Abdul-Jabbar",
+      "url": "https://lithub.com/when-bruce-lee-trained-with-kareem-abdul-jabbar/",
       "score": 63
     },
     {
-      "title": "Translating a Fortran F-16 Simulator to Unity3D",
-      "url": "https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/",
-      "score": 16
+      "title": "If you are harassed by lasers",
+      "url": "https://www.laserpointersafety.com/harassment.html",
+      "score": 59
+    },
+    {
+      "title": "Open Social",
+      "url": "https://overreacted.io/open-social/",
+      "score": 260
     }
   ],
   "reddit_programming": [],
@@ -84,28 +53,28 @@
   ],
   "pypi_trending": [
     {
-      "name": "dbt-depp added to PyPI",
-      "url": "https://pypi.org/project/dbt-depp/"
+      "name": "matplotliv added to PyPI",
+      "url": "https://pypi.org/project/matplotliv/"
     },
     {
-      "name": "gliner-korre added to PyPI",
-      "url": "https://pypi.org/project/gliner-korre/"
+      "name": "SeleniumTwoBackup12312s123123 added to PyPI",
+      "url": "https://pypi.org/project/seleniumtwobackup12312s123123/"
     },
     {
-      "name": "git-mcps added to PyPI",
-      "url": "https://pypi.org/project/git-mcps/"
+      "name": "postman-runner added to PyPI",
+      "url": "https://pypi.org/project/postman-runner/"
     },
     {
-      "name": "conversimple added to PyPI",
-      "url": "https://pypi.org/project/conversimple/"
+      "name": "langmem-cloudflare-vectorize added to PyPI",
+      "url": "https://pypi.org/project/langmem-cloudflare-vectorize/"
     },
     {
-      "name": "conversimple-sdk added to PyPI",
-      "url": "https://pypi.org/project/conversimple-sdk/"
+      "name": "can-cannelloni added to PyPI",
+      "url": "https://pypi.org/project/can-cannelloni/"
     }
   ],
   "summary": {
-    "total_items": 20,
-    "sources_with_data": 4
+    "total_items": 15,
+    "sources_with_data": 3
   }
 }
