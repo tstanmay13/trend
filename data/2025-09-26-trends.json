@@ -1,0 +1,111 @@
+{
+  "date": "2025-09-26",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 100543,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91195,
+      "description": null
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 71225,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 70501,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 68887,
+      "description": "Model Context Protocol Servers"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access",
+      "url": "https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/",
+      "score": 178
+    },
+    {
+      "title": "My Deus Ex lipsyncing fix mod",
+      "url": "https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/",
+      "score": 125
+    },
+    {
+      "title": "No reachable chess position with more than 218 moves",
+      "url": "https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs",
+      "score": 98
+    },
+    {
+      "title": "A platform-jumping prince \u2013 History of Prince of Persia's 1990s Ports",
+      "url": "https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince",
+      "score": 63
+    },
+    {
+      "title": "Translating a Fortran F-16 Simulator to Unity3D",
+      "url": "https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/",
+      "score": 16
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "dbt-depp added to PyPI",
+      "url": "https://pypi.org/project/dbt-depp/"
+    },
+    {
+      "name": "gliner-korre added to PyPI",
+      "url": "https://pypi.org/project/gliner-korre/"
+    },
+    {
+      "name": "git-mcps added to PyPI",
+      "url": "https://pypi.org/project/git-mcps/"
+    },
+    {
+      "name": "conversimple added to PyPI",
+      "url": "https://pypi.org/project/conversimple/"
+    },
+    {
+      "name": "conversimple-sdk added to PyPI",
+      "url": "https://pypi.org/project/conversimple-sdk/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
