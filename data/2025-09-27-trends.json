@@ -1,0 +1,111 @@
+{
+  "date": "2025-09-27",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 100957,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91203,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 88212,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 80157,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 77134,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Greenland Is a Beautiful Nightmare",
+      "url": "https://matduggan.com/greenland-is-a-beautiful-nightmare/",
+      "score": 83
+    },
+    {
+      "title": "SSH3: Faster and rich secure shell using HTTP/3",
+      "url": "https://github.com/francoismichel/ssh3",
+      "score": 135
+    },
+    {
+      "title": "A WebGL game where you deliver messages on a tiny planet",
+      "url": "https://messenger.abeto.co/",
+      "score": 90
+    },
+    {
+      "title": "First Malicious MCP in the Wild: The Postmark Backdoor Stealing Your Emails",
+      "url": "https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft",
+      "score": 101
+    },
+    {
+      "title": "AI model trapped in a Raspberry Pi",
+      "url": "https://blog.adafruit.com/2025/09/26/ai-model-trapped-in-raspberry-pi-piday-raspberrypi/",
+      "score": 30
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "baudream added to PyPI",
+      "url": "https://pypi.org/project/baudream/"
+    },
+    {
+      "name": "keet added to PyPI",
+      "url": "https://pypi.org/project/keet/"
+    },
+    {
+      "name": "scriber-pdf added to PyPI",
+      "url": "https://pypi.org/project/scriber-pdf/"
+    },
+    {
+      "name": "kmlorm added to PyPI",
+      "url": "https://pypi.org/project/kmlorm/"
+    },
+    {
+      "name": "PSI-GLAD added to PyPI",
+      "url": "https://pypi.org/project/psi-glad/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
