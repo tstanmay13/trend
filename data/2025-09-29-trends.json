@@ -1,0 +1,111 @@
+{
+  "date": "2025-09-29",
+  "github_trending": [
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 63854,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "stars": 60338,
+      "description": "The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data \ud83d\udd25"
+    },
+    {
+      "title": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "stars": 48988,
+      "description": "Truly independent web browser"
+    },
+    {
+      "title": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "stars": 39971,
+      "description": "The open-source CapCut alternative"
+    },
+    {
+      "title": "2noise/ChatTTS",
+      "url": "https://github.com/2noise/ChatTTS",
+      "stars": 37903,
+      "description": "A generative speech model for daily dialogue."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Queueing to publish in AI and CS",
+      "url": "https://damaru2.github.io/general/queueing_to_publish_in_AI_or_CS/",
+      "score": 33
+    },
+    {
+      "title": "Zero ASIC releases Wildebeest, the highest performance FPGA synthesis tool",
+      "url": "https://www.zeroasic.com/blog/wildebeest-launch",
+      "score": 107
+    },
+    {
+      "title": "F-Droid and Google\u2019s developer registration decree",
+      "url": "https://f-droid.org/2025/09/29/google-developer-registration-decree.html",
+      "score": 551
+    },
+    {
+      "title": "Play snake in the URL address bar",
+      "url": "https://demian.ferrei.ro/snake/",
+      "score": 576
+    },
+    {
+      "title": "Show HN: Swapple, a little daily puzzle on linear reversible circuit synthesis",
+      "url": "https://swapple.fuglede.dk",
+      "score": 22
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "hx-ml-dl-tools added to PyPI",
+      "url": "https://pypi.org/project/hx-ml-dl-tools/"
+    },
+    {
+      "name": "iflow-mcp-amazon_prime_top_titles_api_by added to PyPI",
+      "url": "https://pypi.org/project/iflow-mcp-amazon-prime-top-titles-api-by/"
+    },
+    {
+      "name": "startup-control-mcp added to PyPI",
+      "url": "https://pypi.org/project/startup-control-mcp/"
+    },
+    {
+      "name": "errata added to PyPI",
+      "url": "https://pypi.org/project/errata/"
+    },
+    {
+      "name": "circle-detection-hough added to PyPI",
+      "url": "https://pypi.org/project/circle-detection-hough/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
