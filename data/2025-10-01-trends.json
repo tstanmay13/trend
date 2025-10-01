@@ -1,0 +1,111 @@
+{
+  "date": "2025-10-01",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 99527,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91228,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 89201,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 80367,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 77665,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Jane Goodall has died",
+      "url": "https://www.latimes.com/obituaries/story/2025-10-01/jane-goodall-chimpanzees-dead",
+      "score": 244
+    },
+    {
+      "title": "OpenTSLM: Language Models That Understand Time-Series (Stanford, ETH, Google)",
+      "url": "https://www.opentslm.com/",
+      "score": 62
+    },
+    {
+      "title": "Announcing Tinker",
+      "url": "https://thinkingmachines.ai/blog/announcing-tinker/",
+      "score": 30
+    },
+    {
+      "title": "Show HN: Autism Simulator",
+      "url": "https://autism-simulator.vercel.app/",
+      "score": 323
+    },
+    {
+      "title": "Building the heap: racking 30 petabytes of hard drives for pretraining",
+      "url": "https://si.inc/posts/the-heap/",
+      "score": 160
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "bacnet-scan-tool added to PyPI",
+      "url": "https://pypi.org/project/bacnet-scan-tool/"
+    },
+    {
+      "name": "ecomp added to PyPI",
+      "url": "https://pypi.org/project/ecomp/"
+    },
+    {
+      "name": "netbox-maintenance-device added to PyPI",
+      "url": "https://pypi.org/project/netbox-maintenance-device/"
+    },
+    {
+      "name": "balint1 added to PyPI",
+      "url": "https://pypi.org/project/balint1/"
+    },
+    {
+      "name": "notemate-files added to PyPI",
+      "url": "https://pypi.org/project/notemate-files/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
