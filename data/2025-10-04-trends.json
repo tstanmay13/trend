@@ -1,0 +1,111 @@
+{
+  "date": "2025-10-04",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 99534,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91224,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 89694,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 80479,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 77928,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "A Comparison of Ada and Rust, Using Solutions to the Advent of Code",
+      "url": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
+      "score": 122
+    },
+    {
+      "title": "Use theorem provers to ensure the correctness of your LLM's reasoning",
+      "url": "https://github.com/DebarghaG/proofofthought",
+      "score": 19
+    },
+    {
+      "title": "Five Years as a Startup CTO: How, Why, and Was It Worth It?",
+      "url": "https://distinctplace.com/2024/09/11/five-years-as-startup-cto-was-it-all-worth-it/",
+      "score": 60
+    },
+    {
+      "title": "Knowledge Infusion Scaling Law for Pre-Training Large Language Models",
+      "url": "https://arxiv.org/abs/2509.19371",
+      "score": 16
+    },
+    {
+      "title": "Self-Hosting Email Like It's 1984",
+      "url": "https://maxadamski.com/blog/2025/10/email.html",
+      "score": 58
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "jules-mcp added to PyPI",
+      "url": "https://pypi.org/project/jules-mcp/"
+    },
+    {
+      "name": "colmena-ai added to PyPI",
+      "url": "https://pypi.org/project/colmena-ai/"
+    },
+    {
+      "name": "ghss added to PyPI",
+      "url": "https://pypi.org/project/ghss/"
+    },
+    {
+      "name": "nonebot-plugin-memory added to PyPI",
+      "url": "https://pypi.org/project/nonebot-plugin-memory/"
+    },
+    {
+      "name": "azure-functions-openapi-pydantic added to PyPI",
+      "url": "https://pypi.org/project/azure-functions-openapi-pydantic/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
