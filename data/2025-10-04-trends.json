@@ -2,61 +2,61 @@
   "date": "2025-10-04",
   "github_trending": [
     {
-      "title": "deepseek-ai/DeepSeek-V3",
-      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 99534,
-      "description": null
-    },
-    {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 91224,
+      "stars": 91225,
       "description": null
     },
     {
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 89694,
+      "stars": 89698,
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "stars": 80479,
+      "stars": 80481,
       "description": "Python tool for converting files and office documents to Markdown."
     },
     {
       "title": "google-gemini/gemini-cli",
       "url": "https://github.com/google-gemini/gemini-cli",
-      "stars": 77928,
+      "stars": 77935,
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 71165,
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
     }
   ],
   "hackernews_top": [
     {
-      "title": "A Comparison of Ada and Rust, Using Solutions to the Advent of Code",
-      "url": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
-      "score": 122
-    },
-    {
-      "title": "Use theorem provers to ensure the correctness of your LLM's reasoning",
+      "title": "ProofOfThought: LLM-based reasoning using Z3 theorem proving",
       "url": "https://github.com/DebarghaG/proofofthought",
-      "score": 19
+      "score": 63
     },
     {
-      "title": "Five Years as a Startup CTO: How, Why, and Was It Worth It?",
-      "url": "https://distinctplace.com/2024/09/11/five-years-as-startup-cto-was-it-all-worth-it/",
-      "score": 60
+      "title": "A comparison of Ada and Rust, using solutions to the Advent of Code",
+      "url": "https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md",
+      "score": 135
     },
     {
       "title": "Knowledge Infusion Scaling Law for Pre-Training Large Language Models",
       "url": "https://arxiv.org/abs/2509.19371",
-      "score": 16
+      "score": 26
     },
     {
-      "title": "Self-Hosting Email Like It's 1984",
-      "url": "https://maxadamski.com/blog/2025/10/email.html",
-      "score": 58
+      "title": "Five years as a startup CTO: How, why, and was it worth it? (2024)",
+      "url": "https://distinctplace.com/2024/09/11/five-years-as-startup-cto-was-it-all-worth-it/",
+      "score": 84
+    },
+    {
+      "title": "Show HN: Run \u2013 a CLI universal code runner I built while learning Rust",
+      "url": "https://github.com/Esubaalew/run",
+      "score": 13
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "jules-mcp added to PyPI",
-      "url": "https://pypi.org/project/jules-mcp/"
+      "name": "gtm-mcp added to PyPI",
+      "url": "https://pypi.org/project/gtm-mcp/"
     },
     {
-      "name": "colmena-ai added to PyPI",
-      "url": "https://pypi.org/project/colmena-ai/"
+      "name": "sollol added to PyPI",
+      "url": "https://pypi.org/project/sollol/"
     },
     {
-      "name": "ghss added to PyPI",
-      "url": "https://pypi.org/project/ghss/"
+      "name": "mpadam added to PyPI",
+      "url": "https://pypi.org/project/mpadam/"
     },
     {
-      "name": "nonebot-plugin-memory added to PyPI",
-      "url": "https://pypi.org/project/nonebot-plugin-memory/"
+      "name": "reddev added to PyPI",
+      "url": "https://pypi.org/project/reddev/"
     },
     {
-      "name": "azure-functions-openapi-pydantic added to PyPI",
-      "url": "https://pypi.org/project/azure-functions-openapi-pydantic/"
+      "name": "oxia added to PyPI",
+      "url": "https://pypi.org/project/oxia/"
     }
   ],
   "summary": {
