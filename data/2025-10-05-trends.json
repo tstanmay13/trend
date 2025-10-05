@@ -1,0 +1,111 @@
+{
+  "date": "2025-10-05",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 103207,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 99544,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91227,
+      "description": null
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 71970,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 70827,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Language Agnostic Programming: Why you may still need code",
+      "url": "https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/",
+      "score": 11
+    },
+    {
+      "title": "Show HN: Pyscn \u2013 Python code quality analyzer for vibe coders",
+      "url": "https://github.com/ludo-technologies/pyscn",
+      "score": 49
+    },
+    {
+      "title": "86 GB/s bitpacking with ARM SIMD (single thread)",
+      "url": "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack",
+      "score": 49
+    },
+    {
+      "title": "Personal data storage is an idea whose time has come",
+      "url": "https://blog.muni.town/personal-data-storage-idea/",
+      "score": 254
+    },
+    {
+      "title": "Retiring Test-Ipv6.com",
+      "url": "https://retire.test-ipv6.com/",
+      "score": 166
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "devtools-init added to PyPI",
+      "url": "https://pypi.org/project/devtools-init/"
+    },
+    {
+      "name": "remarkable-multidownload added to PyPI",
+      "url": "https://pypi.org/project/remarkable-multidownload/"
+    },
+    {
+      "name": "ml-autopipeline added to PyPI",
+      "url": "https://pypi.org/project/ml-autopipeline/"
+    },
+    {
+      "name": "protobuf-data-generator added to PyPI",
+      "url": "https://pypi.org/project/protobuf-data-generator/"
+    },
+    {
+      "name": "genshield added to PyPI",
+      "url": "https://pypi.org/project/genshield/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
