@@ -1,0 +1,111 @@
+{
+  "date": "2025-10-06",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 103311,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 89874,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 80535,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 78039,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "stars": 54222,
+      "description": "\ud83d\ude80\ud83e\udd16 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Fire destroys S. Korean government's cloud storage system, no backups available",
+      "url": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
+      "score": 1305
+    },
+    {
+      "title": "Why do LLMs freak out over the seahorse emoji?",
+      "url": "https://vgel.me/posts/seahorse/",
+      "score": 176
+    },
+    {
+      "title": "Find Nearby Automated License Plate Readers (ALPR)",
+      "url": "https://deflock.me/",
+      "score": 40
+    },
+    {
+      "title": "1 Trillion Web Pages Archived",
+      "url": "https://blog.archive.org/trillion/",
+      "score": 117
+    },
+    {
+      "title": "Magic Wormhole: Get things from one computer to another, safely",
+      "url": "https://magic-wormhole.readthedocs.io/en/latest/welcome.html",
+      "score": 95
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "export-sentry-issue added to PyPI",
+      "url": "https://pypi.org/project/export-sentry-issue/"
+    },
+    {
+      "name": "zapc added to PyPI",
+      "url": "https://pypi.org/project/zapc/"
+    },
+    {
+      "name": "ollex added to PyPI",
+      "url": "https://pypi.org/project/ollex/"
+    },
+    {
+      "name": "ricardoneud-api added to PyPI",
+      "url": "https://pypi.org/project/ricardoneud-api/"
+    },
+    {
+      "name": "neuralnetwork-base-ahmadva23 added to PyPI",
+      "url": "https://pypi.org/project/neuralnetwork-base-ahmadva23/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
