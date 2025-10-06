@@ -2,61 +2,61 @@
   "date": "2025-10-06",
   "github_trending": [
     {
-      "title": "DigitalPlatDev/FreeDomain",
-      "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 103311,
-      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 99556,
+      "description": null
     },
     {
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 89874,
-      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91236,
+      "description": null
     },
     {
-      "title": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "stars": 80535,
-      "description": "Python tool for converting files and office documents to Markdown."
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 72047,
+      "description": "A collection of MCP servers."
     },
     {
-      "title": "google-gemini/gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "stars": 78039,
-      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 70863,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     },
     {
-      "title": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "stars": 54222,
-      "description": "\ud83d\ude80\ud83e\udd16 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+      "title": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "stars": 51070,
+      "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way."
     }
   ],
   "hackernews_top": [
     {
-      "title": "Fire destroys S. Korean government's cloud storage system, no backups available",
-      "url": "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936",
-      "score": 1305
+      "title": "When ChatGPT Turns Informant",
+      "url": "https://www.futureofbeinghuman.com/p/when-chatgpt-turns-snitch",
+      "score": 20
     },
     {
-      "title": "Why do LLMs freak out over the seahorse emoji?",
-      "url": "https://vgel.me/posts/seahorse/",
-      "score": 176
+      "title": "Show HN: Kent Dybvig's Scheme Machine in 400 Lines of C (Heap-Memory Model)",
+      "url": "https://gist.github.com/swatson555/8cc36d8d022d7e5cc44a5edb2c4f7d0b",
+      "score": 130
     },
     {
-      "title": "Find Nearby Automated License Plate Readers (ALPR)",
-      "url": "https://deflock.me/",
-      "score": 40
+      "title": "Mise: Monorepo Tasks",
+      "url": "https://github.com/jdx/mise/discussions/6564",
+      "score": 133
     },
     {
-      "title": "1 Trillion Web Pages Archived",
-      "url": "https://blog.archive.org/trillion/",
-      "score": 117
+      "title": "Launch HN: Grapevine (YC S19) \u2013 A company GPT that actually works",
+      "url": "https://getgrapevine.ai/",
+      "score": 30
     },
     {
-      "title": "Magic Wormhole: Get things from one computer to another, safely",
-      "url": "https://magic-wormhole.readthedocs.io/en/latest/welcome.html",
-      "score": 95
+      "title": "\"Be Different\" doesn't work for building products anymore",
+      "url": "https://iamcharliegraham.substack.com/p/be-different-doesnt-work-for-building",
+      "score": 63
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "export-sentry-issue added to PyPI",
-      "url": "https://pypi.org/project/export-sentry-issue/"
+      "name": "AMRfior added to PyPI",
+      "url": "https://pypi.org/project/amrfior/"
     },
     {
-      "name": "zapc added to PyPI",
-      "url": "https://pypi.org/project/zapc/"
+      "name": "pyqgc added to PyPI",
+      "url": "https://pypi.org/project/pyqgc/"
     },
     {
-      "name": "ollex added to PyPI",
-      "url": "https://pypi.org/project/ollex/"
+      "name": "bioscreen added to PyPI",
+      "url": "https://pypi.org/project/bioscreen/"
     },
     {
-      "name": "ricardoneud-api added to PyPI",
-      "url": "https://pypi.org/project/ricardoneud-api/"
+      "name": "guna added to PyPI",
+      "url": "https://pypi.org/project/guna/"
     },
     {
-      "name": "neuralnetwork-base-ahmadva23 added to PyPI",
-      "url": "https://pypi.org/project/neuralnetwork-base-ahmadva23/"
+      "name": "claude-journal added to PyPI",
+      "url": "https://pypi.org/project/claude-journal/"
     }
   ],
   "summary": {
