@@ -4,59 +4,59 @@
     {
       "title": "DigitalPlatDev/FreeDomain",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 104105,
+      "stars": 104185,
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
     },
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 99590,
+      "stars": 99593,
       "description": null
     },
     {
-      "title": "punkpeye/awesome-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "stars": 72287,
-      "description": "A collection of MCP servers."
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 71493,
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    },
+    {
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 69856,
+      "description": "Model Context Protocol Servers"
     },
     {
       "title": "All-Hands-AI/OpenHands",
       "url": "https://github.com/All-Hands-AI/OpenHands",
-      "stars": 64040,
+      "stars": 64047,
       "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
-    },
-    {
-      "title": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "stars": 62094,
-      "description": "The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data \ud83d\udd25"
     }
   ],
   "hackernews_top": [
     {
-      "title": "First-in-the-nation law to ban ultra-processed foods from school lunches",
-      "url": "https://www.gov.ca.gov/2025/10/08/governor-newsom-signs-first-in-the-nation-law-to-ban-ultra-processed-foods-from-school-lunches/",
-      "score": 143
+      "title": "GitHub Issues",
+      "url": "https://www.githubstatus.com/incidents/k7bhmjkblcwp",
+      "score": 51
     },
     {
-      "title": "n8n raises $180M to get AI closer to value with orchestration",
-      "url": "https://blog.n8n.io/series-c/",
-      "score": 30
+      "title": "Why Self-Host?",
+      "url": "https://romanzipp.com/blog/why-a-homelab-why-self-host",
+      "score": 106
     },
     {
-      "title": "The Unknotting Number Is Not Additive",
-      "url": "https://divisbyzero.com/2025/10/08/the-unknotting-number-is-not-additive/",
-      "score": 79
+      "title": "TIL: Python's splitlines does more than just newlines",
+      "url": "https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/",
+      "score": 22
     },
     {
-      "title": "The React Foundation: The New Home for React and React Native",
-      "url": "https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/",
-      "score": 107
+      "title": "The great software quality collapse or, how we normalized catastrophe",
+      "url": "https://techtrenches.substack.com/p/the-great-software-quality-collapse",
+      "score": 198
     },
     {
-      "title": "The Debugging Book",
-      "url": "https://www.debuggingbook.org/",
-      "score": 46
+      "title": "Nobel Prize in Literature 2025: L\u00e1szl\u00f3 Krasznahorkai",
+      "url": "https://www.nobelprize.org/prizes/literature/2025/press-release/",
+      "score": 137
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "code-duplicates-cli added to PyPI",
-      "url": "https://pypi.org/project/code-duplicates-cli/"
+      "name": "privy-mcp-server added to PyPI",
+      "url": "https://pypi.org/project/privy-mcp-server/"
     },
     {
-      "name": "pesapal-sdk added to PyPI",
-      "url": "https://pypi.org/project/pesapal-sdk/"
+      "name": "extensiondp added to PyPI",
+      "url": "https://pypi.org/project/extensiondp/"
     },
     {
-      "name": "ashclip added to PyPI",
-      "url": "https://pypi.org/project/ashclip/"
+      "name": "kiarina-lib-google-cloud-storage added to PyPI",
+      "url": "https://pypi.org/project/kiarina-lib-google-cloud-storage/"
     },
     {
-      "name": "ls-buildtools added to PyPI",
-      "url": "https://pypi.org/project/ls-buildtools/"
+      "name": "nextpress added to PyPI",
+      "url": "https://pypi.org/project/nextpress/"
     },
     {
-      "name": "lauscher added to PyPI",
-      "url": "https://pypi.org/project/lauscher/"
+      "name": "submitex added to PyPI",
+      "url": "https://pypi.org/project/submitex/"
     }
   ],
   "summary": {
