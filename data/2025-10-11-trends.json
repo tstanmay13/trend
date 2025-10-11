@@ -1,0 +1,111 @@
+{
+  "date": "2025-10-11",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91265,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 90693,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 80791,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 78652,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 72447,
+      "description": "A collection of MCP servers."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "I built physical album cards with NFC tags to teach my son music discovery",
+      "url": "https://fulghum.io/album-cards",
+      "score": 201
+    },
+    {
+      "title": "Show HN: Semantic search over the National Gallery of Art",
+      "url": "https://nga.demo.mixedbread.com/",
+      "score": 78
+    },
+    {
+      "title": "Fears over AI bubble bursting grow in Silicon Valley",
+      "url": "https://www.bbc.com/news/articles/cz69qy760weo",
+      "score": 46
+    },
+    {
+      "title": "Does our \u201cneed for speed\u201d make our wi-fi suck?",
+      "url": "https://orb.net/blog/does-speed-make-wifi-suck",
+      "score": 122
+    },
+    {
+      "title": "(Re)Introducing the Pebble Appstore",
+      "url": "https://ericmigi.com/blog/re-introducing-the-pebble-appstore/",
+      "score": 44
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "upflame added to PyPI",
+      "url": "https://pypi.org/project/upflame/"
+    },
+    {
+      "name": "oscillink added to PyPI",
+      "url": "https://pypi.org/project/oscillink/"
+    },
+    {
+      "name": "ideacook added to PyPI",
+      "url": "https://pypi.org/project/ideacook/"
+    },
+    {
+      "name": "image-tools-anderson1985 added to PyPI",
+      "url": "https://pypi.org/project/image-tools-anderson1985/"
+    },
+    {
+      "name": "zhy-mcp-demo added to PyPI",
+      "url": "https://pypi.org/project/zhy-mcp-demo/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
