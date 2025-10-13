@@ -1,0 +1,111 @@
+{
+  "date": "2025-10-13",
+  "github_trending": [
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 91051,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 79000,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 70157,
+      "description": "Model Context Protocol Servers"
+    },
+    {
+      "title": "All-Hands-AI/OpenHands",
+      "url": "https://github.com/All-Hands-AI/OpenHands",
+      "stars": 64166,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "stars": 62701,
+      "description": "\ud83d\udd25 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Show HN: SQLite Online \u2013 11 years of solo development, 11K daily users",
+      "url": "https://sqliteonline.com/",
+      "score": 50
+    },
+    {
+      "title": "Spotlight on pdfly, the Swiss Army knife for PDF files",
+      "url": "https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html",
+      "score": 164
+    },
+    {
+      "title": "Matrices can be your Friends",
+      "url": "https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html",
+      "score": 48
+    },
+    {
+      "title": "More random home lab things I've recently learned",
+      "url": "https://chollinger.com/blog/2025/10/more-homelab-things-ive-recently-learned/",
+      "score": 52
+    },
+    {
+      "title": "Control your Canon Camera wirelessly",
+      "url": "https://github.com/JulianSchroden/cine_remote",
+      "score": 22
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "toolbox-parallel-robots added to PyPI",
+      "url": "https://pypi.org/project/toolbox-parallel-robots/"
+    },
+    {
+      "name": "edf-fusion added to PyPI",
+      "url": "https://pypi.org/project/edf-fusion/"
+    },
+    {
+      "name": "pylekiwi added to PyPI",
+      "url": "https://pypi.org/project/pylekiwi/"
+    },
+    {
+      "name": "opper-agents added to PyPI",
+      "url": "https://pypi.org/project/opper-agents/"
+    },
+    {
+      "name": "speakeasy-testing-sdk added to PyPI",
+      "url": "https://pypi.org/project/speakeasy-testing-sdk/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
