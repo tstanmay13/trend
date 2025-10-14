@@ -1,0 +1,111 @@
+{
+  "date": "2025-10-14",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 106103,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91282,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 91219,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 81434,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 79117,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Zoo of Array Languages",
+      "url": "https://ktye.github.io/",
+      "score": 43
+    },
+    {
+      "title": "Why is everything so scalable?",
+      "url": "https://www.stavros.io/posts/why-is-everything-so-scalable/",
+      "score": 68
+    },
+    {
+      "title": "Don\u2019t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]",
+      "url": "https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf",
+      "score": 367
+    },
+    {
+      "title": "NanoChat \u2013 The best ChatGPT that $100 can buy",
+      "url": "https://github.com/karpathy/nanochat",
+      "score": 1272
+    },
+    {
+      "title": "KDE celebrates the 29th birthday and kicks off the yearly fundraiser",
+      "url": "https://kde.org/fundraisers/yearend2025/",
+      "score": 86
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "welearn-database added to PyPI",
+      "url": "https://pypi.org/project/welearn-database/"
+    },
+    {
+      "name": "sfdatamigrate added to PyPI",
+      "url": "https://pypi.org/project/sfdatamigrate/"
+    },
+    {
+      "name": "security-scanner-analyzers added to PyPI",
+      "url": "https://pypi.org/project/security-scanner-analyzers/"
+    },
+    {
+      "name": "async-transaction-manager added to PyPI",
+      "url": "https://pypi.org/project/async-transaction-manager/"
+    },
+    {
+      "name": "playfast added to PyPI",
+      "url": "https://pypi.org/project/playfast/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
