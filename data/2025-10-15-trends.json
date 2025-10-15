@@ -1,0 +1,80 @@
+{
+  "date": "2025-10-15",
+  "github_trending": [],
+  "hackernews_top": [
+    {
+      "title": "FSF announces Librephone project",
+      "url": "https://www.fsf.org/news/librephone-project",
+      "score": 1005
+    },
+    {
+      "title": "Britain has wasted \u00a31,112,293,718 switching off wind turbines in 2025",
+      "url": "https://wastedwind.energy/",
+      "score": 102
+    },
+    {
+      "title": "Pixnapping Attack",
+      "url": "https://www.pixnapping.com/",
+      "score": 146
+    },
+    {
+      "title": "Show HN: Firm, a text-based work management system",
+      "url": "https://github.com/42futures/firm",
+      "score": 53
+    },
+    {
+      "title": "Beliefs that are true for regular software but false when applied to AI",
+      "url": "https://boydkane.com/essays/boss",
+      "score": 417
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "ai-ped-red-team added to PyPI",
+      "url": "https://pypi.org/project/ai-ped-red-team/"
+    },
+    {
+      "name": "html-snapshot added to PyPI",
+      "url": "https://pypi.org/project/html-snapshot/"
+    },
+    {
+      "name": "FractalNet added to PyPI",
+      "url": "https://pypi.org/project/fractalnet/"
+    },
+    {
+      "name": "inventree-rolling-stocktake added to PyPI",
+      "url": "https://pypi.org/project/inventree-rolling-stocktake/"
+    },
+    {
+      "name": "tour-agent added to PyPI",
+      "url": "https://pypi.org/project/tour-agent/"
+    }
+  ],
+  "summary": {
+    "total_items": 15,
+    "sources_with_data": 3
+  }
+}
