@@ -1,0 +1,111 @@
+{
+  "date": "2025-10-16",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 99678,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 91568,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 79444,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 72978,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 72120,
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "How I bypassed Amazon's Kindle web DRM",
+      "url": "https://blog.pixelmelt.dev/kindle-web-drm/",
+      "score": 212
+    },
+    {
+      "title": "Claude Skills",
+      "url": "https://www.anthropic.com/news/skills",
+      "score": 373
+    },
+    {
+      "title": "Gemini 3.0 spotted in the wild through A/B testing",
+      "url": "https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/",
+      "score": 220
+    },
+    {
+      "title": "Benjie's Humanoid Olympic Games",
+      "url": "https://generalrobots.substack.com/p/benjies-humanoid-olympic-games",
+      "score": 70
+    },
+    {
+      "title": "Cloudflare Sandbox SDK",
+      "url": "https://sandbox.cloudflare.com/",
+      "score": 48
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "gvit added to PyPI",
+      "url": "https://pypi.org/project/gvit/"
+    },
+    {
+      "name": "quantlabs added to PyPI",
+      "url": "https://pypi.org/project/quantlabs/"
+    },
+    {
+      "name": "google-services-client-api added to PyPI",
+      "url": "https://pypi.org/project/google-services-client-api/"
+    },
+    {
+      "name": "pypixelmapdump added to PyPI",
+      "url": "https://pypi.org/project/pypixelmapdump/"
+    },
+    {
+      "name": "emergene added to PyPI",
+      "url": "https://pypi.org/project/emergene/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
