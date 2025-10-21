@@ -1,0 +1,111 @@
+{
+  "date": "2025-10-21",
+  "github_trending": [
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 92495,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 79979,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 73335,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 70950,
+      "description": "Model Context Protocol Servers"
+    },
+    {
+      "title": "FoundationAgents/OpenManus",
+      "url": "https://github.com/FoundationAgents/OpenManus",
+      "stars": 50414,
+      "description": "No fortress, purely open ground.  OpenManus is Coming."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Replacing a $3000/mo Heroku bill with a $55/mo server",
+      "url": "https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/",
+      "score": 210
+    },
+    {
+      "title": "Doomsday Scoreboard",
+      "url": "https://doomsday.march1studios.com/",
+      "score": 81
+    },
+    {
+      "title": "Build Your Own Database",
+      "url": "https://www.nan.fyi/database",
+      "score": 305
+    },
+    {
+      "title": "rlsw \u2013 Raylib software OpenGL renderer in less than 5k LOC",
+      "url": "https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h",
+      "score": 27
+    },
+    {
+      "title": "Lottery-fication of Everything: 0 day options, perps, parlays are now mainstream",
+      "url": "https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything",
+      "score": 14
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "mnns added to PyPI",
+      "url": "https://pypi.org/project/mnns/"
+    },
+    {
+      "name": "vn-numberwords added to PyPI",
+      "url": "https://pypi.org/project/vn-numberwords/"
+    },
+    {
+      "name": "ethereum-light-api added to PyPI",
+      "url": "https://pypi.org/project/ethereum-light-api/"
+    },
+    {
+      "name": "sleepless-agent added to PyPI",
+      "url": "https://pypi.org/project/sleepless-agent/"
+    },
+    {
+      "name": "ncbi-tree added to PyPI",
+      "url": "https://pypi.org/project/ncbi-tree/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
