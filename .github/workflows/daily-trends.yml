@@ -20,7 +20,7 @@ jobs:
         run: |
           # Generate random number between 1 and 10
           # We want ~% probability of running
-          if [ $((RANDOM % 40)) -eq 0 ]; then
+          if [ $((RANDOM % 70)) -eq 0 ]; then
             echo "should_execute=true" >> $GITHUB_OUTPUT
           else
             echo "should_execute=false" >> $GITHUB_OUTPUT
