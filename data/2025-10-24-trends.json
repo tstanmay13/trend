@@ -1,0 +1,111 @@
+{
+  "date": "2025-10-24",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 109545,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91361,
+      "description": null
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 73496,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 71691,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "stars": 64518,
+      "description": "\ud83d\udd25 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Betty White's shoulder bag is a time capsule of World War II (2023)",
+      "url": "https://americanhistory.si.edu/explore/stories/betty-white-world-war-ii",
+      "score": 167
+    },
+    {
+      "title": "Claude Memory",
+      "url": "https://www.anthropic.com/news/memory",
+      "score": 410
+    },
+    {
+      "title": "US Tariff Negotiations with Canada Terminated over Advertisement",
+      "url": "https://www.bbc.com/news/articles/cdjrlmd4pmeo",
+      "score": 26
+    },
+    {
+      "title": "/dev/null is an ACID compliant database",
+      "url": "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/",
+      "score": 238
+    },
+    {
+      "title": "Computer science courses that don't exist, but should (2015)",
+      "url": "https://prog21.dadgum.com/210.html",
+      "score": 121
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "nexgen-sdk added to PyPI",
+      "url": "https://pypi.org/project/nexgen-sdk/"
+    },
+    {
+      "name": "dmitlibx added to PyPI",
+      "url": "https://pypi.org/project/dmitlibx/"
+    },
+    {
+      "name": "cjm-fasthtml-workflows added to PyPI",
+      "url": "https://pypi.org/project/cjm-fasthtml-workflows/"
+    },
+    {
+      "name": "ryugraph added to PyPI",
+      "url": "https://pypi.org/project/ryugraph/"
+    },
+    {
+      "name": "expmate added to PyPI",
+      "url": "https://pypi.org/project/expmate/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
