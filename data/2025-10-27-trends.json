@@ -1,0 +1,111 @@
+{
+  "date": "2025-10-27",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91376,
+      "description": null
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 82130,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 73186,
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 71776,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "RVC-Boss/GPT-SoVITS",
+      "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+      "stars": 51827,
+      "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Microsoft 365 Copilot \u2013 Arbitrary Data Exfiltration via Mermaid Diagrams",
+      "url": "https://www.adamlogue.com/microsoft-365-copilot-arbitrary-data-exfiltration-via-mermaid-diagrams-fixed/",
+      "score": 58
+    },
+    {
+      "title": "Show HN: MyraOS \u2013 My 32-bit operating system in C and ASM (Hack Club project)",
+      "url": "https://github.com/dvir-biton/MyraOS",
+      "score": 90
+    },
+    {
+      "title": "Are-we-fast-yet implementations in Oberon, C++, C, Pascal, Micron and Luon",
+      "url": "https://github.com/rochus-keller/Are-we-fast-yet",
+      "score": 23
+    },
+    {
+      "title": "A definition of AGI",
+      "url": "https://arxiv.org/abs/2510.18212",
+      "score": 131
+    },
+    {
+      "title": "Sandhill cranes have adopted a Canada gosling",
+      "url": "https://www.smithsonianmag.com/science-nature/these-sandhill-cranes-have-adopted-a-canadian-gosling-and-birders-have-flocked-to-watch-the-strange-family-180986828/",
+      "score": 18
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "szh-mcp-demo added to PyPI",
+      "url": "https://pypi.org/project/szh-mcp-demo/"
+    },
+    {
+      "name": "guan-mcp-demo added to PyPI",
+      "url": "https://pypi.org/project/guan-mcp-demo/"
+    },
+    {
+      "name": "sphinx-evita added to PyPI",
+      "url": "https://pypi.org/project/sphinx-evita/"
+    },
+    {
+      "name": "diffpy.srxconfutils added to PyPI",
+      "url": "https://pypi.org/project/diffpy-srxconfutils/"
+    },
+    {
+      "name": "tl-mcp-demo added to PyPI",
+      "url": "https://pypi.org/project/tl-mcp-demo/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
