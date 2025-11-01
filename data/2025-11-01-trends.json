@@ -1,0 +1,111 @@
+{
+  "date": "2025-11-01",
+  "github_trending": [
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 93904,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91422,
+      "description": null
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 81105,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 74340,
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 73996,
+      "description": "A collection of MCP servers."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Show HN: Strange Attractors",
+      "url": "https://blog.shashanktomar.com/posts/strange-attractors",
+      "score": 221
+    },
+    {
+      "title": "S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine",
+      "url": "https://github.com/vindar/SARCASM",
+      "score": 85
+    },
+    {
+      "title": "The Profitable Startup",
+      "url": "https://linear.app/now/the-profitable-startup",
+      "score": 17
+    },
+    {
+      "title": "Futurelock: A subtle risk in async Rust",
+      "url": "https://rfd.shared.oxide.computer/rfd/0609",
+      "score": 279
+    },
+    {
+      "title": "Introducing architecture variants",
+      "url": "https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312",
+      "score": 182
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "routine-workflow added to PyPI",
+      "url": "https://pypi.org/project/routine-workflow/"
+    },
+    {
+      "name": "pico-editor added to PyPI",
+      "url": "https://pypi.org/project/pico-editor/"
+    },
+    {
+      "name": "acycle added to PyPI",
+      "url": "https://pypi.org/project/acycle/"
+    },
+    {
+      "name": "robin-logger added to PyPI",
+      "url": "https://pypi.org/project/robin-logger/"
+    },
+    {
+      "name": "spice-mcp added to PyPI",
+      "url": "https://pypi.org/project/spice-mcp/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
