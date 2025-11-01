@@ -2,61 +2,61 @@
   "date": "2025-11-01",
   "github_trending": [
     {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 113552,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 100090,
+      "description": null
+    },
+    {
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 93904,
+      "stars": 93946,
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 91422,
+      "stars": 91424,
       "description": null
     },
     {
-      "title": "google-gemini/gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "stars": 81105,
-      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
-    },
-    {
-      "title": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars": 74340,
-      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
-    },
-    {
-      "title": "punkpeye/awesome-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "stars": 73996,
-      "description": "A collection of MCP servers."
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 82398,
+      "description": "Python tool for converting files and office documents to Markdown."
     }
   ],
   "hackernews_top": [
     {
       "title": "Show HN: Strange Attractors",
       "url": "https://blog.shashanktomar.com/posts/strange-attractors",
-      "score": 221
+      "score": 557
+    },
+    {
+      "title": "How I stopped worrying and started loving the Assembly",
+      "url": "https://medium.com/@jonas.eschenburg/how-i-stopped-worrying-and-started-loving-the-assembly-4fd00e786c60",
+      "score": 94
+    },
+    {
+      "title": "Myths Programmers Believe about CPU Caches (2018)",
+      "url": "https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/",
+      "score": 67
     },
     {
       "title": "S.A.R.C.A.S.M: Slightly Annoying Rubik's Cube Automatic Solving Machine",
       "url": "https://github.com/vindar/SARCASM",
-      "score": 85
+      "score": 181
     },
     {
-      "title": "The Profitable Startup",
-      "url": "https://linear.app/now/the-profitable-startup",
-      "score": 17
-    },
-    {
-      "title": "Futurelock: A subtle risk in async Rust",
-      "url": "https://rfd.shared.oxide.computer/rfd/0609",
-      "score": 279
-    },
-    {
-      "title": "Introducing architecture variants",
-      "url": "https://discourse.ubuntu.com/t/introducing-architecture-variants-amd64v3-now-available-in-ubuntu-25-10/71312",
-      "score": 182
+      "title": "'Killing the Dead' Review: Watch the Graveyard",
+      "url": "https://www.wsj.com/arts-culture/books/killing-the-dead-review-watch-the-graveyard-f54e14f4",
+      "score": 7
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "routine-workflow added to PyPI",
-      "url": "https://pypi.org/project/routine-workflow/"
+      "name": "weightedstate added to PyPI",
+      "url": "https://pypi.org/project/weightedstate/"
     },
     {
-      "name": "pico-editor added to PyPI",
-      "url": "https://pypi.org/project/pico-editor/"
+      "name": "request-decorator-handlers added to PyPI",
+      "url": "https://pypi.org/project/request-decorator-handlers/"
     },
     {
-      "name": "acycle added to PyPI",
-      "url": "https://pypi.org/project/acycle/"
+      "name": "fontnemo added to PyPI",
+      "url": "https://pypi.org/project/fontnemo/"
     },
     {
-      "name": "robin-logger added to PyPI",
-      "url": "https://pypi.org/project/robin-logger/"
+      "name": "cognitive-agent added to PyPI",
+      "url": "https://pypi.org/project/cognitive-agent/"
     },
     {
-      "name": "spice-mcp added to PyPI",
-      "url": "https://pypi.org/project/spice-mcp/"
+      "name": "pydistribute added to PyPI",
+      "url": "https://pypi.org/project/pydistribute/"
     }
   ],
   "summary": {
