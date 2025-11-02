@@ -1,0 +1,111 @@
+{
+  "date": "2025-11-02",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 113710,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 94000,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 82428,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 81170,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 74041,
+      "description": "A collection of MCP servers."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "SailfishOS: A Linux-based European alternative to dominant mobile OSes",
+      "url": "https://sailfishos.org/info/",
+      "score": 159
+    },
+    {
+      "title": "OS maintained by a single developer since 1997: Visopsys",
+      "url": "https://visopsys.org/",
+      "score": 113
+    },
+    {
+      "title": "Policy, privacy and post-quantum: anonymous credentials for everyone",
+      "url": "https://blog.cloudflare.com/private-rate-limiting/",
+      "score": 8
+    },
+    {
+      "title": "Updated practice for review articles and position papers in ArXiv CS category",
+      "url": "https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/",
+      "score": 410
+    },
+    {
+      "title": "Claude Code Can Debug Low-Level Cryptography",
+      "url": "https://words.filippo.io/claude-debugging/",
+      "score": 187
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "nexus-quantum-core added to PyPI",
+      "url": "https://pypi.org/project/nexus-quantum-core/"
+    },
+    {
+      "name": "yt-channel-downloader added to PyPI",
+      "url": "https://pypi.org/project/yt-channel-downloader/"
+    },
+    {
+      "name": "harvard-library-mcp added to PyPI",
+      "url": "https://pypi.org/project/harvard-library-mcp/"
+    },
+    {
+      "name": "mcwebapi added to PyPI",
+      "url": "https://pypi.org/project/mcwebapi/"
+    },
+    {
+      "name": "tofusoup added to PyPI",
+      "url": "https://pypi.org/project/tofusoup/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
