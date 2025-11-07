@@ -1,0 +1,111 @@
+{
+  "date": "2025-11-07",
+  "github_trending": [
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 74409,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "xai-org/grok-1",
+      "url": "https://github.com/xai-org/grok-1",
+      "stars": 50557,
+      "description": "Grok open release"
+    },
+    {
+      "title": "dockur/windows",
+      "url": "https://github.com/dockur/windows",
+      "stars": 48318,
+      "description": "Windows inside a Docker container."
+    },
+    {
+      "title": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "stars": 42230,
+      "description": "An AI Hedge Fund Team"
+    },
+    {
+      "title": "upstash/context7",
+      "url": "https://github.com/upstash/context7",
+      "stars": 36408,
+      "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Leaving Meta and PyTorch",
+      "url": "https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html",
+      "score": 219
+    },
+    {
+      "title": "A Fond Farewell",
+      "url": "https://www.farmersalmanac.com/fond-farewell-from-farmers-almanac",
+      "score": 202
+    },
+    {
+      "title": "Lessons from Growing a Piracy Streaming Site",
+      "url": "https://prison.josh.mn/lessons",
+      "score": 52
+    },
+    {
+      "title": "You should write an agent",
+      "url": "https://fly.io/blog/everyone-write-an-agent/",
+      "score": 654
+    },
+    {
+      "title": "Two billion email addresses were exposed",
+      "url": "https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/",
+      "score": 449
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "morse-coder added to PyPI",
+      "url": "https://pypi.org/project/morse-coder/"
+    },
+    {
+      "name": "mores-coder added to PyPI",
+      "url": "https://pypi.org/project/mores-coder/"
+    },
+    {
+      "name": "helper-cli added to PyPI",
+      "url": "https://pypi.org/project/helper-cli/"
+    },
+    {
+      "name": "HolograPy added to PyPI",
+      "url": "https://pypi.org/project/holograpy/"
+    },
+    {
+      "name": "memphora added to PyPI",
+      "url": "https://pypi.org/project/memphora/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
