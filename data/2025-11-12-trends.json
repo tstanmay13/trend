@@ -1,0 +1,111 @@
+{
+  "date": "2025-11-12",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 117410,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 100242,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 95336,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91471,
+      "description": null
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 82908,
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Bjarne fix your freaking language",
+      "url": "https://marler8997.github.io/blog/bjarne-fix-your-language/",
+      "score": 45
+    },
+    {
+      "title": "X5.1 solar flare, G4 geomagnetic storm watch",
+      "url": "https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html",
+      "score": 282
+    },
+    {
+      "title": "Bluetooth 6.2 \u2013 more responsive, improves security, USB comms, and testing",
+      "url": "https://www.cnx-software.com/2025/11/05/bluetooth-6-2-gets-more-responsive-improves-security-usb-communication-and-testing-capabilities/",
+      "score": 41
+    },
+    {
+      "title": "Laptops with Stickers",
+      "url": "https://stickertop.art/main/",
+      "score": 306
+    },
+    {
+      "title": ".NET MAUI is coming to Linux and the browser",
+      "url": "https://avaloniaui.net/blog/net-maui-is-coming-to-linux-and-the-browser-powered-by-avalonia",
+      "score": 165
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "zplugin added to PyPI",
+      "url": "https://pypi.org/project/zplugin/"
+    },
+    {
+      "name": "dgsender added to PyPI",
+      "url": "https://pypi.org/project/dgsender/"
+    },
+    {
+      "name": "basic-text-analyzer-athar added to PyPI",
+      "url": "https://pypi.org/project/basic-text-analyzer-athar/"
+    },
+    {
+      "name": "toolkitplus added to PyPI",
+      "url": "https://pypi.org/project/toolkitplus/"
+    },
+    {
+      "name": "langswarm-memory added to PyPI",
+      "url": "https://pypi.org/project/langswarm-memory/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
