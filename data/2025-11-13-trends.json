@@ -1,0 +1,111 @@
+{
+  "date": "2025-11-13",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 100262,
+      "description": null
+    },
+    {
+      "title": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "stars": 48709,
+      "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows."
+    },
+    {
+      "title": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "stars": 42289,
+      "description": "An AI Hedge Fund Team"
+    },
+    {
+      "title": "2noise/ChatTTS",
+      "url": "https://github.com/2noise/ChatTTS",
+      "stars": 38147,
+      "description": "A generative speech model for daily dialogue."
+    },
+    {
+      "title": "DavidHDev/react-bits",
+      "url": "https://github.com/DavidHDev/react-bits",
+      "stars": 30500,
+      "description": "An open source collection of animated, interactive & fully customizable React components for building memorable websites."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Google will allow users to sideload Android apps without verification",
+      "url": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
+      "score": 756
+    },
+    {
+      "title": "Steam Machine",
+      "url": "https://store.steampowered.com/sale/steammachine",
+      "score": 1849
+    },
+    {
+      "title": "Steam Frame",
+      "url": "https://store.steampowered.com/sale/steamframe",
+      "score": 1350
+    },
+    {
+      "title": "Android 16 QPR1 is being pushed to the Android Open Source Project",
+      "url": "https://grapheneos.social/@GrapheneOS/115533432439509433",
+      "score": 82
+    },
+    {
+      "title": "The last-ever penny will be minted today in Philadelphia",
+      "url": "https://www.cnn.com/2025/11/12/business/last-penny-minted",
+      "score": 654
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "hack4uCourses added to PyPI",
+      "url": "https://pypi.org/project/hack4ucourses/"
+    },
+    {
+      "name": "myportfolio added to PyPI",
+      "url": "https://pypi.org/project/myportfolio/"
+    },
+    {
+      "name": "essay-wechat-analysis-mcp-server-lc added to PyPI",
+      "url": "https://pypi.org/project/essay-wechat-analysis-mcp-server-lc/"
+    },
+    {
+      "name": "mcp-executor added to PyPI",
+      "url": "https://pypi.org/project/mcp-executor/"
+    },
+    {
+      "name": "dicom-tools-mcp-test added to PyPI",
+      "url": "https://pypi.org/project/dicom-tools-mcp-test/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
