@@ -1,0 +1,111 @@
+{
+  "date": "2025-11-17",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 120278,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 100306,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 95993,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91490,
+      "description": null
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 83060,
+      "description": "Python tool for converting files and office documents to Markdown."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Show HN: I built a synth for my daughter",
+      "url": "https://bitsnpieces.dev/posts/a-synth-for-my-daughter/",
+      "score": 473
+    },
+    {
+      "title": "Project Gemini",
+      "url": "https://geminiprotocol.net/",
+      "score": 50
+    },
+    {
+      "title": "Google is killing the open web, part 2",
+      "url": "https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/",
+      "score": 102
+    },
+    {
+      "title": "Replicate is joining Cloudflare",
+      "url": "https://replicate.com/blog/replicate-cloudflare",
+      "score": 150
+    },
+    {
+      "title": "FreeMDU: Open-source Miele appliance diagnostic tools",
+      "url": "https://github.com/medusalix/FreeMDU",
+      "score": 132
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "pydicom-jpeg-decoder added to PyPI",
+      "url": "https://pypi.org/project/pydicom-jpeg-decoder/"
+    },
+    {
+      "name": "census-table added to PyPI",
+      "url": "https://pypi.org/project/census-table/"
+    },
+    {
+      "name": "sigplay added to PyPI",
+      "url": "https://pypi.org/project/sigplay/"
+    },
+    {
+      "name": "smoltorch added to PyPI",
+      "url": "https://pypi.org/project/smoltorch/"
+    },
+    {
+      "name": "mgraph-ai-service-semantic-text added to PyPI",
+      "url": "https://pypi.org/project/mgraph-ai-service-semantic-text/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
