@@ -1,0 +1,111 @@
+{
+  "date": "2025-11-18",
+  "github_trending": [
+    {
+      "title": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "stars": 49066,
+      "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows."
+    },
+    {
+      "title": "microsoft/graphrag",
+      "url": "https://github.com/microsoft/graphrag",
+      "stars": 29218,
+      "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system"
+    },
+    {
+      "title": "huggingface/smolagents",
+      "url": "https://github.com/huggingface/smolagents",
+      "stars": 24012,
+      "description": "\ud83e\udd17 smolagents: a barebones library for agents that think in code."
+    },
+    {
+      "title": "eyaltoledano/claude-task-master",
+      "url": "https://github.com/eyaltoledano/claude-task-master",
+      "stars": 23765,
+      "description": "An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others."
+    },
+    {
+      "title": "Fosowl/agenticSeek",
+      "url": "https://github.com/Fosowl/agenticSeek",
+      "stars": 23695,
+      "description": "Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. \ud83d\udd14 Official updates only via twitter @Martin993886460 (Beware of fake account)"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Cloudflare Global Network experiencing issues",
+      "url": "https://www.cloudflarestatus.com/?t=1",
+      "score": 1881
+    },
+    {
+      "title": "Gemini 3 Pro Preview Live in AI Studio",
+      "url": "https://aistudio.google.com/prompts/new_chat?model=gemini-3-pro-preview",
+      "score": 208
+    },
+    {
+      "title": "Gemini 3 for developers: New reasoning, agentic capabilities",
+      "url": "https://blog.google/technology/developers/gemini-3-developers/",
+      "score": 64
+    },
+    {
+      "title": "Google Antigravity",
+      "url": "https://antigravity.google/",
+      "score": 48
+    },
+    {
+      "title": "Nearly all UK drivers say headlights are too bright",
+      "url": "https://www.bbc.com/news/articles/c1j8ewy1p86o",
+      "score": 310
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "swiftcrawl added to PyPI",
+      "url": "https://pypi.org/project/swiftcrawl/"
+    },
+    {
+      "name": "pyspat added to PyPI",
+      "url": "https://pypi.org/project/pyspat/"
+    },
+    {
+      "name": "ploneapi-shell added to PyPI",
+      "url": "https://pypi.org/project/ploneapi-shell/"
+    },
+    {
+      "name": "apache-airflow-providers-nomad added to PyPI",
+      "url": "https://pypi.org/project/apache-airflow-providers-nomad/"
+    },
+    {
+      "name": "devart-dl added to PyPI",
+      "url": "https://pypi.org/project/devart-dl/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
