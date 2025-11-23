@@ -1,0 +1,111 @@
+{
+  "date": "2025-11-23",
+  "github_trending": [
+    {
+      "title": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "stars": 52580,
+      "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way."
+    },
+    {
+      "title": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "stars": 49271,
+      "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows."
+    },
+    {
+      "title": "dockur/windows",
+      "url": "https://github.com/dockur/windows",
+      "stars": 48705,
+      "description": "Windows inside a Docker container."
+    },
+    {
+      "title": "yeongpin/cursor-free-vip",
+      "url": "https://github.com/yeongpin/cursor-free-vip",
+      "stars": 43269,
+      "description": "[Support 0.49.x]\uff08Reset Cursor AI MachineID & Bypass Higher Token Limit\uff09 Cursor Ai \uff0c\u81ea\u52a8\u91cd\u7f6e\u673a\u5668ID \uff0c \u514d\u8d39\u5347\u7ea7\u4f7f\u7528Pro\u529f\u80fd: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake."
+    },
+    {
+      "title": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "stars": 42408,
+      "description": "An AI Hedge Fund Team"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Unusual circuits in the Intel 386's standard cell logic",
+      "url": "https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html",
+      "score": 60
+    },
+    {
+      "title": "A monopoly ISP refuses to fix upstream infrastructure",
+      "url": "https://sacbear.com/xfinity-wont-fix-internet/",
+      "score": 176
+    },
+    {
+      "title": "GCC SC approves inclusion of Algol 68 Front End",
+      "url": "https://gcc.gnu.org/pipermail/gcc/2025-November/247020.html",
+      "score": 91
+    },
+    {
+      "title": "The privacy nightmare of browser fingerprinting",
+      "url": "https://kevinboone.me/fingerprinting.html",
+      "score": 509
+    },
+    {
+      "title": "We Induced Smells With Ultrasound",
+      "url": "https://writetobrain.com/olfactory",
+      "score": 397
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@pinelab/vendure-plugin-popularity-scores",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "instagrapi-extended added to PyPI",
+      "url": "https://pypi.org/project/instagrapi-extended/"
+    },
+    {
+      "name": "kitetdx added to PyPI",
+      "url": "https://pypi.org/project/kitetdx/"
+    },
+    {
+      "name": "debugbuddy-cli added to PyPI",
+      "url": "https://pypi.org/project/debugbuddy-cli/"
+    },
+    {
+      "name": "localsage added to PyPI",
+      "url": "https://pypi.org/project/localsage/"
+    },
+    {
+      "name": "flip-rag added to PyPI",
+      "url": "https://pypi.org/project/flip-rag/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
