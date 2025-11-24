@@ -1,0 +1,111 @@
+{
+  "date": "2025-11-24",
+  "github_trending": [
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 97324,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 84432,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 83269,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 79902,
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    },
+    {
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 73240,
+      "description": "Model Context Protocol Servers"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Pebble Watch software is now 100% open source",
+      "url": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
+      "score": 533
+    },
+    {
+      "title": "Claude Advanced Tool Use",
+      "url": "https://www.anthropic.com/engineering/advanced-tool-use",
+      "score": 241
+    },
+    {
+      "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
+      "url": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
+      "score": 789
+    },
+    {
+      "title": "Claude Opus 4.5",
+      "url": "https://www.anthropic.com/news/claude-opus-4-5",
+      "score": 649
+    },
+    {
+      "title": "Three Years from GPT-3 to Gemini 3",
+      "url": "https://www.oneusefulthing.org/p/three-years-from-gpt-3-to-gemini",
+      "score": 129
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@pinelab/vendure-plugin-popularity-scores",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "mediagram added to PyPI",
+      "url": "https://pypi.org/project/mediagram/"
+    },
+    {
+      "name": "rtcpy added to PyPI",
+      "url": "https://pypi.org/project/rtcpy/"
+    },
+    {
+      "name": "datamanip added to PyPI",
+      "url": "https://pypi.org/project/datamanip/"
+    },
+    {
+      "name": "patrix added to PyPI",
+      "url": "https://pypi.org/project/patrix/"
+    },
+    {
+      "name": "pmptool added to PyPI",
+      "url": "https://pypi.org/project/pmptool/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
