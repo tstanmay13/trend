@@ -1,0 +1,111 @@
+{
+  "date": "2025-11-27",
+  "github_trending": [
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 75691,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "xai-org/grok-1",
+      "url": "https://github.com/xai-org/grok-1",
+      "stars": 50580,
+      "description": "Grok open release"
+    },
+    {
+      "title": "PatrickJS/awesome-cursorrules",
+      "url": "https://github.com/PatrickJS/awesome-cursorrules",
+      "stars": 35682,
+      "description": "\ud83d\udcc4  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors"
+    },
+    {
+      "title": "hpcaitech/Open-Sora",
+      "url": "https://github.com/hpcaitech/Open-Sora",
+      "stars": 27997,
+      "description": "Open-Sora: Democratizing Efficient Video Production for All"
+    },
+    {
+      "title": "Dokploy/dokploy",
+      "url": "https://github.com/Dokploy/dokploy",
+      "stars": 27247,
+      "description": "Open Source Alternative to Vercel, Netlify and Heroku."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Migrating the main Zig repository from GitHub to Codeberg",
+      "url": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
+      "score": 471
+    },
+    {
+      "title": "Penpot: The Open-Source Figma",
+      "url": "https://github.com/penpot/penpot",
+      "score": 167
+    },
+    {
+      "title": "DIY NAS: 2026 Edition",
+      "url": "https://blog.briancmoses.com/2025/11/diy-nas-2026-edition.html",
+      "score": 114
+    },
+    {
+      "title": "Voyager 1 is about to reach one light-day from Earth",
+      "url": "https://scienceclock.com/voyager-1-is-about-to-reach-one-light-day-from-earth/",
+      "score": 869
+    },
+    {
+      "title": "Willis Whitfield: A simple man with a simple solution that changed the world",
+      "url": "https://www.sandia.gov/labnews/2024/04/04/willis-whitfield-a-simple-man-with-a-simple-solution-that-changed-the-world/",
+      "score": 30
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@pinelab/vendure-plugin-popularity-scores",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "uniclogs-stationd added to PyPI",
+      "url": "https://pypi.org/project/uniclogs-stationd/"
+    },
+    {
+      "name": "invink added to PyPI",
+      "url": "https://pypi.org/project/invink/"
+    },
+    {
+      "name": "apathetic-utils added to PyPI",
+      "url": "https://pypi.org/project/apathetic-utils/"
+    },
+    {
+      "name": "arsc added to PyPI",
+      "url": "https://pypi.org/project/arsc/"
+    },
+    {
+      "name": "meebro added to PyPI",
+      "url": "https://pypi.org/project/meebro/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
