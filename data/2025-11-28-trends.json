@@ -1,0 +1,111 @@
+{
+  "date": "2025-11-28",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 124577,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 98336,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91530,
+      "description": null
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 85068,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 80639,
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "28M Hacker News comments as vector embedding search dataset",
+      "url": "https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset",
+      "score": 247
+    },
+    {
+      "title": "Imgur Geo-Blocked the UK, So I Geo-Unblocked My Network",
+      "url": "https://blog.tymscar.com/posts/imgurukproxy/",
+      "score": 193
+    },
+    {
+      "title": "Flight disruption warning as Airbus requests modifications to 6k planes",
+      "url": "https://www.bbc.com/news/live/cvg4y6g74ert",
+      "score": 36
+    },
+    {
+      "title": "Good engineers write bad code at big companies",
+      "url": "https://www.seangoedecke.com/bad-code-at-big-companies/",
+      "score": 64
+    },
+    {
+      "title": "Molly: An Improved Signal App",
+      "url": "https://molly.im/",
+      "score": 147
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@pinelab/vendure-plugin-popularity-scores",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "chuk-mcp-celestial added to PyPI",
+      "url": "https://pypi.org/project/chuk-mcp-celestial/"
+    },
+    {
+      "name": "gateway-defender added to PyPI",
+      "url": "https://pypi.org/project/gateway-defender/"
+    },
+    {
+      "name": "apitkt added to PyPI",
+      "url": "https://pypi.org/project/apitkt/"
+    },
+    {
+      "name": "vehicle-market-x23311428 added to PyPI",
+      "url": "https://pypi.org/project/vehicle-market-x23311428/"
+    },
+    {
+      "name": "viewx added to PyPI",
+      "url": "https://pypi.org/project/viewx/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
