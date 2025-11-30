@@ -1,0 +1,111 @@
+{
+  "date": "2025-11-30",
+  "github_trending": [
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 80759,
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    },
+    {
+      "title": "RVC-Boss/GPT-SoVITS",
+      "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+      "stars": 52639,
+      "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)"
+    },
+    {
+      "title": "zen-browser/desktop",
+      "url": "https://github.com/zen-browser/desktop",
+      "stars": 38123,
+      "description": "Welcome to a calmer internet"
+    },
+    {
+      "title": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+      "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+      "stars": 29122,
+      "description": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way."
+    },
+    {
+      "title": "karakeep-app/karakeep",
+      "url": "https://github.com/karakeep-app/karakeep",
+      "stars": 21543,
+      "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Bazzite: The next generation of Linux gaming",
+      "url": "https://bazzite.gg/",
+      "score": 125
+    },
+    {
+      "title": "Landlock-Ing Linux",
+      "url": "https://blog.prizrak.me/post/landlock/",
+      "score": 101
+    },
+    {
+      "title": "All it takes is for one to work out",
+      "url": "https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/",
+      "score": 280
+    },
+    {
+      "title": "Be Like Clippy",
+      "url": "https://be-clippy.com/",
+      "score": 201
+    },
+    {
+      "title": "Dilution vs. Risk taking: Capital gains taxes and entrepreneurs",
+      "url": "https://www.nber.org/papers/w34512",
+      "score": 24
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@pinelab/vendure-plugin-popularity-scores",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "astify added to PyPI",
+      "url": "https://pypi.org/project/astify/"
+    },
+    {
+      "name": "reprx added to PyPI",
+      "url": "https://pypi.org/project/reprx/"
+    },
+    {
+      "name": "phoneinsurance-cal added to PyPI",
+      "url": "https://pypi.org/project/phoneinsurance-cal/"
+    },
+    {
+      "name": "meu-investimento-02 added to PyPI",
+      "url": "https://pypi.org/project/meu-investimento-02/"
+    },
+    {
+      "name": "dwellir-harvester-lib added to PyPI",
+      "url": "https://pypi.org/project/dwellir-harvester-lib/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
