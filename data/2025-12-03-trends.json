@@ -1,0 +1,111 @@
+{
+  "date": "2025-12-03",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 126415,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91544,
+      "description": null
+    },
+    {
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 73207,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "stars": 69044,
+      "description": "\ud83d\udd25 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data"
+    },
+    {
+      "title": "OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "stars": 65381,
+      "description": "\ud83d\ude4c OpenHands: Code Less, Make More"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Everyone in Seattle hates AI",
+      "url": "https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html",
+      "score": 373
+    },
+    {
+      "title": "Ghostty is now non-profit",
+      "url": "https://mitchellh.com/writing/ghostty-non-profit",
+      "score": 533
+    },
+    {
+      "title": "Reverse engineering a $1B Legal AI tool exposed 100k+ confidential files",
+      "url": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
+      "score": 351
+    },
+    {
+      "title": "Valve reveals it\u2019s the architect behind a push to bring Windows games to Arm",
+      "url": "https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais",
+      "score": 239
+    },
+    {
+      "title": "1D Conway's Life glider found, 3.7B cells long",
+      "url": "https://conwaylife.com/forums/viewtopic.php?&p=222136#p222136",
+      "score": 234
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "haxball added to PyPI",
+      "url": "https://pypi.org/project/haxball/"
+    },
+    {
+      "name": "janus-remote added to PyPI",
+      "url": "https://pypi.org/project/janus-remote/"
+    },
+    {
+      "name": "qudit-visualizer added to PyPI",
+      "url": "https://pypi.org/project/qudit-visualizer/"
+    },
+    {
+      "name": "auraparse-mcp added to PyPI",
+      "url": "https://pypi.org/project/auraparse-mcp/"
+    },
+    {
+      "name": "pyzyconfig added to PyPI",
+      "url": "https://pypi.org/project/pyzyconfig/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
