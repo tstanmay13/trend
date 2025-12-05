@@ -1,0 +1,111 @@
+{
+  "date": "2025-12-05",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 126959,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 100572,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 99487,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91542,
+      "description": null
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 85902,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "The US polluters that are rewriting the EU's human rights and climate law",
+      "url": "https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/",
+      "score": 153
+    },
+    {
+      "title": "Cloudflare Down Again \u2013 and DownDetector Is Also Down",
+      "url": "https://news.ycombinator.com/item?id=46158200",
+      "score": 190
+    },
+    {
+      "title": "Netflix\u2019s AV1 Journey: From Android to TVs and Beyond",
+      "url": "https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80",
+      "score": 384
+    },
+    {
+      "title": "I have been writing a niche history blog for 15 years",
+      "url": "https://resobscura.substack.com/p/why-i-have-been-writing-a-niche-history",
+      "score": 126
+    },
+    {
+      "title": "UniFi 5G",
+      "url": "https://blog.ui.com/article/introducing-unifi-5g",
+      "score": 124
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "AriaQuantum added to PyPI",
+      "url": "https://pypi.org/project/ariaquantum/"
+    },
+    {
+      "name": "mem-box added to PyPI",
+      "url": "https://pypi.org/project/mem-box/"
+    },
+    {
+      "name": "carlib added to PyPI",
+      "url": "https://pypi.org/project/carlib/"
+    },
+    {
+      "name": "nanoidp added to PyPI",
+      "url": "https://pypi.org/project/nanoidp/"
+    },
+    {
+      "name": "aether-gestalt added to PyPI",
+      "url": "https://pypi.org/project/aether-gestalt/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
