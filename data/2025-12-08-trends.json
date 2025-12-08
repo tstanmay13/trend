@@ -1,0 +1,111 @@
+{
+  "date": "2025-12-08",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 127780,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 100618,
+      "description": null
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 99852,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91559,
+      "description": null
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 86279,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Turtletoy",
+      "url": "https://turtletoy.net/",
+      "score": 161
+    },
+    {
+      "title": "Applets Are Officially Gone, but Java in the Browser Is Better",
+      "url": "https://frequal.com/java/AppletsGoneButJavaInTheBrowserBetterThanEver.html",
+      "score": 4
+    },
+    {
+      "title": "Emacs is my new window manager",
+      "url": "https://www.howardism.org/Technical/Emacs/new-window-manager.html",
+      "score": 49
+    },
+    {
+      "title": "Damn Small Linux",
+      "url": "https://www.damnsmalllinux.org/",
+      "score": 70
+    },
+    {
+      "title": "I failed to recreate the 1996 Space Jam website with Claude",
+      "url": "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/",
+      "score": 419
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "storybook-source-link",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "zetaq-edu-diff-engine added to PyPI",
+      "url": "https://pypi.org/project/zetaq-edu-diff-engine/"
+    },
+    {
+      "name": "ldr-environment added to PyPI",
+      "url": "https://pypi.org/project/ldr-environment/"
+    },
+    {
+      "name": "botoease added to PyPI",
+      "url": "https://pypi.org/project/botoease/"
+    },
+    {
+      "name": "synadb added to PyPI",
+      "url": "https://pypi.org/project/synadb/"
+    },
+    {
+      "name": "wsocks added to PyPI",
+      "url": "https://pypi.org/project/wsocks/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
