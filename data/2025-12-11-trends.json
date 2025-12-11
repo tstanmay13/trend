@@ -1,0 +1,111 @@
+{
+  "date": "2025-12-11",
+  "github_trending": [
+    {
+      "title": "upstash/context7",
+      "url": "https://github.com/upstash/context7",
+      "stars": 39091,
+      "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors"
+    },
+    {
+      "title": "sst/opencode",
+      "url": "https://github.com/sst/opencode",
+      "stars": 38024,
+      "description": "The open source coding agent."
+    },
+    {
+      "title": "daytonaio/daytona",
+      "url": "https://github.com/daytonaio/daytona",
+      "stars": 35790,
+      "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code"
+    },
+    {
+      "title": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+      "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+      "stars": 29154,
+      "description": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way."
+    },
+    {
+      "title": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "stars": 24451,
+      "description": "Official inference framework for 1-bit LLMs"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Size of Life",
+      "url": "https://neal.fun/size-of-life/",
+      "score": 2135
+    },
+    {
+      "title": "A \"Frozen\" Dictionary for Python",
+      "url": "https://lwn.net/SubscriberLink/1047238/25c270b077849dc0/",
+      "score": 43
+    },
+    {
+      "title": "The Cost of a Closure in C",
+      "url": "https://thephd.dev/the-cost-of-a-closure-in-c-c2y",
+      "score": 91
+    },
+    {
+      "title": "Patterns.dev",
+      "url": "https://www.patterns.dev/",
+      "score": 339
+    },
+    {
+      "title": "Getting a Gemini API key is an exercise in frustration",
+      "url": "https://ankursethi.com/blog/gemini-api-key-frustration/",
+      "score": 595
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "denes-router-classifier added to PyPI",
+      "url": "https://pypi.org/project/denes-router-classifier/"
+    },
+    {
+      "name": "rdfsolve added to PyPI",
+      "url": "https://pypi.org/project/rdfsolve/"
+    },
+    {
+      "name": "thyra added to PyPI",
+      "url": "https://pypi.org/project/thyra/"
+    },
+    {
+      "name": "szn-iptv-django-health-check added to PyPI",
+      "url": "https://pypi.org/project/szn-iptv-django-health-check/"
+    },
+    {
+      "name": "geonode-dynamic-rest added to PyPI",
+      "url": "https://pypi.org/project/geonode-dynamic-rest/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
