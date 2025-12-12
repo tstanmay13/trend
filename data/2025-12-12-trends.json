@@ -1,0 +1,80 @@
+{
+  "date": "2025-12-12",
+  "github_trending": [],
+  "hackernews_top": [
+    {
+      "title": "GPT-5.2",
+      "url": "https://openai.com/index/introducing-gpt-5-2/",
+      "score": 740
+    },
+    {
+      "title": "Nokia N900 Necromancy \u2013 giving a new life to a classic Linux smartphone",
+      "url": "https://yaky.dev/2025-12-11-nokia-n900-necromancy/",
+      "score": 30
+    },
+    {
+      "title": "Denial of service and source code exposure in React Server Components",
+      "url": "https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components",
+      "score": 192
+    },
+    {
+      "title": "Rivian Unveils Custom Silicon, R2 Lidar Roadmap, and Universal Hands Free",
+      "url": "https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/",
+      "score": 201
+    },
+    {
+      "title": "The highest quality codebase",
+      "url": "https://gricha.dev/blog/the-highest-quality-codebase",
+      "score": 420
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "snap-analog added to PyPI",
+      "url": "https://pypi.org/project/snap-analog/"
+    },
+    {
+      "name": "PyGPUkit added to PyPI",
+      "url": "https://pypi.org/project/pygpukit/"
+    },
+    {
+      "name": "irs-asset-fifo-calculator added to PyPI",
+      "url": "https://pypi.org/project/irs-asset-fifo-calculator/"
+    },
+    {
+      "name": "addpip added to PyPI",
+      "url": "https://pypi.org/project/addpip/"
+    },
+    {
+      "name": "machineid-io added to PyPI",
+      "url": "https://pypi.org/project/machineid-io/"
+    }
+  ],
+  "summary": {
+    "total_items": 15,
+    "sources_with_data": 3
+  }
+}
