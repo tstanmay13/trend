@@ -1,0 +1,111 @@
+{
+  "date": "2025-12-14",
+  "github_trending": [
+    {
+      "title": "black-forest-labs/flux",
+      "url": "https://github.com/black-forest-labs/flux",
+      "stars": 24885,
+      "description": "Official inference repo for FLUX.1 models"
+    },
+    {
+      "title": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "stars": 23470,
+      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses."
+    },
+    {
+      "title": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "stars": 16372,
+      "description": "Qwen Code is a coding agent that lives in the digital world."
+    },
+    {
+      "title": "ourongxing/newsnow",
+      "url": "https://github.com/ourongxing/newsnow",
+      "stars": 15254,
+      "description": "Elegant reading of real-time and hottest news"
+    },
+    {
+      "title": "Billionmail/BillionMail",
+      "url": "https://github.com/Billionmail/BillionMail",
+      "stars": 12428,
+      "description": "BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing \u2014 fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Linux Sandboxes and Fil-C",
+      "url": "https://fil-c.org/seccomp",
+      "score": 274
+    },
+    {
+      "title": "Using e-ink tablet as monitor for Linux",
+      "url": "https://alavi.me/blog/e-ink-tablet-as-monitor-linux/",
+      "score": 179
+    },
+    {
+      "title": "I fed 24 years of my blog posts to a Markov model",
+      "url": "https://susam.net/fed-24-years-of-posts-to-markov-model.html",
+      "score": 220
+    },
+    {
+      "title": "Dagger: Define software delivery workflows and dev environments",
+      "url": "https://dagger.io/",
+      "score": 23
+    },
+    {
+      "title": "Recovering Anthony Bourdain's Li.st's",
+      "url": "https://sandyuraz.com/blogs/bourdain/",
+      "score": 231
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "fastfame added to PyPI",
+      "url": "https://pypi.org/project/fastfame/"
+    },
+    {
+      "name": "wcdl added to PyPI",
+      "url": "https://pypi.org/project/wcdl/"
+    },
+    {
+      "name": "pycliboilerplate added to PyPI",
+      "url": "https://pypi.org/project/pycliboilerplate/"
+    },
+    {
+      "name": "waffledb added to PyPI",
+      "url": "https://pypi.org/project/waffledb/"
+    },
+    {
+      "name": "mustafalib added to PyPI",
+      "url": "https://pypi.org/project/mustafalib/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
