@@ -1,0 +1,80 @@
+{
+  "date": "2025-12-24",
+  "github_trending": [],
+  "hackernews_top": [
+    {
+      "title": "We Abandoned Matrix: The Dark Truth About User Security and Safety (2024)",
+      "url": "https://forum.hackliberty.org/t/why-we-abandoned-matrix-the-dark-truth-about-user-security-and-safety/224",
+      "score": 79
+    },
+    {
+      "title": "When Compilers Surprise You",
+      "url": "https://xania.org/202512/24-cunning-clang",
+      "score": 89
+    },
+    {
+      "title": "Fabrice Bellard Releases MicroQuickJS",
+      "url": "https://github.com/bellard/mquickjs/blob/main/README.md",
+      "score": 1277
+    },
+    {
+      "title": "Your Inbox Is a Bandit",
+      "url": "https://parentheticallyspeaking.org/articles/bandit-inbox/",
+      "score": 50
+    },
+    {
+      "title": "Super Mario Bros. and Yoshi Games (Yields) Reduced Burnout Risk",
+      "url": "https://games.jmir.org/2025/1/e84219/",
+      "score": 64
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "streamlat added to PyPI",
+      "url": "https://pypi.org/project/streamlat/"
+    },
+    {
+      "name": "limitless-ai added to PyPI",
+      "url": "https://pypi.org/project/limitless-ai/"
+    },
+    {
+      "name": "hexdoc-hexahere added to PyPI",
+      "url": "https://pypi.org/project/hexdoc-hexahere/"
+    },
+    {
+      "name": "linked-sqlserver-dialect added to PyPI",
+      "url": "https://pypi.org/project/linked-sqlserver-dialect/"
+    },
+    {
+      "name": "classroom-suite-mcp added to PyPI",
+      "url": "https://pypi.org/project/classroom-suite-mcp/"
+    }
+  ],
+  "summary": {
+    "total_items": 15,
+    "sources_with_data": 3
+  }
+}
