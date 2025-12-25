@@ -1,0 +1,111 @@
+{
+  "date": "2025-12-25",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 133398,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 102056,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 100830,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91602,
+      "description": null
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 88555,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Phoenix: A modern X server written from scratch in Zig",
+      "url": "https://git.dec05eba.com/phoenix/about/",
+      "score": 250
+    },
+    {
+      "title": "Tell HN: Merry Christmas",
+      "url": "https://news.ycombinator.com/item?id=46380168",
+      "score": 630
+    },
+    {
+      "title": "Who Watches the Waymos? I do [video]",
+      "url": "https://www.youtube.com/watch?v=oYU2hAbx_Fc",
+      "score": 65
+    },
+    {
+      "title": "Asterisk AI Voice Agent",
+      "url": "https://github.com/hkjarral/Asterisk-AI-Voice-Agent",
+      "score": 49
+    },
+    {
+      "title": "Show HN: Minimalist editor that lives in browser, stores everything in the URL",
+      "url": "https://github.com/antonmedv/textarea",
+      "score": 252
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "clipsai-jp added to PyPI",
+      "url": "https://pypi.org/project/clipsai-jp/"
+    },
+    {
+      "name": "douyin-summary-mcp added to PyPI",
+      "url": "https://pypi.org/project/douyin-summary-mcp/"
+    },
+    {
+      "name": "fastapi-casbin-acl added to PyPI",
+      "url": "https://pypi.org/project/fastapi-casbin-acl/"
+    },
+    {
+      "name": "deckthehalls added to PyPI",
+      "url": "https://pypi.org/project/deckthehalls/"
+    },
+    {
+      "name": "reflex-chessboard added to PyPI",
+      "url": "https://pypi.org/project/reflex-chessboard/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
