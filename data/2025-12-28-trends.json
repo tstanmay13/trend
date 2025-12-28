@@ -1,0 +1,111 @@
+{
+  "date": "2025-12-28",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 100865,
+      "description": null
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 84691,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 84599,
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 77693,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "stars": 54789,
+      "description": "Lightweight coding agent that runs in your terminal"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Calendar",
+      "url": "https://neatnik.net/calendar/?year=2026",
+      "score": 162
+    },
+    {
+      "title": "Replacing JavaScript with Just HTML",
+      "url": "https://www.htmhell.dev/adventcalendar/2025/27/",
+      "score": 262
+    },
+    {
+      "title": "Fathers\u2019 choices may be packaged and passed down in sperm RNA",
+      "url": "https://www.quantamagazine.org/how-dads-fitness-may-be-packaged-and-passed-down-in-sperm-rna-20251222/",
+      "score": 144
+    },
+    {
+      "title": "Rex is a safe kernel extension framework that allows Rust in the place of eBPF",
+      "url": "https://github.com/rex-rs/rex",
+      "score": 25
+    },
+    {
+      "title": "How we lost communication to entertainment",
+      "url": "https://ploum.net/2025-12-15-communication-entertainment.html",
+      "score": 373
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "easyscrape-py added to PyPI",
+      "url": "https://pypi.org/project/easyscrape-py/"
+    },
+    {
+      "name": "agentsentinel-sdk added to PyPI",
+      "url": "https://pypi.org/project/agentsentinel-sdk/"
+    },
+    {
+      "name": "latex-resume-mcp added to PyPI",
+      "url": "https://pypi.org/project/latex-resume-mcp/"
+    },
+    {
+      "name": "pymclust-native added to PyPI",
+      "url": "https://pypi.org/project/pymclust-native/"
+    },
+    {
+      "name": "llm-radar-mcp added to PyPI",
+      "url": "https://pypi.org/project/llm-radar-mcp/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
