@@ -1,0 +1,111 @@
+{
+  "date": "2025-12-29",
+  "github_trending": [
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 77786,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "PatrickJS/awesome-cursorrules",
+      "url": "https://github.com/PatrickJS/awesome-cursorrules",
+      "stars": 36554,
+      "description": "\ud83d\udcc4  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors"
+    },
+    {
+      "title": "Dokploy/dokploy",
+      "url": "https://github.com/Dokploy/dokploy",
+      "stars": 28563,
+      "description": "Open Source Alternative to Vercel, Netlify and Heroku."
+    },
+    {
+      "title": "hpcaitech/Open-Sora",
+      "url": "https://github.com/hpcaitech/Open-Sora",
+      "stars": 28179,
+      "description": "Open-Sora: Democratizing Efficient Video Production for All"
+    },
+    {
+      "title": "Max-Eee/NeoPass",
+      "url": "https://github.com/Max-Eee/NeoPass",
+      "stars": 25859,
+      "description": "Your Essential Exam Companion for the Iamneo Portal & NPTEL Exams Disguised as NeoExamShield bypass"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Google is dead. Where do we go now?",
+      "url": "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/",
+      "score": 248
+    },
+    {
+      "title": "USPS Announces Changes to the Postmark Date System",
+      "url": "https://nstp.org/article/usps-announces-changes-postmark-date-system",
+      "score": 16
+    },
+    {
+      "title": "Static Allocation with Zig",
+      "url": "https://nickmonad.blog/2025/static-allocation-with-zig-kv/",
+      "score": 140
+    },
+    {
+      "title": "The future of software development is software developers",
+      "url": "https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/",
+      "score": 64
+    },
+    {
+      "title": "Flame Graphs vs Tree Maps vs Sunburst (2017)",
+      "url": "https://www.brendangregg.com/blog/2017-02-06/flamegraphs-vs-treemaps-vs-sunburst.html",
+      "score": 65
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "rheoQCM added to PyPI",
+      "url": "https://pypi.org/project/rheoqcm/"
+    },
+    {
+      "name": "splunk-assistant-skills-lib added to PyPI",
+      "url": "https://pypi.org/project/splunk-assistant-skills-lib/"
+    },
+    {
+      "name": "llmterface-gemini added to PyPI",
+      "url": "https://pypi.org/project/llmterface-gemini/"
+    },
+    {
+      "name": "jira-assistant-skills-lib added to PyPI",
+      "url": "https://pypi.org/project/jira-assistant-skills-lib/"
+    },
+    {
+      "name": "python-bestbuy added to PyPI",
+      "url": "https://pypi.org/project/python-bestbuy/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
