@@ -1,0 +1,111 @@
+{
+  "date": "2026-01-02",
+  "github_trending": [
+    {
+      "title": "dockur/windows",
+      "url": "https://github.com/dockur/windows",
+      "stars": 49315,
+      "description": "Windows inside a Docker container."
+    },
+    {
+      "title": "meta-llama/llama3",
+      "url": "https://github.com/meta-llama/llama3",
+      "stars": 29158,
+      "description": "The official Meta Llama 3 GitHub site"
+    },
+    {
+      "title": "karpathy/llm.c",
+      "url": "https://github.com/karpathy/llm.c",
+      "stars": 28521,
+      "description": "LLM training in simple, raw C/CUDA"
+    },
+    {
+      "title": "bmad-code-org/BMAD-METHOD",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+      "stars": 26843,
+      "description": "Breakthrough Method for Agile Ai Driven Development"
+    },
+    {
+      "title": "yuaotian/go-cursor-help",
+      "url": "https://github.com/yuaotian/go-cursor-help",
+      "stars": 25425,
+      "description": "\u89e3\u51b3Cursor\u5728\u514d\u8d39\u8ba2\u9605\u671f\u95f4\u51fa\u73b0\u4ee5\u4e0b\u63d0\u793a\u7684\u95ee\u9898:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Standard Ebooks: Public Domain Day 2026 in Literature",
+      "url": "https://standardebooks.org/blog/public-domain-day-2026",
+      "score": 51
+    },
+    {
+      "title": "Happy Public Domain Day 2026",
+      "url": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
+      "score": 271
+    },
+    {
+      "title": "Why users cannot create Issues directly",
+      "url": "https://github.com/ghostty-org/ghostty/issues/3558",
+      "score": 343
+    },
+    {
+      "title": "Going immutable on macOS, using Nix-Darwin",
+      "url": "https://carette.xyz/posts/going_immutable_macos/",
+      "score": 32
+    },
+    {
+      "title": "Round the tree, yes, but not round the squirrel",
+      "url": "https://www.futilitycloset.com/2026/01/02/round-and-round/",
+      "score": 24
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "deadpipe added to PyPI",
+      "url": "https://pypi.org/project/deadpipe/"
+    },
+    {
+      "name": "appilot added to PyPI",
+      "url": "https://pypi.org/project/appilot/"
+    },
+    {
+      "name": "tk3d-An17 added to PyPI",
+      "url": "https://pypi.org/project/tk3d-an17/"
+    },
+    {
+      "name": "flask-more-smorest added to PyPI",
+      "url": "https://pypi.org/project/flask-more-smorest/"
+    },
+    {
+      "name": "better-mem0-mcp added to PyPI",
+      "url": "https://pypi.org/project/better-mem0-mcp/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
