@@ -1,0 +1,111 @@
+{
+  "date": "2026-01-06",
+  "github_trending": [
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 106126,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 89836,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 86897,
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    },
+    {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars": 84997,
+      "description": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "title": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "stars": 55329,
+      "description": "Lightweight coding agent that runs in your terminal"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "enclose.horse",
+      "url": "https://enclose.horse/",
+      "score": 546
+    },
+    {
+      "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
+      "url": "https://www.theregister.com/2026/01/05/aws_price_increase/",
+      "score": 200
+    },
+    {
+      "title": "C Is Best",
+      "url": "https://sqlite.org/whyc.html",
+      "score": 28
+    },
+    {
+      "title": "Show HN: Prism.Tools \u2013 Free and privacy-focused developer utilities",
+      "url": "https://blgardner.github.io/prism.tools/",
+      "score": 22
+    },
+    {
+      "title": "SCiZE's Classic Warez Collection",
+      "url": "https://scenelist.org/",
+      "score": 60
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "llm-imageops added to PyPI",
+      "url": "https://pypi.org/project/llm-imageops/"
+    },
+    {
+      "name": "mcp-taxii added to PyPI",
+      "url": "https://pypi.org/project/mcp-taxii/"
+    },
+    {
+      "name": "broken-python added to PyPI",
+      "url": "https://pypi.org/project/broken-python/"
+    },
+    {
+      "name": "text-aligner added to PyPI",
+      "url": "https://pypi.org/project/text-aligner/"
+    },
+    {
+      "name": "hsr_getyundata_v1 added to PyPI",
+      "url": "https://pypi.org/project/hsr-getyundata-v1/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
