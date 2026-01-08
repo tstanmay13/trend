@@ -1,0 +1,111 @@
+{
+  "date": "2026-01-08",
+  "github_trending": [
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 78449,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "PatrickJS/awesome-cursorrules",
+      "url": "https://github.com/PatrickJS/awesome-cursorrules",
+      "stars": 36813,
+      "description": "\ud83d\udcc4  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors"
+    },
+    {
+      "title": "Dokploy/dokploy",
+      "url": "https://github.com/Dokploy/dokploy",
+      "stars": 28853,
+      "description": "Open Source Alternative to Vercel, Netlify and Heroku."
+    },
+    {
+      "title": "hpcaitech/Open-Sora",
+      "url": "https://github.com/hpcaitech/Open-Sora",
+      "stars": 28254,
+      "description": "Open-Sora: Democratizing Efficient Video Production for All"
+    },
+    {
+      "title": "Max-Eee/NeoPass",
+      "url": "https://github.com/Max-Eee/NeoPass",
+      "stars": 25800,
+      "description": "Your Essential Exam Companion for the Iamneo Portal & NPTEL Exams Disguised as NeoExamShield bypass"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "The Jeff Dean Facts",
+      "url": "https://github.com/LRitzdorf/TheJeffDeanFacts",
+      "score": 95
+    },
+    {
+      "title": "Lights and Shadows (2020)",
+      "url": "https://ciechanow.ski/lights-and-shadows/",
+      "score": 157
+    },
+    {
+      "title": "Project Patchouli: Open-source electromagnetic drawing tablet hardware",
+      "url": "https://patchouli.readthedocs.io/en/latest/",
+      "score": 328
+    },
+    {
+      "title": "Show HN: DeepDream for Video with Temporal Consistency",
+      "url": "https://github.com/jeremicna/deepdream-video-pytorch",
+      "score": 18
+    },
+    {
+      "title": "A closer look at a BGP anomaly in Venezuela",
+      "url": "https://blog.cloudflare.com/bgp-route-leak-venezuela/",
+      "score": 257
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "delimiters added to PyPI",
+      "url": "https://pypi.org/project/delimiters/"
+    },
+    {
+      "name": "xsrp added to PyPI",
+      "url": "https://pypi.org/project/xsrp/"
+    },
+    {
+      "name": "agent-contracts added to PyPI",
+      "url": "https://pypi.org/project/agent-contracts/"
+    },
+    {
+      "name": "hledger-tui added to PyPI",
+      "url": "https://pypi.org/project/hledger-tui/"
+    },
+    {
+      "name": "greenrefactor-python added to PyPI",
+      "url": "https://pypi.org/project/greenrefactor-python/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
