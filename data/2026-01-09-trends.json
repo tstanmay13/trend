@@ -1,0 +1,111 @@
+{
+  "date": "2026-01-09",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 138899,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 106932,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 90271,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 78508,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "stars": 58327,
+      "description": "\ud83d\ude80\ud83e\udd16 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Show HN: I made a memory game to teach you to play piano by ear",
+      "url": "https://lend-me-your-ears.specr.net",
+      "score": 125
+    },
+    {
+      "title": "JavaScript Demos in 140 Characters",
+      "url": "https://www.dwitter.net/top",
+      "score": 15
+    },
+    {
+      "title": "The Vietnam government has banned rooted phones from using any banking app",
+      "url": "https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118",
+      "score": 231
+    },
+    {
+      "title": "How to store a chess position in 26 bytes (2022)",
+      "url": "https://ezzeriesa.notion.site/How-to-store-a-chess-position-in-26-bytes-using-bit-level-magic-df1fdb5364eb42fdac11eb23b25e9605",
+      "score": 26
+    },
+    {
+      "title": "Scientists discover oldest poison, on 60k-year-old arrows",
+      "url": "https://www.nytimes.com/2026/01/07/science/poison-arrows-south-africa.html",
+      "score": 14
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "dojozero added to PyPI",
+      "url": "https://pypi.org/project/dojozero/"
+    },
+    {
+      "name": "pyyaml-pure added to PyPI",
+      "url": "https://pypi.org/project/pyyaml-pure/"
+    },
+    {
+      "name": "custos-guardrails added to PyPI",
+      "url": "https://pypi.org/project/custos-guardrails/"
+    },
+    {
+      "name": "m1n1-proxyclient added to PyPI",
+      "url": "https://pypi.org/project/m1n1-proxyclient/"
+    },
+    {
+      "name": "gpia-agi-server added to PyPI",
+      "url": "https://pypi.org/project/gpia-agi-server/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
