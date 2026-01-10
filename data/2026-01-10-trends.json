@@ -1,0 +1,111 @@
+{
+  "date": "2026-01-10",
+  "github_trending": [
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 87470,
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    },
+    {
+      "title": "RVC-Boss/GPT-SoVITS",
+      "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+      "stars": 53957,
+      "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)"
+    },
+    {
+      "title": "zen-browser/desktop",
+      "url": "https://github.com/zen-browser/desktop",
+      "stars": 39399,
+      "description": "Welcome to a calmer internet"
+    },
+    {
+      "title": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+      "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+      "stars": 29246,
+      "description": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way."
+    },
+    {
+      "title": "karakeep-app/karakeep",
+      "url": "https://github.com/karakeep-app/karakeep",
+      "stars": 22624,
+      "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Open Chaos: A self-evolving open-source project",
+      "url": "https://www.openchaos.dev/",
+      "score": 117
+    },
+    {
+      "title": "A Eulogy for Dark Sky, a Data Visualization Masterpiece (2023)",
+      "url": "https://nightingaledvs.com/dark-sky-weather-data-viz/",
+      "score": 269
+    },
+    {
+      "title": "Drones that recharge directly on transmission lines",
+      "url": "https://www.ycombinator.com/companies/voltair",
+      "score": 25
+    },
+    {
+      "title": "Allow me to introduce, the Citroen C15",
+      "url": "https://eupolicy.social/@jmaris/115860595238097654",
+      "score": 565
+    },
+    {
+      "title": "New information extracted from Snowden PDFs through metadata version analysis",
+      "url": "https://libroot.org/posts/going-through-snowden-documents-part-4/",
+      "score": 197
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "typo-shield added to PyPI",
+      "url": "https://pypi.org/project/typo-shield/"
+    },
+    {
+      "name": "jolt-mcp added to PyPI",
+      "url": "https://pypi.org/project/jolt-mcp/"
+    },
+    {
+      "name": "gemini-image-mcp added to PyPI",
+      "url": "https://pypi.org/project/gemini-image-mcp/"
+    },
+    {
+      "name": "councillm added to PyPI",
+      "url": "https://pypi.org/project/councillm/"
+    },
+    {
+      "name": "sberzvuk-api added to PyPI",
+      "url": "https://pypi.org/project/sberzvuk-api/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
