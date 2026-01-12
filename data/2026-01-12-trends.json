@@ -1,0 +1,111 @@
+{
+  "date": "2026-01-12",
+  "github_trending": [
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 87610,
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models."
+    },
+    {
+      "title": "RVC-Boss/GPT-SoVITS",
+      "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+      "stars": 54003,
+      "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)"
+    },
+    {
+      "title": "zen-browser/desktop",
+      "url": "https://github.com/zen-browser/desktop",
+      "stars": 39437,
+      "description": "Welcome to a calmer internet"
+    },
+    {
+      "title": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+      "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+      "stars": 29253,
+      "description": "AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way."
+    },
+    {
+      "title": "karakeep-app/karakeep",
+      "url": "https://github.com/karakeep-app/karakeep",
+      "stars": 22658,
+      "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "The struggle of resizing windows on macOS Tahoe",
+      "url": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
+      "score": 1519
+    },
+    {
+      "title": "CLI agents make self-hosting on a home server easier and fun",
+      "url": "https://fulghum.io/self-hosting",
+      "score": 480
+    },
+    {
+      "title": "JRR Tolkien reads from The Hobbit for 30 Minutes (1952)",
+      "url": "https://www.openculture.com/2026/01/j-r-r-tolkien-reads-from-the-hobbit-for-30-minutes-1952.html",
+      "score": 46
+    },
+    {
+      "title": "Himalayas bare and rocky after reduced winter snowfall, scientists warn",
+      "url": "https://www.bbc.com/news/articles/clyndv7zd20o",
+      "score": 85
+    },
+    {
+      "title": "39c3: In-house electronics manufacturing from scratch: How hard can it be? [video]",
+      "url": "https://media.ccc.de/v/39c3-in-house-electronics-manufacturing-from-scratch-how-hard-can-it-be",
+      "score": 58
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "afterdark-prompt-generator added to PyPI",
+      "url": "https://pypi.org/project/afterdark-prompt-generator/"
+    },
+    {
+      "name": "kalax added to PyPI",
+      "url": "https://pypi.org/project/kalax/"
+    },
+    {
+      "name": "semantic-gan added to PyPI",
+      "url": "https://pypi.org/project/semantic-gan/"
+    },
+    {
+      "name": "afterdark-llm-firewall added to PyPI",
+      "url": "https://pypi.org/project/afterdark-llm-firewall/"
+    },
+    {
+      "name": "helping-geek-mcp added to PyPI",
+      "url": "https://pypi.org/project/helping-geek-mcp/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
