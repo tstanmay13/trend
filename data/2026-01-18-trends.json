@@ -1,0 +1,111 @@
+{
+  "date": "2026-01-18",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 141321,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 108927,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 101153,
+      "description": null
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91728,
+      "description": null
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 91391,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
+      "url": "https://alexharri.com/blog/ascii-rendering",
+      "score": 876
+    },
+    {
+      "title": "MIT's Computer Systems Security (2024)",
+      "url": "https://css.csail.mit.edu/6.858/2024/",
+      "score": 37
+    },
+    {
+      "title": "A programming language based on grammatical cases of Turkish",
+      "url": "https://github.com/kip-dili/kip",
+      "score": 135
+    },
+    {
+      "title": "Xous Operating System",
+      "url": "https://xous.dev/",
+      "score": 95
+    },
+    {
+      "title": "The recurring dream of replacing developers",
+      "url": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
+      "score": 324
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "ralph-py-cli added to PyPI",
+      "url": "https://pypi.org/project/ralph-py-cli/"
+    },
+    {
+      "name": "taocore-human added to PyPI",
+      "url": "https://pypi.org/project/taocore-human/"
+    },
+    {
+      "name": "crawl4ai-cloud-sdk added to PyPI",
+      "url": "https://pypi.org/project/crawl4ai-cloud-sdk/"
+    },
+    {
+      "name": "sciwriter added to PyPI",
+      "url": "https://pypi.org/project/sciwriter/"
+    },
+    {
+      "name": "bigocheck added to PyPI",
+      "url": "https://pypi.org/project/bigocheck/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
