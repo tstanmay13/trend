@@ -1,0 +1,111 @@
+{
+  "date": "2026-01-24",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 143131,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 110853,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 101294,
+      "description": null
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 92368,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91771,
+      "description": null
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "BirdyChat becomes first European chat app that is interoperable with WhatsApp",
+      "url": "https://www.birdy.chat/blog/first-to-interoperate-with-whatsapp",
+      "score": 112
+    },
+    {
+      "title": "Raspberry Pi Drag Race: Pi 1 to Pi 5 \u2013 Performance Comparison",
+      "url": "https://the-diy-life.com/raspberry-pi-drag-race-pi-1-to-pi-5-performance-comparison/",
+      "score": 54
+    },
+    {
+      "title": "Postmortem: Our first VLEO satellite mission (with imagery and flight data)",
+      "url": "https://albedo.com/post/clarity-1-what-worked-and-where-we-go-next",
+      "score": 4
+    },
+    {
+      "title": "Doing gigabit Ethernet over my British phone wires",
+      "url": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
+      "score": 352
+    },
+    {
+      "title": "Claude Code's new hidden feature: Swarms",
+      "url": "https://twitter.com/NicerInPerson/status/2014989679796347375",
+      "score": 159
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "Notebookviewerr added to PyPI",
+      "url": "https://pypi.org/project/notebookviewerr/"
+    },
+    {
+      "name": "pyteledb added to PyPI",
+      "url": "https://pypi.org/project/pyteledb/"
+    },
+    {
+      "name": "clippy-cli added to PyPI",
+      "url": "https://pypi.org/project/clippy-cli/"
+    },
+    {
+      "name": "themefetch added to PyPI",
+      "url": "https://pypi.org/project/themefetch/"
+    },
+    {
+      "name": "anet-common added to PyPI",
+      "url": "https://pypi.org/project/anet-common/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
