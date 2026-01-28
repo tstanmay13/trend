@@ -1,0 +1,111 @@
+{
+  "date": "2026-01-28",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 143908,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars": 111442,
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 101355,
+      "description": null
+    },
+    {
+      "title": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "stars": 92760,
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1",
+      "stars": 91784,
+      "description": null
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Super Monkey Ball ported to a website",
+      "url": "https://monkeyball-online.pages.dev/",
+      "score": 128
+    },
+    {
+      "title": "Apple MacBook Pro order deliveries delayed until mid March",
+      "url": "https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m4-max-with-16-core-cpu-and-40-core-gpu-48gb-memory-1tb",
+      "score": 44
+    },
+    {
+      "title": "AI found 12 vulnerabilities in OpenSSL",
+      "url": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
+      "score": 52
+    },
+    {
+      "title": "Prism",
+      "url": "https://openai.com/index/introducing-prism",
+      "score": 481
+    },
+    {
+      "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
+      "url": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
+      "score": 366
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "vitodo added to PyPI",
+      "url": "https://pypi.org/project/vitodo/"
+    },
+    {
+      "name": "tmsf-core added to PyPI",
+      "url": "https://pypi.org/project/tmsf-core/"
+    },
+    {
+      "name": "tmqperftest added to PyPI",
+      "url": "https://pypi.org/project/tmqperftest/"
+    },
+    {
+      "name": "tmqlite-client added to PyPI",
+      "url": "https://pypi.org/project/tmqlite-client/"
+    },
+    {
+      "name": "iflow-mcp_rusiaaman_wcgw added to PyPI",
+      "url": "https://pypi.org/project/iflow-mcp-rusiaaman-wcgw/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
