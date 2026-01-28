@@ -2,61 +2,61 @@
   "date": "2026-01-28",
   "github_trending": [
     {
-      "title": "DigitalPlatDev/FreeDomain",
-      "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "stars": 143908,
-      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
-    },
-    {
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars": 111442,
+      "stars": 111525,
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models"
     },
     {
       "title": "deepseek-ai/DeepSeek-V3",
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-      "stars": 101355,
+      "stars": 101361,
       "description": null
     },
     {
       "title": "google-gemini/gemini-cli",
       "url": "https://github.com/google-gemini/gemini-cli",
-      "stars": 92760,
+      "stars": 92817,
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal."
     },
     {
       "title": "deepseek-ai/DeepSeek-R1",
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
-      "stars": 91784,
+      "stars": 91788,
       "description": null
+    },
+    {
+      "title": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "stars": 90909,
+      "description": "The open source coding agent."
     }
   ],
   "hackernews_top": [
     {
-      "title": "Super Monkey Ball ported to a website",
-      "url": "https://monkeyball-online.pages.dev/",
-      "score": 128
+      "title": "Show HN: The HN Arcade",
+      "url": "https://andrewgy8.github.io/hnarcade/",
+      "score": 67
     },
     {
-      "title": "Apple MacBook Pro order deliveries delayed until mid March",
-      "url": "https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-standard-display-apple-m4-max-with-16-core-cpu-and-40-core-gpu-48gb-memory-1tb",
-      "score": 44
+      "title": "There's only one Woz, but we can all learn from him",
+      "url": "https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award",
+      "score": 143
     },
     {
-      "title": "AI found 12 vulnerabilities in OpenSSL",
-      "url": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
-      "score": 52
+      "title": "ICE and Palantir: US agents using health data to hunt illegal immigrants",
+      "url": "https://www.bmj.com/content/392/bmj.s168",
+      "score": 7
     },
     {
       "title": "Prism",
       "url": "https://openai.com/index/introducing-prism",
-      "score": 481
+      "score": 667
     },
     {
-      "title": "430k-year-old well-preserved wooden tools are the oldest ever found",
-      "url": "https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html",
-      "score": 366
+      "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
+      "url": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
+      "score": 72
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "vitodo added to PyPI",
-      "url": "https://pypi.org/project/vitodo/"
+      "name": "house-data-extract added to PyPI",
+      "url": "https://pypi.org/project/house-data-extract/"
     },
     {
-      "name": "tmsf-core added to PyPI",
-      "url": "https://pypi.org/project/tmsf-core/"
+      "name": "house-data-construct added to PyPI",
+      "url": "https://pypi.org/project/house-data-construct/"
     },
     {
-      "name": "tmqperftest added to PyPI",
-      "url": "https://pypi.org/project/tmqperftest/"
+      "name": "house-data-camera added to PyPI",
+      "url": "https://pypi.org/project/house-data-camera/"
     },
     {
-      "name": "tmqlite-client added to PyPI",
-      "url": "https://pypi.org/project/tmqlite-client/"
+      "name": "cielo-edi added to PyPI",
+      "url": "https://pypi.org/project/cielo-edi/"
     },
     {
-      "name": "iflow-mcp_rusiaaman_wcgw added to PyPI",
-      "url": "https://pypi.org/project/iflow-mcp-rusiaaman-wcgw/"
+      "name": "house-data-adjust added to PyPI",
+      "url": "https://pypi.org/project/house-data-adjust/"
     }
   ],
   "summary": {
