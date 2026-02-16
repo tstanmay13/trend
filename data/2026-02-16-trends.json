@@ -1,0 +1,111 @@
+{
+  "date": "2026-02-16",
+  "github_trending": [
+    {
+      "title": "inkonchain/ink-kit",
+      "url": "https://github.com/inkonchain/ink-kit",
+      "stars": 36712,
+      "description": "React component library for onchain applications - See README for modern alternatives"
+    },
+    {
+      "title": "FujiwaraChoki/MoneyPrinter",
+      "url": "https://github.com/FujiwaraChoki/MoneyPrinter",
+      "stars": 12404,
+      "description": "Automate Creation of YouTube Shorts using MoviePy."
+    },
+    {
+      "title": "fudan-generative-vision/hallo",
+      "url": "https://github.com/fudan-generative-vision/hallo",
+      "stars": 8643,
+      "description": "Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation"
+    },
+    {
+      "title": "jiangrui1994/CloudSaver",
+      "url": "https://github.com/jiangrui1994/CloudSaver",
+      "stars": 8534,
+      "description": "\u4e00\u4e2a\u57fa\u4e8e Vue 3 + Express \u7684\u7f51\u76d8\u8d44\u6e90\u641c\u7d22\u4e0e\u8f6c\u5b58\u5de5\u5177\u3002"
+    },
+    {
+      "title": "WangRongsheng/awesome-LLM-resources",
+      "url": "https://github.com/WangRongsheng/awesome-LLM-resources",
+      "stars": 7535,
+      "description": "\ud83e\uddd1\u200d\ud83d\ude80 \u5168\u4e16\u754c\u6700\u597d\u7684LLM\u8d44\u6599\u603b\u7ed3\uff08\u591a\u6a21\u6001\u751f\u6210\u3001Agent\u3001\u8f85\u52a9\u7f16\u7a0b\u3001AI\u5ba1\u7a3f\u3001\u6570\u636e\u5904\u7406\u3001\u6a21\u578b\u8bad\u7ec3\u3001\u6a21\u578b\u63a8\u7406\u3001o1 \u6a21\u578b\u3001MCP\u3001\u5c0f\u8bed\u8a00\u6a21\u578b\u3001\u89c6\u89c9\u8bed\u8a00\u6a21\u578b\uff09 | Summary of the world's best LLM resources. "
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "H-1B Exposed: The Talent Shortage Is a Myth",
+      "url": "https://www.h1bexposed.tech/",
+      "score": 34
+    },
+    {
+      "title": "Study: Self-generated Agent Skills are useless",
+      "url": "https://arxiv.org/abs/2602.12670",
+      "score": 122
+    },
+    {
+      "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+      "url": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+      "score": 309
+    },
+    {
+      "title": "Running NanoClaw in a Docker Shell Sandbox",
+      "url": "https://www.docker.com/blog/run-nanoclaw-in-docker-shell-sandboxes/",
+      "score": 20
+    },
+    {
+      "title": "Suicide Linux (2009)",
+      "url": "https://qntm.org/suicide",
+      "score": 60
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "dpgmm added to PyPI",
+      "url": "https://pypi.org/project/dpgmm/"
+    },
+    {
+      "name": "django-dagster added to PyPI",
+      "url": "https://pypi.org/project/django-dagster/"
+    },
+    {
+      "name": "table-stream added to PyPI",
+      "url": "https://pypi.org/project/table-stream/"
+    },
+    {
+      "name": "mcp-codebase-index added to PyPI",
+      "url": "https://pypi.org/project/mcp-codebase-index/"
+    },
+    {
+      "name": "yuzuha added to PyPI",
+      "url": "https://pypi.org/project/yuzuha/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
