@@ -1,0 +1,111 @@
+{
+  "date": "2026-02-19",
+  "github_trending": [
+    {
+      "title": "Zejun-Yang/AniPortrait",
+      "url": "https://github.com/Zejun-Yang/AniPortrait",
+      "stars": 5019,
+      "description": "AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation"
+    },
+    {
+      "title": "google/pebble",
+      "url": "https://github.com/google/pebble",
+      "stars": 4964,
+      "description": "This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only."
+    },
+    {
+      "title": "Netflix/maestro",
+      "url": "https://github.com/Netflix/maestro",
+      "stars": 3722,
+      "description": "Maestro: Netflix\u2019s Workflow Orchestrator"
+    },
+    {
+      "title": "CosmosShadow/gptpdf",
+      "url": "https://github.com/CosmosShadow/gptpdf",
+      "stars": 3562,
+      "description": "Using GPT to parse PDF"
+    },
+    {
+      "title": "zhengkyl/qrframe",
+      "url": "https://github.com/zhengkyl/qrframe",
+      "stars": 3361,
+      "description": "code-based qr code designer"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Show HN: Micasa \u2013 track your house from the terminal",
+      "url": "https://micasa.dev",
+      "score": 163
+    },
+    {
+      "title": "Archaeologists find possible first direct evidence of Hannibal's war elephants",
+      "url": "https://www.smithsonianmag.com/smart-news/archaeologists-unearthed-a-2200-year-old-bone-they-say-it-could-be-the-first-direct-evidence-of-hannibals-legendary-war-elephants-180988185/",
+      "score": 16
+    },
+    {
+      "title": "Gemini 3.1 Pro",
+      "url": "https://deepmind.google/models/model-cards/gemini-3-1-pro/",
+      "score": 494
+    },
+    {
+      "title": "A terminal weather app with ASCII animations driven by real-time weather data",
+      "url": "https://github.com/Veirt/weathr",
+      "score": 38
+    },
+    {
+      "title": "Pebble Production: February Update",
+      "url": "https://repebble.com/blog/february-pebble-production-and-software-updates",
+      "score": 210
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "sardis-agent-sdk added to PyPI",
+      "url": "https://pypi.org/project/sardis-agent-sdk/"
+    },
+    {
+      "name": "sardis-adk added to PyPI",
+      "url": "https://pypi.org/project/sardis-adk/"
+    },
+    {
+      "name": "sardis-crewai added to PyPI",
+      "url": "https://pypi.org/project/sardis-crewai/"
+    },
+    {
+      "name": "sardis-langchain added to PyPI",
+      "url": "https://pypi.org/project/sardis-langchain/"
+    },
+    {
+      "name": "timeplus-taxi-simulator added to PyPI",
+      "url": "https://pypi.org/project/timeplus-taxi-simulator/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
