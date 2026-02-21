@@ -1,0 +1,111 @@
+{
+  "date": "2026-02-21",
+  "github_trending": [
+    {
+      "title": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "stars": 107731,
+      "description": "The open source coding agent."
+    },
+    {
+      "title": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "stars": 28539,
+      "description": "Official inference framework for 1-bit LLMs"
+    },
+    {
+      "title": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "stars": 25501,
+      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses."
+    },
+    {
+      "title": "black-forest-labs/flux",
+      "url": "https://github.com/black-forest-labs/flux",
+      "stars": 25219,
+      "description": "Official inference repo for FLUX.1 models"
+    },
+    {
+      "title": "lbjlaq/Antigravity-Manager",
+      "url": "https://github.com/lbjlaq/Antigravity-Manager",
+      "stars": 23795,
+      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).\u4e13\u4e1a\u7684 Antigravity \u8d26\u53f7\u7ba1\u7406\u4e0e\u5207\u6362\u5de5\u5177\u3002\u4e3a Antigravity \u63d0\u4f9b\u4e00\u952e\u65e0\u7f1d\u8d26\u53f7\u5207\u6362\u529f\u80fd\u3002"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Keep Android Open",
+      "url": "https://f-droid.org/2026/02/20/twif.html",
+      "score": 1177
+    },
+    {
+      "title": "Turn Dependabot Off",
+      "url": "https://words.filippo.io/dependabot/",
+      "score": 323
+    },
+    {
+      "title": "CERN rebuilt the original browser from 1989 (2019)",
+      "url": "https://worldwideweb.cern.ch",
+      "score": 113
+    },
+    {
+      "title": "I found a Vulnerability. They found a Lawyer",
+      "url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+      "score": 399
+    },
+    {
+      "title": "Facebook is cooked",
+      "url": "https://pilk.website/3/facebook-is-absolutely-cooked",
+      "score": 821
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "litestar-websockets added to PyPI",
+      "url": "https://pypi.org/project/litestar-websockets/"
+    },
+    {
+      "name": "chitin-engine-lib added to PyPI",
+      "url": "https://pypi.org/project/chitin-engine-lib/"
+    },
+    {
+      "name": "gaya added to PyPI",
+      "url": "https://pypi.org/project/gaya/"
+    },
+    {
+      "name": "litestar-graphql added to PyPI",
+      "url": "https://pypi.org/project/litestar-graphql/"
+    },
+    {
+      "name": "graphitorm added to PyPI",
+      "url": "https://pypi.org/project/graphitorm/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
