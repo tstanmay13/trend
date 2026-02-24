@@ -1,0 +1,111 @@
+{
+  "date": "2026-02-24",
+  "github_trending": [
+    {
+      "title": "nashsu/FreeAskInternet",
+      "url": "https://github.com/nashsu/FreeAskInternet",
+      "stars": 8729,
+      "description": "FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use. "
+    },
+    {
+      "title": "fudan-generative-vision/hallo",
+      "url": "https://github.com/fudan-generative-vision/hallo",
+      "stars": 8644,
+      "description": "Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation"
+    },
+    {
+      "title": "lllyasviel/IC-Light",
+      "url": "https://github.com/lllyasviel/IC-Light",
+      "stars": 8373,
+      "description": "More relighting!"
+    },
+    {
+      "title": "MightyMoud/sidekick",
+      "url": "https://github.com/MightyMoud/sidekick",
+      "stars": 7340,
+      "description": "Bare metal to production ready in mins; your own fly server on your VPS."
+    },
+    {
+      "title": "apple/corenet",
+      "url": "https://github.com/apple/corenet",
+      "stars": 7010,
+      "description": "CoreNet: A library for training deep neural networks"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Terence Tao, at 8 years old (1984) [pdf]",
+      "url": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
+      "score": 246
+    },
+    {
+      "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+      "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+      "score": 226
+    },
+    {
+      "title": "Show HN: enveil \u2013 hide your .env secrets from prAIng eyes",
+      "url": "https://github.com/GreatScott/enveil",
+      "score": 74
+    },
+    {
+      "title": "Diode \u2013 Build, program, and simulate hardware",
+      "url": "https://www.withdiode.com/",
+      "score": 30
+    },
+    {
+      "title": "I Ported Coreboot to the ThinkPad X270",
+      "url": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
+      "score": 190
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "polymarklib added to PyPI",
+      "url": "https://pypi.org/project/polymarklib/"
+    },
+    {
+      "name": "iosef added to PyPI",
+      "url": "https://pypi.org/project/iosef/"
+    },
+    {
+      "name": "stratum-mcp added to PyPI",
+      "url": "https://pypi.org/project/stratum-mcp/"
+    },
+    {
+      "name": "stratum-py added to PyPI",
+      "url": "https://pypi.org/project/stratum-py/"
+    },
+    {
+      "name": "t4mga added to PyPI",
+      "url": "https://pypi.org/project/t4mga/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
