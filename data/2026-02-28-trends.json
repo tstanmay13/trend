@@ -1,0 +1,111 @@
+{
+  "date": "2026-02-28",
+  "github_trending": [
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 149723,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    },
+    {
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 79645,
+      "description": "Model Context Protocol Servers"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars": 65018,
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "title": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "stars": 61117,
+      "description": "\ud83d\ude80\ud83e\udd16 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN"
+    },
+    {
+      "title": "dockur/windows",
+      "url": "https://github.com/dockur/windows",
+      "stars": 50144,
+      "description": "Windows inside a Docker container."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "We Will Not Be Divided",
+      "url": "https://notdivided.org",
+      "score": 873
+    },
+    {
+      "title": "Statement on the comments from Secretary of War Pete Hegseth",
+      "url": "https://www.anthropic.com/news/statement-comments-secretary-war",
+      "score": 646
+    },
+    {
+      "title": "Don't use passkeys for encrypting user data",
+      "url": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
+      "score": 51
+    },
+    {
+      "title": "Croatia declared free of landmines after 31 years",
+      "url": "https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533",
+      "score": 27
+    },
+    {
+      "title": "OpenAI raises $110B on $730B pre-money valuation",
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "score": 431
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "proxy-doctor added to PyPI",
+      "url": "https://pypi.org/project/proxy-doctor/"
+    },
+    {
+      "name": "switch-up added to PyPI",
+      "url": "https://pypi.org/project/switch-up/"
+    },
+    {
+      "name": "tinyhumansai added to PyPI",
+      "url": "https://pypi.org/project/tinyhumansai/"
+    },
+    {
+      "name": "agentmesh-python added to PyPI",
+      "url": "https://pypi.org/project/agentmesh-python/"
+    },
+    {
+      "name": "tesla123 added to PyPI",
+      "url": "https://pypi.org/project/tesla123/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
