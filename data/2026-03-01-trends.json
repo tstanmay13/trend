@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-01",
+  "github_trending": [
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 101811,
+      "description": null
+    },
+    {
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "stars": 79750,
+      "description": "Model Context Protocol Servers"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars": 66423,
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "title": "dockur/windows",
+      "url": "https://github.com/dockur/windows",
+      "stars": 50165,
+      "description": "Windows inside a Docker container."
+    },
+    {
+      "title": "upstash/context7",
+      "url": "https://github.com/upstash/context7",
+      "stars": 47289,
+      "description": "Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Microgpt",
+      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+      "score": 916
+    },
+    {
+      "title": "Decision trees \u2013 the unreasonable power of nested decision rules",
+      "url": "https://mlu-explain.github.io/decision-tree/",
+      "score": 69
+    },
+    {
+      "title": "10-202: Introduction to Modern AI (CMU)",
+      "url": "https://modernaicourse.org",
+      "score": 63
+    },
+    {
+      "title": "Why is the first C++ (m)allocation always 72 KB?",
+      "url": "https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/",
+      "score": 29
+    },
+    {
+      "title": "We do not think Anthropic should be designated as a supply chain risk",
+      "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+      "score": 574
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "gshield added to PyPI",
+      "url": "https://pypi.org/project/gshield/"
+    },
+    {
+      "name": "fakedata-mcp added to PyPI",
+      "url": "https://pypi.org/project/fakedata-mcp/"
+    },
+    {
+      "name": "pijector added to PyPI",
+      "url": "https://pypi.org/project/pijector/"
+    },
+    {
+      "name": "chronometry-ai added to PyPI",
+      "url": "https://pypi.org/project/chronometry-ai/"
+    },
+    {
+      "name": "agent-vault-sdk added to PyPI",
+      "url": "https://pypi.org/project/agent-vault-sdk/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
