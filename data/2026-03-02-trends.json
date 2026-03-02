@@ -1,0 +1,80 @@
+{
+  "date": "2026-03-02",
+  "github_trending": [],
+  "hackernews_top": [
+    {
+      "title": "Motorola announces a partnership with GrapheneOS Foundation",
+      "url": "https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/",
+      "score": 851
+    },
+    {
+      "title": "/e/OS is a complete \"deGoogled\", mobile ecosystem",
+      "url": "https://e.foundation/e-os/",
+      "score": 247
+    },
+    {
+      "title": "Claude Code LSP",
+      "url": "https://karanbansal.in/blog/claude-code-lsp/",
+      "score": 35
+    },
+    {
+      "title": "U.S. science agency moves to restrict foreign scientists from its labs",
+      "url": "https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs",
+      "score": 77
+    },
+    {
+      "title": "Making Video Games in 2025 (without an engine)",
+      "url": "https://www.noelberry.ca/posts/making_games_in_2025/",
+      "score": 206
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "surgex added to PyPI",
+      "url": "https://pypi.org/project/surgex/"
+    },
+    {
+      "name": "logs-spectre added to PyPI",
+      "url": "https://pypi.org/project/logs-spectre/"
+    },
+    {
+      "name": "idds-prompt added to PyPI",
+      "url": "https://pypi.org/project/idds-prompt/"
+    },
+    {
+      "name": "panospace added to PyPI",
+      "url": "https://pypi.org/project/panospace/"
+    },
+    {
+      "name": "crocoprompt added to PyPI",
+      "url": "https://pypi.org/project/crocoprompt/"
+    }
+  ],
+  "summary": {
+    "total_items": 15,
+    "sources_with_data": 3
+  }
+}
