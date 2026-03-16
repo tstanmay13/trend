@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-16",
+  "github_trending": [
+    {
+      "title": "Stability-AI/StableCascade",
+      "url": "https://github.com/Stability-AI/StableCascade",
+      "stars": 6576,
+      "description": "Official Code for Stable Cascade"
+    },
+    {
+      "title": "PKU-Alignment/align-anything",
+      "url": "https://github.com/PKU-Alignment/align-anything",
+      "stars": 4635,
+      "description": "Align Anything: Training All-modality Model with Feedback"
+    },
+    {
+      "title": "Saiyan-World/goku",
+      "url": "https://github.com/Saiyan-World/goku",
+      "stars": 2902,
+      "description": "[CVPR2025 Highlight] Video Generation Foundation Models: https://saiyan-world.github.io/goku/"
+    },
+    {
+      "title": "Everlyn-Labs/Everlyn-1",
+      "url": "https://github.com/Everlyn-Labs/Everlyn-1",
+      "stars": 2892,
+      "description": "The first open autoregressive foundational video AI model."
+    },
+    {
+      "title": "buaacyw/MeshAnything",
+      "url": "https://github.com/buaacyw/MeshAnything",
+      "stars": 2272,
+      "description": "[ICLR 2025] From anything to mesh like human artists. Official impl. of \"MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers\""
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Corruption erodes social trust more in democracies than in autocracies",
+      "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
+      "score": 94
+    },
+    {
+      "title": "Polymarket gamblers threaten to kill me over Iran missile story",
+      "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+      "score": 242
+    },
+    {
+      "title": "Canada's bill C-22 mandates mass metadata surveillance",
+      "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+      "score": 814
+    },
+    {
+      "title": "The \"are you sure?\" Problem: Why AI keeps changing its mind",
+      "url": "https://www.randalolson.com/2026/02/07/the-are-you-sure-problem-why-your-ai-keeps-changing-its-mind/",
+      "score": 13
+    },
+    {
+      "title": "How I write software with LLMs",
+      "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
+      "score": 299
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "libfyaml added to PyPI",
+      "url": "https://pypi.org/project/libfyaml/"
+    },
+    {
+      "name": "codeshouhu added to PyPI",
+      "url": "https://pypi.org/project/codeshouhu/"
+    },
+    {
+      "name": "matelot added to PyPI",
+      "url": "https://pypi.org/project/matelot/"
+    },
+    {
+      "name": "neuralchemy added to PyPI",
+      "url": "https://pypi.org/project/neuralchemy/"
+    },
+    {
+      "name": "fpl-intelligence added to PyPI",
+      "url": "https://pypi.org/project/fpl-intelligence/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
