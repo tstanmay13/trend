@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-22",
+  "github_trending": [
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 83793,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "stars": 38838,
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269"
+    },
+    {
+      "title": "PatrickJS/awesome-cursorrules",
+      "url": "https://github.com/PatrickJS/awesome-cursorrules",
+      "stars": 38614,
+      "description": "\ud83d\udcc4  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors"
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "stars": 36213,
+      "description": "Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+    },
+    {
+      "title": "block/goose",
+      "url": "https://github.com/block/goose",
+      "stars": 33408,
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "The three pillars of JavaScript bloat",
+      "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+      "score": 289
+    },
+    {
+      "title": "My first patch to the Linux kernel",
+      "url": "https://pooladkhay.com/posts/first-kernel-patch/",
+      "score": 98
+    },
+    {
+      "title": "Hormuz Minesweeper \u2013 Are you tired of winning?",
+      "url": "https://hormuz.pythonic.ninja/",
+      "score": 16
+    },
+    {
+      "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
+      "url": "https://zenodo.org/records/18976656",
+      "score": 24
+    },
+    {
+      "title": "Tinybox \u2013 A powerful computer for deep learning",
+      "url": "https://tinygrad.org/#tinybox",
+      "score": 495
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "gh-cherry-pick added to PyPI",
+      "url": "https://pypi.org/project/gh-cherry-pick/"
+    },
+    {
+      "name": "brightohir added to PyPI",
+      "url": "https://pypi.org/project/brightohir/"
+    },
+    {
+      "name": "k-mail-mcp added to PyPI",
+      "url": "https://pypi.org/project/k-mail-mcp/"
+    },
+    {
+      "name": "google-adk-strale added to PyPI",
+      "url": "https://pypi.org/project/google-adk-strale/"
+    },
+    {
+      "name": "parallax-rl added to PyPI",
+      "url": "https://pypi.org/project/parallax-rl/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
