@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-27",
+  "github_trending": [
+    {
+      "title": "xjdr-alt/entropix",
+      "url": "https://github.com/xjdr-alt/entropix",
+      "stars": 3434,
+      "description": "Entropy Based Sampling and Parallel CoT Decoding "
+    },
+    {
+      "title": "Everlyn-Labs/Everlyn-1",
+      "url": "https://github.com/Everlyn-Labs/Everlyn-1",
+      "stars": 2892,
+      "description": "The first open autoregressive foundational video AI model."
+    },
+    {
+      "title": "om-ai-lab/OmAgent",
+      "url": "https://github.com/om-ai-lab/OmAgent",
+      "stars": 2634,
+      "description": "[EMNLP-2024] Build multimodal language agents for fast prototype and production"
+    },
+    {
+      "title": "OnedocLabs/react-print-pdf",
+      "url": "https://github.com/OnedocLabs/react-print-pdf",
+      "stars": 2543,
+      "description": "Build and generate PDF using React \ud83d\udcc4 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF."
+    },
+    {
+      "title": "huggingface/lighteval",
+      "url": "https://github.com/huggingface/lighteval",
+      "stars": 2360,
+      "description": "Lighteval is your all-in-one toolkit for evaluating LLMs across multiple backends"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Anatomy of the .claude/ folder",
+      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "score": 225
+    },
+    {
+      "title": "Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot",
+      "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
+      "score": 132
+    },
+    {
+      "title": "Sand from Different Beaches in the World",
+      "url": "https://magnifiedsand.com/",
+      "score": 76
+    },
+    {
+      "title": "Desk for people who work at home with a cat",
+      "url": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
+      "score": 190
+    },
+    {
+      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+      "score": 151
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "agency-pytest-agent-reporter added to PyPI",
+      "url": "https://pypi.org/project/agency-pytest-agent-reporter/"
+    },
+    {
+      "name": "agent-actions added to PyPI",
+      "url": "https://pypi.org/project/agent-actions/"
+    },
+    {
+      "name": "cfcc added to PyPI",
+      "url": "https://pypi.org/project/cfcc/"
+    },
+    {
+      "name": "psyphy added to PyPI",
+      "url": "https://pypi.org/project/psyphy/"
+    },
+    {
+      "name": "django-stripe-hooks added to PyPI",
+      "url": "https://pypi.org/project/django-stripe-hooks/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
