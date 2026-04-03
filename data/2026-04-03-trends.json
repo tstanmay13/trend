@@ -1,0 +1,111 @@
+{
+  "date": "2026-04-03",
+  "github_trending": [
+    {
+      "title": "spaceandtimefdn/sxt-proof-of-sql",
+      "url": "https://github.com/spaceandtimefdn/sxt-proof-of-sql",
+      "stars": 5467,
+      "description": "Space and Time | Proof of SQL"
+    },
+    {
+      "title": "openai/transformer-debugger",
+      "url": "https://github.com/openai/transformer-debugger",
+      "stars": 4109,
+      "description": null
+    },
+    {
+      "title": "armankhondker/best-leetcode-resources",
+      "url": "https://github.com/armankhondker/best-leetcode-resources",
+      "stars": 3786,
+      "description": "Learn LeetCode and prepare for coding interviews with free resources. "
+    },
+    {
+      "title": "corbt/agent.exe",
+      "url": "https://github.com/corbt/agent.exe",
+      "stars": 3494,
+      "description": null
+    },
+    {
+      "title": "NovaSky-AI/SkyThought",
+      "url": "https://github.com/NovaSky-AI/SkyThought",
+      "stars": 3372,
+      "description": "Sky-T1: Train your own O1 preview model within $450"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Show HN: I built a frontpage for personal blogs",
+      "url": "https://text.blogosphere.app/",
+      "score": 103
+    },
+    {
+      "title": "TDF ejects its core developers",
+      "url": "https://meeksfamily.uk/~michael/blog/2026-04-02-tdf-ejects-core-devs.html",
+      "score": 54
+    },
+    {
+      "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+      "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
+      "score": 117
+    },
+    {
+      "title": "Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "score": 1607
+    },
+    {
+      "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
+      "url": "https://apfel.franzai.com",
+      "score": 344
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "ocp-cloud-intake-agent added to PyPI",
+      "url": "https://pypi.org/project/ocp-cloud-intake-agent/"
+    },
+    {
+      "name": "ms365-toolkit-mcp added to PyPI",
+      "url": "https://pypi.org/project/ms365-toolkit-mcp/"
+    },
+    {
+      "name": "ms365-toolkit added to PyPI",
+      "url": "https://pypi.org/project/ms365-toolkit/"
+    },
+    {
+      "name": "fastafood added to PyPI",
+      "url": "https://pypi.org/project/fastafood/"
+    },
+    {
+      "name": "django-api-readme added to PyPI",
+      "url": "https://pypi.org/project/django-api-readme/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
