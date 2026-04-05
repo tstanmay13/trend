@@ -1,0 +1,111 @@
+{
+  "date": "2026-04-05",
+  "github_trending": [
+    {
+      "title": "spaceandtimefdn/sxt-proof-of-sql",
+      "url": "https://github.com/spaceandtimefdn/sxt-proof-of-sql",
+      "stars": 5467,
+      "description": "Space and Time | Proof of SQL"
+    },
+    {
+      "title": "armankhondker/best-leetcode-resources",
+      "url": "https://github.com/armankhondker/best-leetcode-resources",
+      "stars": 3786,
+      "description": "Learn LeetCode and prepare for coding interviews with free resources. "
+    },
+    {
+      "title": "NovaSky-AI/SkyThought",
+      "url": "https://github.com/NovaSky-AI/SkyThought",
+      "stars": 3372,
+      "description": "Sky-T1: Train your own O1 preview model within $450"
+    },
+    {
+      "title": "jy0205/Pyramid-Flow",
+      "url": "https://github.com/jy0205/Pyramid-Flow",
+      "stars": 3178,
+      "description": "[ICLR 2025] Pyramidal Flow Matching for Efficient Video Generative Modeling"
+    },
+    {
+      "title": "Everlyn-Labs/Everlyn-1",
+      "url": "https://github.com/Everlyn-Labs/Everlyn-1",
+      "stars": 2892,
+      "description": "The first open autoregressive foundational video AI model."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Show HN: A game where you build a GPU",
+      "url": "https://jaso1024.com/mvidia/",
+      "score": 734
+    },
+    {
+      "title": "Introduction to Computer Music (2009) [pdf]",
+      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+      "score": 151
+    },
+    {
+      "title": "OpenScreen is an open-source alternative to Screen Studio",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "score": 281
+    },
+    {
+      "title": "Lisette a little language inspired by Rust that compiles to Go",
+      "url": "https://lisette.run/",
+      "score": 36
+    },
+    {
+      "title": "German implementation of eIDAS will require an Apple/Google account to function",
+      "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+      "score": 244
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "Code2Text added to PyPI",
+      "url": "https://pypi.org/project/code2text/"
+    },
+    {
+      "name": "lens-research added to PyPI",
+      "url": "https://pypi.org/project/lens-research/"
+    },
+    {
+      "name": "pflm added to PyPI",
+      "url": "https://pypi.org/project/pflm/"
+    },
+    {
+      "name": "mb-sc-tools added to PyPI",
+      "url": "https://pypi.org/project/mb-sc-tools/"
+    },
+    {
+      "name": "bijux-canon-reason added to PyPI",
+      "url": "https://pypi.org/project/bijux-canon-reason/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
