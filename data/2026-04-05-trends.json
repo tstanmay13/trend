@@ -2,10 +2,10 @@
   "date": "2026-04-05",
   "github_trending": [
     {
-      "title": "spaceandtimefdn/sxt-proof-of-sql",
-      "url": "https://github.com/spaceandtimefdn/sxt-proof-of-sql",
-      "stars": 5467,
-      "description": "Space and Time | Proof of SQL"
+      "title": "openai/transformer-debugger",
+      "url": "https://github.com/openai/transformer-debugger",
+      "stars": 4109,
+      "description": null
     },
     {
       "title": "armankhondker/best-leetcode-resources",
@@ -14,49 +14,49 @@
       "description": "Learn LeetCode and prepare for coding interviews with free resources. "
     },
     {
-      "title": "NovaSky-AI/SkyThought",
-      "url": "https://github.com/NovaSky-AI/SkyThought",
-      "stars": 3372,
-      "description": "Sky-T1: Train your own O1 preview model within $450"
-    },
-    {
       "title": "jy0205/Pyramid-Flow",
       "url": "https://github.com/jy0205/Pyramid-Flow",
       "stars": 3178,
       "description": "[ICLR 2025] Pyramidal Flow Matching for Efficient Video Generative Modeling"
     },
     {
-      "title": "Everlyn-Labs/Everlyn-1",
-      "url": "https://github.com/Everlyn-Labs/Everlyn-1",
-      "stars": 2892,
-      "description": "The first open autoregressive foundational video AI model."
+      "title": "stanford-cs336/lectures",
+      "url": "https://github.com/stanford-cs336/lectures",
+      "stars": 2841,
+      "description": null
+    },
+    {
+      "title": "iliane5/meridian",
+      "url": "https://github.com/iliane5/meridian",
+      "stars": 2395,
+      "description": "Meridian cuts through news noise by scraping hundreds of sources, analyzing stories with AI, and delivering concise, personalized daily briefs."
     }
   ],
   "hackernews_top": [
     {
-      "title": "Show HN: A game where you build a GPU",
-      "url": "https://jaso1024.com/mvidia/",
-      "score": 734
+      "title": "Gemma 4 on iPhone",
+      "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+      "score": 87
     },
     {
-      "title": "Introduction to Computer Music (2009) [pdf]",
-      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-      "score": 151
+      "title": "Artemis II crew see first glimpse of far side of Moon [video]",
+      "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
+      "score": 301
     },
     {
-      "title": "OpenScreen is an open-source alternative to Screen Studio",
-      "url": "https://github.com/siddharthvaddem/openscreen",
-      "score": 281
+      "title": "L\u00d6VE: 2D Game Framework for Lua",
+      "url": "https://github.com/love2d/love",
+      "score": 40
     },
     {
-      "title": "Lisette a little language inspired by Rust that compiles to Go",
-      "url": "https://lisette.run/",
-      "score": 36
+      "title": "Eight years of wanting, three months of building with AI",
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "score": 420
     },
     {
-      "title": "German implementation of eIDAS will require an Apple/Google account to function",
-      "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-      "score": 244
+      "title": "Caveman: Why use many token when few token do trick",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "score": 560
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "Code2Text added to PyPI",
-      "url": "https://pypi.org/project/code2text/"
+      "name": "mcparmory-ahrefs added to PyPI",
+      "url": "https://pypi.org/project/mcparmory-ahrefs/"
     },
     {
-      "name": "lens-research added to PyPI",
-      "url": "https://pypi.org/project/lens-research/"
+      "name": "convergence-clubs added to PyPI",
+      "url": "https://pypi.org/project/convergence-clubs/"
     },
     {
-      "name": "pflm added to PyPI",
-      "url": "https://pypi.org/project/pflm/"
+      "name": "django-click-uz added to PyPI",
+      "url": "https://pypi.org/project/django-click-uz/"
     },
     {
-      "name": "mb-sc-tools added to PyPI",
-      "url": "https://pypi.org/project/mb-sc-tools/"
+      "name": "termux-app-store added to PyPI",
+      "url": "https://pypi.org/project/termux-app-store/"
     },
     {
-      "name": "bijux-canon-reason added to PyPI",
-      "url": "https://pypi.org/project/bijux-canon-reason/"
+      "name": "lumen-py added to PyPI",
+      "url": "https://pypi.org/project/lumen-py/"
     }
   ],
   "summary": {
