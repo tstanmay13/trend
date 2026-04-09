@@ -1,0 +1,111 @@
+{
+  "date": "2026-04-09",
+  "github_trending": [
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "stars": 178410,
+      "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars \u2b50. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex."
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "stars": 102530,
+      "description": null
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "stars": 84410,
+      "description": "A collection of MCP servers."
+    },
+    {
+      "title": "daytonaio/daytona",
+      "url": "https://github.com/daytonaio/daytona",
+      "stars": 72064,
+      "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code"
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "stars": 67395,
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "LittleSnitch for Linux",
+      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "score": 118
+    },
+    {
+      "title": "I ported Mac OS X to the Nintendo Wii",
+      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+      "score": 1254
+    },
+    {
+      "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+      "url": "https://werwolv.net/posts/usb_for_sw_devs/",
+      "score": 185
+    },
+    {
+      "title": "Understanding the Kalman filter with a simple radar example",
+      "url": "https://kalmanfilter.net",
+      "score": 230
+    },
+    {
+      "title": "What does it mean to \u201cwrite like you talk\u201d?",
+      "url": "https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you",
+      "score": 20
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "kiwiskil added to PyPI",
+      "url": "https://pypi.org/project/kiwiskil/"
+    },
+    {
+      "name": "auf-deutsch added to PyPI",
+      "url": "https://pypi.org/project/auf-deutsch/"
+    },
+    {
+      "name": "mcp-authflow-resource added to PyPI",
+      "url": "https://pypi.org/project/mcp-authflow-resource/"
+    },
+    {
+      "name": "mcp-authflow added to PyPI",
+      "url": "https://pypi.org/project/mcp-authflow/"
+    },
+    {
+      "name": "geny-executor added to PyPI",
+      "url": "https://pypi.org/project/geny-executor/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
