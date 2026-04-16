@@ -1,0 +1,111 @@
+{
+  "date": "2026-04-16",
+  "github_trending": [
+    {
+      "title": "LargeWorldModel/LWM",
+      "url": "https://github.com/LargeWorldModel/LWM",
+      "stars": 7407,
+      "description": "Large World Model -- Modeling Text and Video with Millions Context"
+    },
+    {
+      "title": "nishant-Tiwari24/coding-resources",
+      "url": "https://github.com/nishant-Tiwari24/coding-resources",
+      "stars": 3600,
+      "description": null
+    },
+    {
+      "title": "linyiLYi/bilibot",
+      "url": "https://github.com/linyiLYi/bilibot",
+      "stars": 3152,
+      "description": "A local chatbot fine-tuned by bilibili user comments."
+    },
+    {
+      "title": "sparrowapp-dev/sparrow-app",
+      "url": "https://github.com/sparrowapp-dev/sparrow-app",
+      "stars": 2579,
+      "description": "Your next-gen API testing and development tool."
+    },
+    {
+      "title": "fal-ai-community/video-starter-kit",
+      "url": "https://github.com/fal-ai-community/video-starter-kit",
+      "stars": 2336,
+      "description": "Enable AI models for video production in the browser"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "IPv6 traffic crosses the 50% mark",
+      "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
+      "score": 391
+    },
+    {
+      "title": "Codex Hacked a Samsung TV",
+      "url": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
+      "score": 40
+    },
+    {
+      "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
+      "url": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf",
+      "score": 16
+    },
+    {
+      "title": "Darkbloom \u2013 Private inference on idle Macs",
+      "url": "https://darkbloom.dev",
+      "score": 281
+    },
+    {
+      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+      "url": "https://daedal.io/@thomzane/116410863009847575",
+      "score": 205
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "pipcl added to PyPI",
+      "url": "https://pypi.org/project/pipcl/"
+    },
+    {
+      "name": "fastf1-mcp-server added to PyPI",
+      "url": "https://pypi.org/project/fastf1-mcp-server/"
+    },
+    {
+      "name": "pggm-dpt-toolkit added to PyPI",
+      "url": "https://pypi.org/project/pggm-dpt-toolkit/"
+    },
+    {
+      "name": "wagtail-admin-files added to PyPI",
+      "url": "https://pypi.org/project/wagtail-admin-files/"
+    },
+    {
+      "name": "easylocai added to PyPI",
+      "url": "https://pypi.org/project/easylocai/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
