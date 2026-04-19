@@ -1,0 +1,111 @@
+{
+  "date": "2026-04-19",
+  "github_trending": [
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "stars": 186312,
+      "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars \u2b50. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex."
+    },
+    {
+      "title": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "stars": 56310,
+      "description": "Open-source orchestration for zero-human companies"
+    },
+    {
+      "title": "badlogic/pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "stars": 37461,
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods"
+    },
+    {
+      "title": "shardeum/shardeum",
+      "url": "https://github.com/shardeum/shardeum",
+      "stars": 31499,
+      "description": "Shardeum is an EVM based autoscaling blockchain"
+    },
+    {
+      "title": "voideditor/void",
+      "url": "https://github.com/voideditor/void",
+      "stars": 28603,
+      "description": null
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Vercel April 2026 security incident",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+      "score": 449
+    },
+    {
+      "title": "The Bromine Chokepoint",
+      "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+      "score": 130
+    },
+    {
+      "title": "2,100 Swiss municipalities showing which provider handles their official email",
+      "url": "https://mxmap.ch/",
+      "score": 21
+    },
+    {
+      "title": "Show HN: Faceoff \u2013 A terminal UI for following NHL games",
+      "url": "https://www.vincentgregoire.com/faceoff/",
+      "score": 86
+    },
+    {
+      "title": "A Brief History of Fish Sauce",
+      "url": "https://www.legalnomads.com/fish-sauce/",
+      "score": 9
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "wherewolf added to PyPI",
+      "url": "https://pypi.org/project/wherewolf/"
+    },
+    {
+      "name": "llmdr added to PyPI",
+      "url": "https://pypi.org/project/llmdr/"
+    },
+    {
+      "name": "mutimon added to PyPI",
+      "url": "https://pypi.org/project/mutimon/"
+    },
+    {
+      "name": "hamnosys added to PyPI",
+      "url": "https://pypi.org/project/hamnosys/"
+    },
+    {
+      "name": "octax added to PyPI",
+      "url": "https://pypi.org/project/octax/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
