@@ -1,0 +1,111 @@
+{
+  "date": "2026-04-22",
+  "github_trending": [
+    {
+      "title": "dindin0497/SeeIt",
+      "url": "https://github.com/dindin0497/SeeIt",
+      "stars": 1552,
+      "description": null
+    },
+    {
+      "title": "gantFDT/icraft",
+      "url": "https://github.com/gantFDT/icraft",
+      "stars": 1262,
+      "description": "iCraft Editor - Help you easily create excellent 3D architecture diagrams"
+    },
+    {
+      "title": "anthdm/superkit",
+      "url": "https://github.com/anthdm/superkit",
+      "stars": 1100,
+      "description": null
+    },
+    {
+      "title": "DeepWism/DeepWism-R2",
+      "url": "https://github.com/DeepWism/DeepWism-R2",
+      "stars": 1017,
+      "description": "DeepWism R2 is a next-generation AGI system built on the T3CEDS framework (Thin-Thick-Thin Crowd Entropy Dynamics System), which redefines intelligence as a process of entropy reduction rather than attention modeling."
+    },
+    {
+      "title": "CyrilFeng/karma",
+      "url": "https://github.com/CyrilFeng/karma",
+      "stars": 1005,
+      "description": "\u65b0\u6570\u636e\u6d1e\u5bdf\u65b9\u5f0f"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "score": 446
+    },
+    {
+      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+      "url": "https://twitter.com/spacex/status/2046713419978453374",
+      "score": 269
+    },
+    {
+      "title": "Windows Server 2025 Runs Better on ARM",
+      "url": "https://jasoneckert.github.io/myblog/server-2025-arm64/",
+      "score": 39
+    },
+    {
+      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "score": 263
+    },
+    {
+      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+      "url": "https://www.brex.com/crabtrap",
+      "score": 79
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "intercept-mcp added to PyPI",
+      "url": "https://pypi.org/project/intercept-mcp/"
+    },
+    {
+      "name": "plain.mcp added to PyPI",
+      "url": "https://pypi.org/project/plain-mcp/"
+    },
+    {
+      "name": "prosperity4t added to PyPI",
+      "url": "https://pypi.org/project/prosperity4t/"
+    },
+    {
+      "name": "ai-pptx-generator added to PyPI",
+      "url": "https://pypi.org/project/ai-pptx-generator/"
+    },
+    {
+      "name": "kimix added to PyPI",
+      "url": "https://pypi.org/project/kimix/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
