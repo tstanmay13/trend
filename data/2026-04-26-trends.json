@@ -1,0 +1,111 @@
+{
+  "date": "2026-04-26",
+  "github_trending": [
+    {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "stars": 364052,
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e "
+    },
+    {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "stars": 188423,
+      "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars \u2b50. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex."
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars": 167838,
+      "description": "An agentic skills framework & software development methodology that works."
+    },
+    {
+      "title": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "stars": 167130,
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond."
+    },
+    {
+      "title": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "stars": 158778,
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
+      "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+      "score": 41
+    },
+    {
+      "title": "Amateur armed with ChatGPT solves an Erd\u0151s problem",
+      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "score": 301
+    },
+    {
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "score": 196
+    },
+    {
+      "title": "Tell HN: An app is silently installing itself on my iPhone every day",
+      "url": "https://news.ycombinator.com/item?id=47906253",
+      "score": 198
+    },
+    {
+      "title": "USB Cheat Sheet (2022)",
+      "url": "https://fabiensanglard.net/usbcheat/index.html",
+      "score": 265
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "rosbag-resurrector added to PyPI",
+      "url": "https://pypi.org/project/rosbag-resurrector/"
+    },
+    {
+      "name": "ayuna-secrets added to PyPI",
+      "url": "https://pypi.org/project/ayuna-secrets/"
+    },
+    {
+      "name": "ayuna-creds added to PyPI",
+      "url": "https://pypi.org/project/ayuna-creds/"
+    },
+    {
+      "name": "ayuna-core added to PyPI",
+      "url": "https://pypi.org/project/ayuna-core/"
+    },
+    {
+      "name": "Topsis-Mahi-102316103 added to PyPI",
+      "url": "https://pypi.org/project/topsis-mahi-102316103/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
