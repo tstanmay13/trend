@@ -1,0 +1,111 @@
+{
+  "date": "2026-05-13",
+  "github_trending": [
+    {
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "stars": 96755,
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables."
+    },
+    {
+      "title": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "stars": 62894,
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows."
+    },
+    {
+      "title": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars": 40172,
+      "description": "Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated regularly."
+    },
+    {
+      "title": "Dokploy/dokploy",
+      "url": "https://github.com/Dokploy/dokploy",
+      "stars": 33956,
+      "description": "Open Source Alternative to Vercel, Netlify and Heroku."
+    },
+    {
+      "title": "hpcaitech/Open-Sora",
+      "url": "https://github.com/hpcaitech/Open-Sora",
+      "stars": 28969,
+      "description": "Open-Sora: Democratizing Efficient Video Production for All"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Setting up a free *.city.state.us locality domain",
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "score": 267
+    },
+    {
+      "title": "Open Source Resistance: keep OSS alive on company time",
+      "url": "https://ossresistance.com/",
+      "score": 124
+    },
+    {
+      "title": "A History of IDEs at Google",
+      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "score": 56
+    },
+    {
+      "title": "Launch HN: Ardent (YC P26) \u2013 Postgres sandboxes in seconds with zero migration",
+      "url": "https://www.tryardent.com/",
+      "score": 22
+    },
+    {
+      "title": "S-100 Virtual Workbench",
+      "url": "https://grantmestrength.github.io/S100/",
+      "score": 49
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "libtorch-neuronx-lite added to PyPI",
+      "url": "https://pypi.org/project/libtorch-neuronx-lite/"
+    },
+    {
+      "name": "scalpel-mcp added to PyPI",
+      "url": "https://pypi.org/project/scalpel-mcp/"
+    },
+    {
+      "name": "cvlabkit added to PyPI",
+      "url": "https://pypi.org/project/cvlabkit/"
+    },
+    {
+      "name": "ravmem-server added to PyPI",
+      "url": "https://pypi.org/project/ravmem-server/"
+    },
+    {
+      "name": "ravmem-cli added to PyPI",
+      "url": "https://pypi.org/project/ravmem-cli/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
