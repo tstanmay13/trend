@@ -1,0 +1,111 @@
+{
+  "date": "2026-05-15",
+  "github_trending": [
+    {
+      "title": "yangchris11/samurai",
+      "url": "https://github.com/yangchris11/samurai",
+      "stars": 7065,
+      "description": "Official repository of \"SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory\""
+    },
+    {
+      "title": "mishushakov/llm-scraper",
+      "url": "https://github.com/mishushakov/llm-scraper",
+      "stars": 6376,
+      "description": "Turn any webpage into structured data using LLMs"
+    },
+    {
+      "title": "landing-ai/vision-agent",
+      "url": "https://github.com/landing-ai/vision-agent",
+      "stars": 5278,
+      "description": "This tool has been deprecated. Use Agentic Document Extraction instead."
+    },
+    {
+      "title": "jaypyles/Scraperr",
+      "url": "https://github.com/jaypyles/Scraperr",
+      "stars": 4891,
+      "description": "Self-hosted webscraper."
+    },
+    {
+      "title": "ericciarla/trendFinder",
+      "url": "https://github.com/ericciarla/trendFinder",
+      "stars": 4010,
+      "description": "Stay on top of trending topics on social media and the web with AI"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "score": 108
+    },
+    {
+      "title": "ASCII by Jason Scott",
+      "url": "https://ascii.textfiles.com/",
+      "score": 49
+    },
+    {
+      "title": "O(x)Caml in Space",
+      "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+      "score": 169
+    },
+    {
+      "title": "Explore Wikipedia Like a Windows XP Desktop",
+      "url": "https://explorer.samismith.com/",
+      "score": 332
+    },
+    {
+      "title": "High dimensional geometry is transforming the MRI industry(2017) [pdf]",
+      "url": "https://www.ams.org/government/DonohoPresentation06-28-17Final.pdf",
+      "score": 39
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "openwuwei added to PyPI",
+      "url": "https://pypi.org/project/openwuwei/"
+    },
+    {
+      "name": "memory-map-mcp added to PyPI",
+      "url": "https://pypi.org/project/memory-map-mcp/"
+    },
+    {
+      "name": "kurmann-schnittprojekt-archivar added to PyPI",
+      "url": "https://pypi.org/project/kurmann-schnittprojekt-archivar/"
+    },
+    {
+      "name": "decryptamp added to PyPI",
+      "url": "https://pypi.org/project/decryptamp/"
+    },
+    {
+      "name": "zotero-kokoro-server added to PyPI",
+      "url": "https://pypi.org/project/zotero-kokoro-server/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
