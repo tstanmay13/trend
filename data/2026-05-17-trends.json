@@ -1,0 +1,111 @@
+{
+  "date": "2026-05-17",
+  "github_trending": [
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "stars": 133935,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls."
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 110842,
+      "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship."
+    },
+    {
+      "title": "RVC-Boss/GPT-SoVITS",
+      "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+      "stars": 57546,
+      "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)"
+    },
+    {
+      "title": "zen-browser/desktop",
+      "url": "https://github.com/zen-browser/desktop",
+      "stars": 42065,
+      "description": "Welcome to a calmer internet"
+    },
+    {
+      "title": "sickn33/antigravity-awesome-skills",
+      "url": "https://github.com/sickn33/antigravity-awesome-skills",
+      "stars": 37830,
+      "description": "Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "GenCAD",
+      "url": "https://gencad.github.io/",
+      "score": 30
+    },
+    {
+      "title": "Prolog Coding Horror",
+      "url": "https://www.metalevel.at/prolog/horror",
+      "score": 43
+    },
+    {
+      "title": "ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations",
+      "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+      "score": 24
+    },
+    {
+      "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+      "url": "https://xca-attacks.github.io/fabricked/",
+      "score": 14
+    },
+    {
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "url": "https://github.com/tech4bot/rk3562deb",
+      "score": 219
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "kvtree added to PyPI",
+      "url": "https://pypi.org/project/kvtree/"
+    },
+    {
+      "name": "nprobust-pkg added to PyPI",
+      "url": "https://pypi.org/project/nprobust-pkg/"
+    },
+    {
+      "name": "ombrachain added to PyPI",
+      "url": "https://pypi.org/project/ombrachain/"
+    },
+    {
+      "name": "makepatch added to PyPI",
+      "url": "https://pypi.org/project/makepatch/"
+    },
+    {
+      "name": "nasa-exoplanet-mcp added to PyPI",
+      "url": "https://pypi.org/project/nasa-exoplanet-mcp/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
