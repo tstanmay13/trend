@@ -1,0 +1,111 @@
+{
+  "date": "2026-05-23",
+  "github_trending": [
+    {
+      "title": "iyaja/llama-fs",
+      "url": "https://github.com/iyaja/llama-fs",
+      "stars": 5728,
+      "description": "A self-organizing file system with llama 3"
+    },
+    {
+      "title": "bpc-clone/bpc_chrome_support",
+      "url": "https://github.com/bpc-clone/bpc_chrome_support",
+      "stars": 5290,
+      "description": null
+    },
+    {
+      "title": "Everlyn-Labs/Everlyn-1",
+      "url": "https://github.com/Everlyn-Labs/Everlyn-1",
+      "stars": 2892,
+      "description": "The first open autoregressive foundational video AI model."
+    },
+    {
+      "title": "yuweihao/MambaOut",
+      "url": "https://github.com/yuweihao/MambaOut",
+      "stars": 2692,
+      "description": "MambaOut: Do We Really Need Mamba for Vision? (CVPR 2025)"
+    },
+    {
+      "title": "jofpin/turbit",
+      "url": "https://github.com/jofpin/turbit",
+      "stars": 2475,
+      "description": "Build applications, scripts, and automations powered by high-performance multicore computing using Node.js"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": ".NET (OK, C#) gets union types",
+      "url": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
+      "score": 99
+    },
+    {
+      "title": "It's time to talk about my writerdeck",
+      "url": "https://veronicaexplains.net/my-first-writerdeck/",
+      "score": 195
+    },
+    {
+      "title": "CA declares state of emergency as fire crews race to contain toxic chemical leak",
+      "url": "https://www.bbc.com/news/articles/c3w2l249j8go",
+      "score": 26
+    },
+    {
+      "title": "My two-part desk setup (2025)",
+      "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
+      "score": 163
+    },
+    {
+      "title": "On The <dl> (2021)",
+      "url": "https://benmyers.dev/blog/on-the-dl/",
+      "score": 325
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "thomaspdf added to PyPI",
+      "url": "https://pypi.org/project/thomaspdf/"
+    },
+    {
+      "name": "chalcedon added to PyPI",
+      "url": "https://pypi.org/project/chalcedon/"
+    },
+    {
+      "name": "wbtc added to PyPI",
+      "url": "https://pypi.org/project/wbtc/"
+    },
+    {
+      "name": "gruff-py added to PyPI",
+      "url": "https://pypi.org/project/gruff-py/"
+    },
+    {
+      "name": "depscope added to PyPI",
+      "url": "https://pypi.org/project/depscope/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
