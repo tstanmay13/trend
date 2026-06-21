@@ -1,0 +1,111 @@
+{
+  "date": "2026-06-21",
+  "github_trending": [
+    {
+      "title": "Everlyn-Labs/Everlyn-1",
+      "url": "https://github.com/Everlyn-Labs/Everlyn-1",
+      "stars": 2892,
+      "description": "The first open autoregressive foundational video AI model."
+    },
+    {
+      "title": "lucidrains/self-rewarding-lm-pytorch",
+      "url": "https://github.com/lucidrains/self-rewarding-lm-pytorch",
+      "stars": 1409,
+      "description": "Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI"
+    },
+    {
+      "title": "maximal/http-267",
+      "url": "https://github.com/maximal/http-267",
+      "stars": 1235,
+      "description": "HTTP 267 Doubtful But Okay"
+    },
+    {
+      "title": "Devin-AXIS/A2V",
+      "url": "https://github.com/Devin-AXIS/A2V",
+      "stars": 1200,
+      "description": "A2V: Next-Gen AI Value Compute Protocol.                                                                                 "
+    },
+    {
+      "title": "easydoc-ai/easydoc",
+      "url": "https://github.com/easydoc-ai/easydoc",
+      "stars": 1115,
+      "description": null
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "url": "https://www.beyondallreason.info",
+      "score": 101
+    },
+    {
+      "title": "The case against geometric algebra (2024)",
+      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+      "score": 63
+    },
+    {
+      "title": "David Ahl's Basic Computer Games Ported to C",
+      "url": "https://github.com/proteanthread/bcg",
+      "score": 18
+    },
+    {
+      "title": "A 3D voxel game engine written in APL",
+      "url": "https://github.com/namgyaaal/avoxelgame",
+      "score": 90
+    },
+    {
+      "title": "Google Hits 50% IPv6",
+      "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+      "score": 228
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "thinkweave added to PyPI",
+      "url": "https://pypi.org/project/thinkweave/"
+    },
+    {
+      "name": "ombala added to PyPI",
+      "url": "https://pypi.org/project/ombala/"
+    },
+    {
+      "name": "tools-of-thought added to PyPI",
+      "url": "https://pypi.org/project/tools-of-thought/"
+    },
+    {
+      "name": "vyyhti added to PyPI",
+      "url": "https://pypi.org/project/vyyhti/"
+    },
+    {
+      "name": "python3-cyberfusion-carbon-txt-server added to PyPI",
+      "url": "https://pypi.org/project/python3-cyberfusion-carbon-txt-server/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
