@@ -1,0 +1,111 @@
+{
+  "date": "2026-07-02",
+  "github_trending": [
+    {
+      "title": "cursor/community-plugins",
+      "url": "https://github.com/cursor/community-plugins",
+      "stars": 3957,
+      "description": "Plugins from the Cursor community"
+    },
+    {
+      "title": "oxylabs/ai-crawler-py",
+      "url": "https://github.com/oxylabs/ai-crawler-py",
+      "stars": 3018,
+      "description": "Crawl a website starting from a URL, find relevant pages, and extract data \u2013 all guided by your natural language prompt."
+    },
+    {
+      "title": "Everlyn-Labs/Everlyn-1",
+      "url": "https://github.com/Everlyn-Labs/Everlyn-1",
+      "stars": 2892,
+      "description": "The first open autoregressive foundational video AI model."
+    },
+    {
+      "title": "NebulaiNetwork/OpenCompute",
+      "url": "https://github.com/NebulaiNetwork/OpenCompute",
+      "stars": 2373,
+      "description": "nebulai's depin computing services"
+    },
+    {
+      "title": "BoCloud/folib",
+      "url": "https://github.com/BoCloud/folib",
+      "stars": 2333,
+      "description": "\u5168\u8bed\u8a00\u5236\u54c1\u4ed3\u5e93\uff0c\u6db5\u76d6npm\u3001Maven\u3001PyPi\u3001Docker\u3001Gradle\u3001SBT\u3001Cocoapods\u3001Swift\u3001RPM\u3001Debian\u3001PHP\u3001Go\u3001Pub\u3001Ivy\u3001NuGet\u3001Conda\u3001Cargo\u3001Conan\u3001Yarn\u3001GitLFS\u3001Helm\u3001OHPM\u7b49\u4e3b\u6d41\u5de5\u5177,\u6db5\u76d6Huggingface\u00a0\u7b49\u4e3b\u6d41AI\u6a21\u578b\u4ed3\u5e93\u7684\u4ee3\u7406\u4e0e\u540c\u6b65"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "ZCode \u2013 Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
+      "score": 339
+    },
+    {
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "score": 179
+    },
+    {
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "score": 32
+    },
+    {
+      "title": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "score": 822
+    },
+    {
+      "title": "Bring back crappy forums",
+      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "score": 162
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "openliturgy added to PyPI",
+      "url": "https://pypi.org/project/openliturgy/"
+    },
+    {
+      "name": "baltamatica-mcp added to PyPI",
+      "url": "https://pypi.org/project/baltamatica-mcp/"
+    },
+    {
+      "name": "studio-mcp added to PyPI",
+      "url": "https://pypi.org/project/studio-mcp/"
+    },
+    {
+      "name": "selectwin added to PyPI",
+      "url": "https://pypi.org/project/selectwin/"
+    },
+    {
+      "name": "dash-mlops added to PyPI",
+      "url": "https://pypi.org/project/dash-mlops/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
