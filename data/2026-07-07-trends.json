@@ -1,0 +1,111 @@
+{
+  "date": "2026-07-07",
+  "github_trending": [
+    {
+      "title": "Snapchat/Valdi",
+      "url": "https://github.com/Snapchat/Valdi",
+      "stars": 16392,
+      "description": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity."
+    },
+    {
+      "title": "QuipNetwork/quip-protocol",
+      "url": "https://github.com/QuipNetwork/quip-protocol",
+      "stars": 11618,
+      "description": "experimental quip protocol network node"
+    },
+    {
+      "title": "karminski/one-small-step",
+      "url": "https://github.com/karminski/one-small-step",
+      "stars": 6961,
+      "description": "\u8fd9\u662f\u4e00\u4e2a\u7b80\u5355\u7684\u6280\u672f\u79d1\u666e\u6559\u7a0b\u9879\u76ee\uff0c\u4e3b\u8981\u805a\u7126\u4e8e\u89e3\u91ca\u4e00\u4e9b\u6709\u8da3\u7684\uff0c\u524d\u6cbf\u7684\u6280\u672f\u6982\u5ff5\u548c\u539f\u7406\u3002\u6bcf\u7bc7\u6587\u7ae0\u90fd\u529b\u6c42\u5728 5 \u5206\u949f\u5185\u9605\u8bfb\u5b8c\u6210\u3002"
+    },
+    {
+      "title": "timescale/pgai",
+      "url": "https://github.com/timescale/pgai",
+      "stars": 5797,
+      "description": "A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL"
+    },
+    {
+      "title": "meltylabs/melty",
+      "url": "https://github.com/meltylabs/melty",
+      "stars": 5439,
+      "description": "Chat first code editor. To download the packaged app:"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "OpenWrt One \u2013 Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "score": 390
+    },
+    {
+      "title": "Fable turned remarkable into Tom Riddle's diary from Harry Potter",
+      "url": "https://github.com/MaximeRivest/Riddle",
+      "score": 40
+    },
+    {
+      "title": "CoMaps \u2013 FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
+      "score": 272
+    },
+    {
+      "title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
+      "score": 30
+    },
+    {
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "score": 90
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "my-calc-lnmr added to PyPI",
+      "url": "https://pypi.org/project/my-calc-lnmr/"
+    },
+    {
+      "name": "experiencestudies added to PyPI",
+      "url": "https://pypi.org/project/experiencestudies/"
+    },
+    {
+      "name": "mixin-logging added to PyPI",
+      "url": "https://pypi.org/project/mixin-logging/"
+    },
+    {
+      "name": "pytest-genai-semconv added to PyPI",
+      "url": "https://pypi.org/project/pytest-genai-semconv/"
+    },
+    {
+      "name": "mixin-sensitivity added to PyPI",
+      "url": "https://pypi.org/project/mixin-sensitivity/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
