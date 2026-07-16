@@ -1,0 +1,111 @@
+{
+  "date": "2026-07-16",
+  "github_trending": [
+    {
+      "title": "camel-ai/owl",
+      "url": "https://github.com/camel-ai/owl",
+      "stars": 19958,
+      "description": "\ud83e\udd89 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation"
+    },
+    {
+      "title": "QuipNetwork/quip-protocol",
+      "url": "https://github.com/QuipNetwork/quip-protocol",
+      "stars": 11613,
+      "description": "experimental quip protocol network node"
+    },
+    {
+      "title": "QuipNetwork/ethereum-sdk",
+      "url": "https://github.com/QuipNetwork/ethereum-sdk",
+      "stars": 11366,
+      "description": null
+    },
+    {
+      "title": "nicobailon/visual-explainer",
+      "url": "https://github.com/nicobailon/visual-explainer",
+      "stars": 9256,
+      "description": "Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps"
+    },
+    {
+      "title": "anthropics/claude-code-action",
+      "url": "https://github.com/anthropics/claude-code-action",
+      "stars": 8367,
+      "description": null
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "OnePlus halts operations in USA and Europe",
+      "url": "https://community.oneplus.com/thread/2170715118587871237",
+      "score": 109
+    },
+    {
+      "title": "The lost joy of music piracy",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "score": 435
+    },
+    {
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "score": 5
+    },
+    {
+      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+      "url": "https://joinedanthropic.com",
+      "score": 101
+    },
+    {
+      "title": "A Beautiful Theory Falls to Ugly Data",
+      "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html",
+      "score": 34
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "aos-agent-health-mcp added to PyPI",
+      "url": "https://pypi.org/project/aos-agent-health-mcp/"
+    },
+    {
+      "name": "pandastrace added to PyPI",
+      "url": "https://pypi.org/project/pandastrace/"
+    },
+    {
+      "name": "maldiassist added to PyPI",
+      "url": "https://pypi.org/project/maldiassist/"
+    },
+    {
+      "name": "dobotkit added to PyPI",
+      "url": "https://pypi.org/project/dobotkit/"
+    },
+    {
+      "name": "claimkit added to PyPI",
+      "url": "https://pypi.org/project/claimkit/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
