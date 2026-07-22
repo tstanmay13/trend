@@ -1,0 +1,111 @@
+{
+  "date": "2026-07-22",
+  "github_trending": [
+    {
+      "title": "Jiayi-Pan/TinyZero",
+      "url": "https://github.com/Jiayi-Pan/TinyZero",
+      "stars": 13197,
+      "description": "Minimal reproduction of DeepSeek R1-Zero"
+    },
+    {
+      "title": "bytebot-ai/bytebot",
+      "url": "https://github.com/bytebot-ai/bytebot",
+      "stars": 11070,
+      "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment."
+    },
+    {
+      "title": "astrid-runtime/sdk-js",
+      "url": "https://github.com/astrid-runtime/sdk-js",
+      "stars": 8187,
+      "description": "JavaScript and TypeScript SDK for building Astrid capsules."
+    },
+    {
+      "title": "ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO",
+      "url": "https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO",
+      "stars": 7685,
+      "description": "\u6211\u7684 ComfyUI \u5de5\u4f5c\u6d41\u5408\u96c6 | My ComfyUI workflows collection"
+    },
+    {
+      "title": "pickle-com/glass",
+      "url": "https://github.com/pickle-com/glass",
+      "stars": 7561,
+      "description": "Digital Mind Extension"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "score": 734
+    },
+    {
+      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "url": "https://fireworks.ai/blog/kimik3-fable",
+      "score": 305
+    },
+    {
+      "title": "FreeInk: Open ecosystem for e-readers",
+      "url": "https://freeink.org/",
+      "score": 416
+    },
+    {
+      "title": "A digestion of the Jacobian conjecture counterexample",
+      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+      "score": 172
+    },
+    {
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "score": 620
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "touchglove added to PyPI",
+      "url": "https://pypi.org/project/touchglove/"
+    },
+    {
+      "name": "aicaller-sdk added to PyPI",
+      "url": "https://pypi.org/project/aicaller-sdk/"
+    },
+    {
+      "name": "sw7d-pymath added to PyPI",
+      "url": "https://pypi.org/project/sw7d-pymath/"
+    },
+    {
+      "name": "edgeproc-core added to PyPI",
+      "url": "https://pypi.org/project/edgeproc-core/"
+    },
+    {
+      "name": "imprintsdk added to PyPI",
+      "url": "https://pypi.org/project/imprintsdk/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
