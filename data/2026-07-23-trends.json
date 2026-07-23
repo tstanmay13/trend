@@ -1,0 +1,111 @@
+{
+  "date": "2026-07-23",
+  "github_trending": [
+    {
+      "title": "astrid-runtime/sdk-js",
+      "url": "https://github.com/astrid-runtime/sdk-js",
+      "stars": 8187,
+      "description": "JavaScript and TypeScript SDK for building Astrid capsules."
+    },
+    {
+      "title": "campsite/campsite",
+      "url": "https://github.com/campsite/campsite",
+      "stars": 4830,
+      "description": "The Campsite monorepo"
+    },
+    {
+      "title": "ragapp/ragapp",
+      "url": "https://github.com/ragapp/ragapp",
+      "stars": 4443,
+      "description": "The easiest way to use Agentic RAG in any enterprise"
+    },
+    {
+      "title": "astrid-runtime/rfcs",
+      "url": "https://github.com/astrid-runtime/rfcs",
+      "stars": 4290,
+      "description": "RFCs for Astrid public contract surfaces."
+    },
+    {
+      "title": "Pimzino/claude-code-spec-workflow",
+      "url": "https://github.com/Pimzino/claude-code-spec-workflow",
+      "stars": 3798,
+      "description": "Automated workflows for Claude Code. Features spec-driven development for new features (Requirements \u2192 Design \u2192 Tasks \u2192 Implementation) and streamlined bug fix workflow for quick issue resolution (Report \u2192 Analyze \u2192 Fix \u2192 Verify)."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "July 23 1985, Commodore introduced its Amiga 1000: 10 years ahead of its time",
+      "url": "https://dfarq.homeip.net/amiga-1000-ten-years-ahead-of-its-time/",
+      "score": 35
+    },
+    {
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "score": 805
+    },
+    {
+      "title": "git's \u2013end-of-options Flag",
+      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "score": 103
+    },
+    {
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "score": 306
+    },
+    {
+      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+      "score": 10
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "odoo-addon-l10n-us-sales-tax-provider-ziptax added to PyPI",
+      "url": "https://pypi.org/project/odoo-addon-l10n-us-sales-tax-provider-ziptax/"
+    },
+    {
+      "name": "pywinauto-core added to PyPI",
+      "url": "https://pypi.org/project/pywinauto-core/"
+    },
+    {
+      "name": "mooncat-browser-client added to PyPI",
+      "url": "https://pypi.org/project/mooncat-browser-client/"
+    },
+    {
+      "name": "gbskernels added to PyPI",
+      "url": "https://pypi.org/project/gbskernels/"
+    },
+    {
+      "name": "agentopy added to PyPI",
+      "url": "https://pypi.org/project/agentopy/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
