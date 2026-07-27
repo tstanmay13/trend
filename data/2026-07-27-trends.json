@@ -1,0 +1,111 @@
+{
+  "date": "2026-07-27",
+  "github_trending": [
+    {
+      "title": "QuipNetwork/cpp-sdk",
+      "url": "https://github.com/QuipNetwork/cpp-sdk",
+      "stars": 11282,
+      "description": null
+    },
+    {
+      "title": "lllyasviel/Omost",
+      "url": "https://github.com/lllyasviel/Omost",
+      "stars": 7608,
+      "description": "Your image is almost there!"
+    },
+    {
+      "title": "run-llama/llama_cloud_services",
+      "url": "https://github.com/run-llama/llama_cloud_services",
+      "stars": 4259,
+      "description": "Knowledge Agents and Management in the Cloud"
+    },
+    {
+      "title": "CrazyBoyM/llama3-Chinese-chat",
+      "url": "https://github.com/CrazyBoyM/llama3-Chinese-chat",
+      "stars": 4147,
+      "description": "Llama3-\u4e2d\u6587\u540e\u8bad\u7ec3\u7248"
+    },
+    {
+      "title": "glasskube/glasskube",
+      "url": "https://github.com/glasskube/glasskube",
+      "stars": 3493,
+      "description": "\ud83e\uddca The next generation Package Manager for Kubernetes \ud83d\udce6 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Watching Go's new garbage collector move through the heap",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "score": 121
+    },
+    {
+      "title": "Launch HN: Rise Reforming (YC S26) \u2013 Turning Waste Gases into Valuable Chemicals",
+      "url": "https://www.rise-reforming.com",
+      "score": 42
+    },
+    {
+      "title": "Self-contained highly-portable Python distributions",
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "score": 73
+    },
+    {
+      "title": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
+      "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
+      "score": 41
+    },
+    {
+      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+      "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
+      "score": 130
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "sqlarec added to PyPI",
+      "url": "https://pypi.org/project/sqlarec/"
+    },
+    {
+      "name": "zeromodel-observation added to PyPI",
+      "url": "https://pypi.org/project/zeromodel-observation/"
+    },
+    {
+      "name": "zeromodel-navigation added to PyPI",
+      "url": "https://pypi.org/project/zeromodel-navigation/"
+    },
+    {
+      "name": "zeromodel-artifacts added to PyPI",
+      "url": "https://pypi.org/project/zeromodel-artifacts/"
+    },
+    {
+      "name": "zeromodel-analysis added to PyPI",
+      "url": "https://pypi.org/project/zeromodel-analysis/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
