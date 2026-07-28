@@ -1,31 +1,62 @@
 {
   "date": "2026-07-28",
-  "github_trending": [],
+  "github_trending": [
+    {
+      "title": "LibreSpark/LibreTV",
+      "url": "https://github.com/LibreSpark/LibreTV",
+      "stars": 13806,
+      "description": "\u4e00\u5206\u949f\u642d\u5efa\u5f71\u89c6\u7ad9\uff0c\u652f\u6301Vercel/Docker\u7b49\u90e8\u7f72\u65b9\u5f0f"
+    },
+    {
+      "title": "QuipNetwork/cpp-sdk",
+      "url": "https://github.com/QuipNetwork/cpp-sdk",
+      "stars": 11282,
+      "description": null
+    },
+    {
+      "title": "QuipNetwork/hashsigs-py",
+      "url": "https://github.com/QuipNetwork/hashsigs-py",
+      "stars": 11204,
+      "description": null
+    },
+    {
+      "title": "KrishKrosh/TrackWeight",
+      "url": "https://github.com/KrishKrosh/TrackWeight",
+      "stars": 9079,
+      "description": "Use your Mac trackpad as a weighing scale"
+    },
+    {
+      "title": "pickle-com/glass",
+      "url": "https://github.com/pickle-com/glass",
+      "stars": 7560,
+      "description": "Digital Mind Extension"
+    }
+  ],
   "hackernews_top": [
     {
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 509
+      "title": "OpenAI just open-sourced Codex Security",
+      "url": "https://github.com/openai/codex-security",
+      "score": 242
     },
     {
-      "title": "Benchmarking Opus 5 on SlopCodeBench",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "score": 152
+      "title": "Half-Life ported to Mac OS 9",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "score": 77
     },
     {
-      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
-      "score": 92
+      "title": "Underwater Oxygen Loss Threatens Earth's Stability, Researchers Warn",
+      "url": "https://scripps.ucsd.edu/news/underwater-oxygen-loss-threatens-earths-stability-researchers-warn",
+      "score": 31
     },
     {
-      "title": "EYG: A Programming Language for Humans",
-      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
-      "score": 8
+      "title": "Substack writers, you need a website",
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "score": 359
     },
     {
-      "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
-      "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
-      "score": 34
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "score": 21
     }
   ],
   "reddit_programming": [],
@@ -53,28 +84,28 @@
   ],
   "pypi_trending": [
     {
-      "name": "Mensajes-yorlight added to PyPI",
-      "url": "https://pypi.org/project/mensajes-yorlight/"
+      "name": "fourdgs added to PyPI",
+      "url": "https://pypi.org/project/fourdgs/"
     },
     {
-      "name": "chromapair added to PyPI",
-      "url": "https://pypi.org/project/chromapair/"
+      "name": "soroushkit added to PyPI",
+      "url": "https://pypi.org/project/soroushkit/"
     },
     {
-      "name": "nefat-socialpulse added to PyPI",
-      "url": "https://pypi.org/project/nefat-socialpulse/"
+      "name": "public-source-extractor added to PyPI",
+      "url": "https://pypi.org/project/public-source-extractor/"
     },
     {
-      "name": "views-baseline added to PyPI",
-      "url": "https://pypi.org/project/views-baseline/"
+      "name": "visbench added to PyPI",
+      "url": "https://pypi.org/project/visbench/"
     },
     {
-      "name": "anthem-rs232 added to PyPI",
-      "url": "https://pypi.org/project/anthem-rs232/"
+      "name": "daft-sources added to PyPI",
+      "url": "https://pypi.org/project/daft-sources/"
     }
   ],
   "summary": {
-    "total_items": 15,
-    "sources_with_data": 3
+    "total_items": 20,
+    "sources_with_data": 4
   }
 }
