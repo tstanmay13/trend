@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-28",
+  "github_trending": [],
+  "hackernews_top": [
+    {
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "score": 509
+    },
+    {
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "score": 152
+    },
+    {
+      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "score": 92
+    },
+    {
+      "title": "EYG: A Programming Language for Humans",
+      "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
+      "score": 8
+    },
+    {
+      "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
+      "url": "https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+      "score": 34
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "Mensajes-yorlight added to PyPI",
+      "url": "https://pypi.org/project/mensajes-yorlight/"
+    },
+    {
+      "name": "chromapair added to PyPI",
+      "url": "https://pypi.org/project/chromapair/"
+    },
+    {
+      "name": "nefat-socialpulse added to PyPI",
+      "url": "https://pypi.org/project/nefat-socialpulse/"
+    },
+    {
+      "name": "views-baseline added to PyPI",
+      "url": "https://pypi.org/project/views-baseline/"
+    },
+    {
+      "name": "anthem-rs232 added to PyPI",
+      "url": "https://pypi.org/project/anthem-rs232/"
+    }
+  ],
+  "summary": {
+    "total_items": 15,
+    "sources_with_data": 3
+  }
+}
