@@ -1,0 +1,111 @@
+{
+  "date": "2026-08-14",
+  "github_trending": [
+    {
+      "title": "QuipNetwork/hashsigs-solidity",
+      "url": "https://github.com/QuipNetwork/hashsigs-solidity",
+      "stars": 11219,
+      "description": "Solidity contracts implementing hash based post quantum signatures"
+    },
+    {
+      "title": "fudan-generative-vision/hallo",
+      "url": "https://github.com/fudan-generative-vision/hallo",
+      "stars": 8659,
+      "description": "Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation"
+    },
+    {
+      "title": "astrid-runtime/book",
+      "url": "https://github.com/astrid-runtime/book",
+      "stars": 7494,
+      "description": "The canonical reference for Astrid: kernel, capsules, host ABI, IPC, and the security model."
+    },
+    {
+      "title": "astrid-runtime/handbook",
+      "url": "https://github.com/astrid-runtime/handbook",
+      "stars": 7437,
+      "description": "Contributor handbook for Astrid: the polyrepo, public contracts, contribution process, and release workflow."
+    },
+    {
+      "title": "electronicarts/CnC_Red_Alert",
+      "url": "https://github.com/electronicarts/CnC_Red_Alert",
+      "stars": 6709,
+      "description": "Command and Conquer: Red Alert"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "score": 746
+    },
+    {
+      "title": "Everything is about to \"go dark\"",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "score": 68
+    },
+    {
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "score": 179
+    },
+    {
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "score": 681
+    },
+    {
+      "title": "What You Gain by Building Your Own Game Engine",
+      "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+      "score": 39
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "ipaapi added to PyPI",
+      "url": "https://pypi.org/project/ipaapi/"
+    },
+    {
+      "name": "superbot-cli added to PyPI",
+      "url": "https://pypi.org/project/superbot-cli/"
+    },
+    {
+      "name": "tooltether added to PyPI",
+      "url": "https://pypi.org/project/tooltether/"
+    },
+    {
+      "name": "lfx-olostep added to PyPI",
+      "url": "https://pypi.org/project/lfx-olostep/"
+    },
+    {
+      "name": "cum-rs added to PyPI",
+      "url": "https://pypi.org/project/cum-rs/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
