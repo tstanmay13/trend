@@ -1,0 +1,111 @@
+{
+  "date": "2026-08-17",
+  "github_trending": [
+    {
+      "title": "QuipNetwork/quip-miner",
+      "url": "https://github.com/QuipNetwork/quip-miner",
+      "stars": 11600,
+      "description": "The quip network mining stack. This includes a coordinator and links all of the official quip network miners."
+    },
+    {
+      "title": "QuipNetwork/ethereum-sdk",
+      "url": "https://github.com/QuipNetwork/ethereum-sdk",
+      "stars": 11351,
+      "description": null
+    },
+    {
+      "title": "QuipNetwork/cpp-sdk",
+      "url": "https://github.com/QuipNetwork/cpp-sdk",
+      "stars": 11271,
+      "description": null
+    },
+    {
+      "title": "QuipNetwork/hashsigs-rs",
+      "url": "https://github.com/QuipNetwork/hashsigs-rs",
+      "stars": 11219,
+      "description": "Hash-based post quantum signatures in Rust"
+    },
+    {
+      "title": "QuipNetwork/hashsigs-solidity",
+      "url": "https://github.com/QuipNetwork/hashsigs-solidity",
+      "stars": 11219,
+      "description": "Solidity contracts implementing hash based post quantum signatures"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "score": 97
+    },
+    {
+      "title": "Incident with Github.com",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "score": 302
+    },
+    {
+      "title": "Show HN: Sokoban AI Solver",
+      "url": "https://mkornreich.me/projects/sokoban/",
+      "score": 21
+    },
+    {
+      "title": "Tell HN: GitHub Is Experiencing Degraded Performance",
+      "url": "https://news.ycombinator.com/item?id=49330597",
+      "score": 75
+    },
+    {
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "score": 650
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "github-activity-generator added to PyPI",
+      "url": "https://pypi.org/project/github-activity-generator/"
+    },
+    {
+      "name": "tea-chay-advisor added to PyPI",
+      "url": "https://pypi.org/project/tea-chay-advisor/"
+    },
+    {
+      "name": "asppy added to PyPI",
+      "url": "https://pypi.org/project/asppy/"
+    },
+    {
+      "name": "harvestguard added to PyPI",
+      "url": "https://pypi.org/project/harvestguard/"
+    },
+    {
+      "name": "vecport added to PyPI",
+      "url": "https://pypi.org/project/vecport/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
