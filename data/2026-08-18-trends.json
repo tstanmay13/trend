@@ -1,0 +1,111 @@
+{
+  "date": "2026-08-18",
+  "github_trending": [
+    {
+      "title": "QuipNetwork/ethereum-sdk",
+      "url": "https://github.com/QuipNetwork/ethereum-sdk",
+      "stars": 11351,
+      "description": null
+    },
+    {
+      "title": "QuipNetwork/hashsigs-ts",
+      "url": "https://github.com/QuipNetwork/hashsigs-ts",
+      "stars": 11202,
+      "description": "Hash-based signatures in typescript, WOTS+"
+    },
+    {
+      "title": "apple/corenet",
+      "url": "https://github.com/apple/corenet",
+      "stars": 7005,
+      "description": "CoreNet: A library for training deep neural networks"
+    },
+    {
+      "title": "Zejun-Yang/AniPortrait",
+      "url": "https://github.com/Zejun-Yang/AniPortrait",
+      "stars": 5019,
+      "description": "AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation"
+    },
+    {
+      "title": "lllyasviel/sd-forge-layerdiffuse",
+      "url": "https://github.com/lllyasviel/sd-forge-layerdiffuse",
+      "stars": 4116,
+      "description": "[WIP] Layer Diffusion for WebUI (via Forge)"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "score": 241
+    },
+    {
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "score": 154
+    },
+    {
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "score": 138
+    },
+    {
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "score": 546
+    },
+    {
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "score": 85
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "velaris-lang added to PyPI",
+      "url": "https://pypi.org/project/velaris-lang/"
+    },
+    {
+      "name": "vcti-shader-derive added to PyPI",
+      "url": "https://pypi.org/project/vcti-shader-derive/"
+    },
+    {
+      "name": "ai-scraping-sdk added to PyPI",
+      "url": "https://pypi.org/project/ai-scraping-sdk/"
+    },
+    {
+      "name": "watchlight-agent-sdk added to PyPI",
+      "url": "https://pypi.org/project/watchlight-agent-sdk/"
+    },
+    {
+      "name": "py-doh-core added to PyPI",
+      "url": "https://pypi.org/project/py-doh-core/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
