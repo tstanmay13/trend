@@ -1,0 +1,111 @@
+{
+  "date": "2026-08-21",
+  "github_trending": [
+    {
+      "title": "danielmiessler/Fabric",
+      "url": "https://github.com/danielmiessler/Fabric",
+      "stars": 43487,
+      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere."
+    },
+    {
+      "title": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "stars": 30311,
+      "description": "CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "title": "huggingface/open-r1",
+      "url": "https://github.com/huggingface/open-r1",
+      "stars": 26438,
+      "description": "Fully open reproduction of DeepSeek-R1"
+    },
+    {
+      "title": "xming521/WeClone",
+      "url": "https://github.com/xming521/WeClone",
+      "stars": 18154,
+      "description": "\ud83d\ude80 One-stop solution for creating your AI twin from chat history \ud83d\udca1 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  "
+    },
+    {
+      "title": "Snapchat/Valdi",
+      "url": "https://github.com/Snapchat/Valdi",
+      "stars": 16386,
+      "description": "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Copyright does not protect AI-generated content in EU",
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "score": 142
+    },
+    {
+      "title": "It is a sign of the times that Amazon gets to call this fair use",
+      "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
+      "score": 93
+    },
+    {
+      "title": "The August 17 outage, and the work ahead",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "score": 351
+    },
+    {
+      "title": "I like 'em thick: an apology to my English teachers",
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "score": 591
+    },
+    {
+      "title": "Consumer Rights Wiki",
+      "url": "https://consumerrights.wiki/w/Main_Page",
+      "score": 242
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "fastapi-license added to PyPI",
+      "url": "https://pypi.org/project/fastapi-license/"
+    },
+    {
+      "name": "mega-db-sync added to PyPI",
+      "url": "https://pypi.org/project/mega-db-sync/"
+    },
+    {
+      "name": "paperlocale added to PyPI",
+      "url": "https://pypi.org/project/paperlocale/"
+    },
+    {
+      "name": "queuevigil added to PyPI",
+      "url": "https://pypi.org/project/queuevigil/"
+    },
+    {
+      "name": "walmart-support added to PyPI",
+      "url": "https://pypi.org/project/walmart-support/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
