@@ -14,49 +14,49 @@
       "description": "LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed."
     },
     {
-      "title": "Codium-ai/AlphaCodium",
-      "url": "https://github.com/Codium-ai/AlphaCodium",
-      "stars": 3965,
-      "description": "Official implementation for the paper: \"Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering\"\""
-    },
-    {
-      "title": "MrForExample/ComfyUI-3D-Pack",
-      "url": "https://github.com/MrForExample/ComfyUI-3D-Pack",
-      "stars": 3850,
-      "description": "An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)"
-    },
-    {
       "title": "glasskube/glasskube",
       "url": "https://github.com/glasskube/glasskube",
       "stars": 3493,
       "description": "\ud83e\uddca The next generation Package Manager for Kubernetes \ud83d\udce6 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository."
+    },
+    {
+      "title": "pmndrs/uikit",
+      "url": "https://github.com/pmndrs/uikit",
+      "stars": 3235,
+      "description": "\ud83c\udfa8 user interfaces for react-three-fiber"
+    },
+    {
+      "title": "Saiyan-World/goku",
+      "url": "https://github.com/Saiyan-World/goku",
+      "stars": 2905,
+      "description": "[CVPR2025 Highlight] Video Generation Foundation Models: https://saiyan-world.github.io/goku/"
     }
   ],
   "hackernews_top": [
     {
-      "title": "Apple introduces M6 and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 1138
+      "title": "Oldinsurancemaps.net is now a Charter Project",
+      "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+      "score": 34
     },
     {
-      "title": "Stalking the Wily Hacker: 40 years later \u2013 Cliff Stoll [video]",
-      "url": "https://www.youtube.com/watch?v=656058JxTM0",
-      "score": 96
-    },
-    {
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "score": 396
+      "title": "RAG Is Simpler Than You Think",
+      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "score": 37
     },
     {
       "title": "Show HN: Buslens \u2013 where can I get to by bus? (UK)",
       "url": "https://rupertlinacre.com/buslens/",
-      "score": 15
+      "score": 31
     },
     {
-      "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 479
+      "title": "Apple introduces M6 and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "score": 1148
+    },
+    {
+      "title": "Stalking the Wily Hacker: 40 years later \u2013 Cliff Stoll [video]",
+      "url": "https://www.youtube.com/watch?v=656058JxTM0",
+      "score": 108
     }
   ],
   "reddit_programming": [],
@@ -84,24 +84,24 @@
   ],
   "pypi_trending": [
     {
-      "name": "stac-pydantic-extensions added to PyPI",
-      "url": "https://pypi.org/project/stac-pydantic-extensions/"
+      "name": "fast-mail-parser-ng added to PyPI",
+      "url": "https://pypi.org/project/fast-mail-parser-ng/"
     },
     {
-      "name": "pyffmpegcore added to PyPI",
-      "url": "https://pypi.org/project/pyffmpegcore/"
+      "name": "distill-mem added to PyPI",
+      "url": "https://pypi.org/project/distill-mem/"
     },
     {
-      "name": "maskflow-cli added to PyPI",
-      "url": "https://pypi.org/project/maskflow-cli/"
+      "name": "mapcraft added to PyPI",
+      "url": "https://pypi.org/project/mapcraft/"
     },
     {
-      "name": "meridian-storage-postgresql added to PyPI",
-      "url": "https://pypi.org/project/meridian-storage-postgresql/"
+      "name": "wbbot added to PyPI",
+      "url": "https://pypi.org/project/wbbot/"
     },
     {
-      "name": "meridian-plugin-observability added to PyPI",
-      "url": "https://pypi.org/project/meridian-plugin-observability/"
+      "name": "wildbot added to PyPI",
+      "url": "https://pypi.org/project/wildbot/"
     }
   ],
   "summary": {
