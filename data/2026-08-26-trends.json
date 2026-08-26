@@ -1,0 +1,111 @@
+{
+  "date": "2026-08-26",
+  "github_trending": [
+    {
+      "title": "astrid-runtime/book",
+      "url": "https://github.com/astrid-runtime/book",
+      "stars": 7467,
+      "description": "The canonical reference for Astrid: kernel, capsules, host ABI, IPC, and the security model."
+    },
+    {
+      "title": "nilsherzig/LLocalSearch",
+      "url": "https://github.com/nilsherzig/LLocalSearch",
+      "stars": 5947,
+      "description": "LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed."
+    },
+    {
+      "title": "Codium-ai/AlphaCodium",
+      "url": "https://github.com/Codium-ai/AlphaCodium",
+      "stars": 3965,
+      "description": "Official implementation for the paper: \"Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering\"\""
+    },
+    {
+      "title": "MrForExample/ComfyUI-3D-Pack",
+      "url": "https://github.com/MrForExample/ComfyUI-3D-Pack",
+      "stars": 3850,
+      "description": "An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)"
+    },
+    {
+      "title": "glasskube/glasskube",
+      "url": "https://github.com/glasskube/glasskube",
+      "stars": 3493,
+      "description": "\ud83e\uddca The next generation Package Manager for Kubernetes \ud83d\udce6 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository."
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Apple introduces M6 and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "score": 1138
+    },
+    {
+      "title": "Stalking the Wily Hacker: 40 years later \u2013 Cliff Stoll [video]",
+      "url": "https://www.youtube.com/watch?v=656058JxTM0",
+      "score": 96
+    },
+    {
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "score": 396
+    },
+    {
+      "title": "Show HN: Buslens \u2013 where can I get to by bus? (UK)",
+      "url": "https://rupertlinacre.com/buslens/",
+      "score": 15
+    },
+    {
+      "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "score": 479
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "stac-pydantic-extensions added to PyPI",
+      "url": "https://pypi.org/project/stac-pydantic-extensions/"
+    },
+    {
+      "name": "pyffmpegcore added to PyPI",
+      "url": "https://pypi.org/project/pyffmpegcore/"
+    },
+    {
+      "name": "maskflow-cli added to PyPI",
+      "url": "https://pypi.org/project/maskflow-cli/"
+    },
+    {
+      "name": "meridian-storage-postgresql added to PyPI",
+      "url": "https://pypi.org/project/meridian-storage-postgresql/"
+    },
+    {
+      "name": "meridian-plugin-observability added to PyPI",
+      "url": "https://pypi.org/project/meridian-plugin-observability/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
