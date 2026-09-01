@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-01",
+  "github_trending": [
+    {
+      "title": "corbt/agent.exe",
+      "url": "https://github.com/corbt/agent.exe",
+      "stars": 3478,
+      "description": null
+    },
+    {
+      "title": "Saiyan-World/goku",
+      "url": "https://github.com/Saiyan-World/goku",
+      "stars": 2905,
+      "description": "[CVPR2025 Highlight] Video Generation Foundation Models: https://saiyan-world.github.io/goku/"
+    },
+    {
+      "title": "aixcoder-plugin/aiXcoder-7B",
+      "url": "https://github.com/aixcoder-plugin/aiXcoder-7B",
+      "stars": 2271,
+      "description": "official repository of aiXcoder-7B Code Large Language Model"
+    },
+    {
+      "title": "WildDataX/suppr-zotero-plugin",
+      "url": "https://github.com/WildDataX/suppr-zotero-plugin",
+      "stars": 2011,
+      "description": "Translate PDF, Word, PowerPoint, etc. | zotero\u7ffb\u8bd1\u63d2\u4ef6\uff0c\u5fae\u4fe1\u626b\u7801\u6ce8\u518c\uff0c\u65b0\u7528\u6237\u53ef\u514d\u8d39\u7ffb\u8bd125\u4e07\u6c49\u5b57\u6216100\u4e07\u4e2a\u82f1\u6587\u5b57\u6bcd\u3002\u8d85\u80fd\u6587\u732e\u5b98\u7f51:suppr.wilddata.cn\uff1b"
+    },
+    {
+      "title": "zanfranceschi/rinha-de-backend-2024-q1",
+      "url": "https://github.com/zanfranceschi/rinha-de-backend-2024-q1",
+      "stars": 1834,
+      "description": "Reposit\u00f3rio da 2\u00aa edi\u00e7\u00e3o da Rinha de Backend"
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "score": 483
+    },
+    {
+      "title": "Run macOS Software on Linux",
+      "url": "https://www.darlinghq.org/",
+      "score": 87
+    },
+    {
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "url": "https://datacolada.org/138",
+      "score": 58
+    },
+    {
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "score": 359
+    },
+    {
+      "title": "Playa Phone",
+      "url": "https://playaphone.com/",
+      "score": 493
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "xout added to PyPI",
+      "url": "https://pypi.org/project/xout/"
+    },
+    {
+      "name": "pynhentai added to PyPI",
+      "url": "https://pypi.org/project/pynhentai/"
+    },
+    {
+      "name": "vinowhisper added to PyPI",
+      "url": "https://pypi.org/project/vinowhisper/"
+    },
+    {
+      "name": "identityresolver-dev added to PyPI",
+      "url": "https://pypi.org/project/identityresolver-dev/"
+    },
+    {
+      "name": "dexpter added to PyPI",
+      "url": "https://pypi.org/project/dexpter/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
