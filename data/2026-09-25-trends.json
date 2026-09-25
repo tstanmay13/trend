@@ -1,0 +1,111 @@
+{
+  "date": "2026-09-25",
+  "github_trending": [
+    {
+      "title": "oxylabs/how-to-scrape-google-images",
+      "url": "https://github.com/oxylabs/how-to-scrape-google-images",
+      "stars": 2117,
+      "description": "Real time google image scraper. The process is automated by sending HTTP requests to retrieve image data which is then parsed and saved. "
+    },
+    {
+      "title": "cambrian-mllm/cambrian",
+      "url": "https://github.com/cambrian-mllm/cambrian",
+      "stars": 2011,
+      "description": "Cambrian-1 is a family of multimodal LLMs with a vision-centric design."
+    },
+    {
+      "title": "dimmas893/kasir",
+      "url": "https://github.com/dimmas893/kasir",
+      "stars": 1956,
+      "description": null
+    },
+    {
+      "title": "MatthiasGrandl/Loungy",
+      "url": "https://github.com/MatthiasGrandl/Loungy",
+      "stars": 1734,
+      "description": "Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast."
+    },
+    {
+      "title": "dindin0497/SeeIt",
+      "url": "https://github.com/dindin0497/SeeIt",
+      "stars": 1540,
+      "description": null
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "url": "https://www.dawo.community/en/",
+      "score": 680
+    },
+    {
+      "title": "Allow Carriers on Planes",
+      "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
+      "score": 56
+    },
+    {
+      "title": "Platform-Independent SIMD in Go",
+      "url": "https://go.dev/blog/simd-experiment",
+      "score": 103
+    },
+    {
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "url": "https://github.com/git-bug/git-bug",
+      "score": 110
+    },
+    {
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "score": 156
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "featherweb added to PyPI",
+      "url": "https://pypi.org/project/featherweb/"
+    },
+    {
+      "name": "genimg added to PyPI",
+      "url": "https://pypi.org/project/genimg/"
+    },
+    {
+      "name": "qiu-hamiltonian-simulation added to PyPI",
+      "url": "https://pypi.org/project/qiu-hamiltonian-simulation/"
+    },
+    {
+      "name": "qiu-quantum-computing added to PyPI",
+      "url": "https://pypi.org/project/qiu-quantum-computing/"
+    },
+    {
+      "name": "qiu-mps-initializer added to PyPI",
+      "url": "https://pypi.org/project/qiu-mps-initializer/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
