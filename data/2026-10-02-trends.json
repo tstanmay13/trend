@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-02",
+  "github_trending": [
+    {
+      "title": "TriliumNext/Notes",
+      "url": "https://github.com/TriliumNext/Notes",
+      "stars": 2926,
+      "description": "Build your personal knowledge base with TriliumNext Notes"
+    },
+    {
+      "title": "Kalabasa/htmz",
+      "url": "https://github.com/Kalabasa/htmz",
+      "stars": 2055,
+      "description": "html with targeted manipulation zones"
+    },
+    {
+      "title": "dindin0497/SeeIt",
+      "url": "https://github.com/dindin0497/SeeIt",
+      "stars": 1540,
+      "description": null
+    },
+    {
+      "title": "Langboat/Mengzi3",
+      "url": "https://github.com/Langboat/Mengzi3",
+      "stars": 1369,
+      "description": null
+    },
+    {
+      "title": "Open-Source-O1/Open-O1",
+      "url": "https://github.com/Open-Source-O1/Open-O1",
+      "stars": 1339,
+      "description": null
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Pi 1.0",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "score": 685
+    },
+    {
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "score": 410
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "score": 26
+    },
+    {
+      "title": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "score": 95
+    },
+    {
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "url": "https://news.ycombinator.com/item?id=49922569",
+      "score": 141
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "pdatum added to PyPI",
+      "url": "https://pypi.org/project/pdatum/"
+    },
+    {
+      "name": "agent-guard-hooks added to PyPI",
+      "url": "https://pypi.org/project/agent-guard-hooks/"
+    },
+    {
+      "name": "edit-guard added to PyPI",
+      "url": "https://pypi.org/project/edit-guard/"
+    },
+    {
+      "name": "rwl added to PyPI",
+      "url": "https://pypi.org/project/rwl/"
+    },
+    {
+      "name": "envarlive added to PyPI",
+      "url": "https://pypi.org/project/envarlive/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
