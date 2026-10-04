@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-04",
+  "github_trending": [
+    {
+      "title": "Kalabasa/htmz",
+      "url": "https://github.com/Kalabasa/htmz",
+      "stars": 2055,
+      "description": "html with targeted manipulation zones"
+    },
+    {
+      "title": "dimmas893/github-runner-organizations",
+      "url": "https://github.com/dimmas893/github-runner-organizations",
+      "stars": 1924,
+      "description": null
+    },
+    {
+      "title": "dindin0497/SeeIt",
+      "url": "https://github.com/dindin0497/SeeIt",
+      "stars": 1540,
+      "description": null
+    },
+    {
+      "title": "Langboat/Mengzi3",
+      "url": "https://github.com/Langboat/Mengzi3",
+      "stars": 1369,
+      "description": null
+    },
+    {
+      "title": "Open-Source-O1/Open-O1",
+      "url": "https://github.com/Open-Source-O1/Open-O1",
+      "stars": 1339,
+      "description": null
+    }
+  ],
+  "hackernews_top": [
+    {
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "url": "https://github.com/Niko1221/Strata",
+      "score": 516
+    },
+    {
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "score": 202
+    },
+    {
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "score": 132
+    },
+    {
+      "title": "A map of every lighthouse",
+      "url": "https://mapped.earth/lighthouses/world",
+      "score": 144
+    },
+    {
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "score": 34
+    }
+  ],
+  "reddit_programming": [],
+  "npm_trending": [
+    {
+      "name": "mongoose",
+      "downloads": "N/A"
+    },
+    {
+      "name": "flatstr",
+      "downloads": "N/A"
+    },
+    {
+      "name": "autoprefixer",
+      "downloads": "N/A"
+    },
+    {
+      "name": "@vscode/web-custom-data",
+      "downloads": "N/A"
+    },
+    {
+      "name": "double-ended-queue",
+      "downloads": "N/A"
+    }
+  ],
+  "pypi_trending": [
+    {
+      "name": "openmeaning added to PyPI",
+      "url": "https://pypi.org/project/openmeaning/"
+    },
+    {
+      "name": "ontology-lookup added to PyPI",
+      "url": "https://pypi.org/project/ontology-lookup/"
+    },
+    {
+      "name": "orthogonal-matching-pursuit-gpu added to PyPI",
+      "url": "https://pypi.org/project/orthogonal-matching-pursuit-gpu/"
+    },
+    {
+      "name": "linkfetch added to PyPI",
+      "url": "https://pypi.org/project/linkfetch/"
+    },
+    {
+      "name": "bankai-fast-mcs added to PyPI",
+      "url": "https://pypi.org/project/bankai-fast-mcs/"
+    }
+  ],
+  "summary": {
+    "total_items": 20,
+    "sources_with_data": 4
+  }
+}
